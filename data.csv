@@ -1,0 +1,4073 @@
+,Unnamed: 0,atom_counts,puckering
+0,0,"{'Ba': 2, 'Sb': 1}",Puckered
+1,1,"{'Tc': 1, 'Te': 2}",Puckered
+2,2,"{'Au': 1, 'Br': 1}",Puckered
+3,3,"{'Ti': 3, 'Se': 2}",Puckered
+4,4,"{'Au': 2, 'Se': 2}",Puckered
+5,5,"{'Al': 2, 'S': 5}",Puckered
+6,6,"{'Li': 6, 'O': 3}",Puckered
+7,7,"{'Al': 2, 'Sb': 6}",Puckered
+8,8,"{'Mo': 3, 'S': 4}",Puckered
+9,9,"{'Sb': 8, 'C': 4}",Puckered
+10,10,"{'B': 2, 'O': 3}",Planar
+11,11,"{'Ga': 2, 'Sb': 6}",Puckered
+12,12,"{'Al': 1, 'I': 1}",Puckered
+13,13,"{'Nd': 4, 'Se': 10}",Puckered
+14,14,"{'Al': 2, 'F': 2}",Puckered
+15,15,"{'Y': 1, 'Si': 3}",Planar
+16,16,"{'Ba': 2, 'As': 1}",Puckered
+17,17,"{'Ga': 1, 'As': 1}",Planar
+18,18,"{'Ti': 1, 'I': 2}",Puckered
+19,19,"{'Hf': 2, 'Pb': 4}",Puckered
+20,20,"{'B': 4, 'Br': 4}",Puckered
+21,21,"{'Ti': 2, 'Pb': 4}",Puckered
+22,22,"{'Al': 2, 'O': 3}",Puckered
+23,23,"{'Tl': 2, 'S': 2}",Puckered
+24,24,"{'Ni': 1, 'Sb': 2}",Puckered
+25,25,"{'Ge': 1, 'Se': 1}",Puckered
+26,26,"{'Ag': 1, 'Cl': 1}",Planar
+27,27,"{'Ag': 1, 'F': 1}",Planar
+28,28,"{'Ge': 1, 'Br': 2}",Puckered
+29,29,"{'Nd': 2, 'Se': 6}",Puckered
+30,30,"{'Si': 1, 'Br': 2}",Puckered
+31,31,"{'In': 1, 'Br': 1}",Puckered
+32,32,"{'Ni': 1, 'P': 2}",Puckered
+33,33,"{'B': 2, 'N': 6}",Puckered
+34,34,"{'B': 1, 'I': 1}",Puckered
+35,35,"{'Rh': 2, 'Pb': 8}",Puckered
+36,36,"{'Ca': 2, 'P': 1}",Puckered
+37,37,"{'Tl': 2, 'Ru': 1}",Puckered
+38,38,"{'Ti': 2, 'Zn': 2}",Puckered
+39,39,"{'P': 4, 'O': 8}",Puckered
+40,40,"{'Zr': 2, 'Br': 6}",Puckered
+41,41,"{'Te': 2, 'C': 2}",Puckered
+42,42,"{'Sc': 2, 'Pb': 1}",Puckered
+43,43,"{'Cu': 4, 'S': 2}",Puckered
+44,44,"{'Sm': 2, 'Se': 6}",Puckered
+45,45,"{'U': 2, 'S': 6}",Puckered
+46,46,"{'Ge': 2, 'Ru': 1}",Puckered
+47,47,"{'Tc': 6, 'I': 18}",Puckered
+48,48,"{'Be': 10, 'Co': 2}",Puckered
+49,49,"{'In': 1, 'I': 1}",Puckered
+50,50,"{'Si': 2, 'Se': 2}",Puckered
+51,51,"{'In': 2, 'O': 1}",Puckered
+52,52,"{'Sr': 10, 'Co': 2}",Puckered
+53,53,"{'Y': 1, 'Pb': 3}",Planar
+54,54,"{'Sn': 6, 'H': 2}",Puckered
+55,55,"{'Ge': 2, 'H': 2}",Puckered
+56,56,"{'Tb': 2, 'Br': 6}",Puckered
+57,57,"{'Si': 1, 'Cl': 2}",Puckered
+58,58,"{'C': 4, 'N': 8}",Puckered
+59,59,"{'Mo': 2, 'F': 6}",Puckered
+60,60,"{'Ge': 4, 'O': 4}",Puckered
+61,61,"{'Mo': 2, 'Se': 4}",Puckered
+62,62,"{'Ga': 8, 'Te': 6}",Puckered
+63,63,"{'Mg': 1, 'Pb': 2}",Puckered
+64,64,"{'U': 2, 'Br': 6}",Puckered
+65,65,"{'Si': 1, 'Te': 1}",Puckered
+66,66,"{'Pb': 2, 'Se': 2}",Puckered
+67,67,"{'Tc': 6, 'Br': 18}",Puckered
+68,68,"{'Zr': 2, 'I': 6}",Puckered
+69,69,"{'Np': 2, 'F': 6}",Puckered
+70,70,"{'C': 1, 'Br': 2}",Puckered
+71,71,"{'Sn': 1, 'Se': 1}",Puckered
+72,72,"{'Ca': 2, 'Au': 2}",Puckered
+73,73,"{'P': 2, 'S': 3}",Puckered
+74,74,"{'Be': 1, 'Pb': 2}",Puckered
+75,75,"{'Mn': 4, 'Se': 8}",Puckered
+76,76,"{'In': 1, 'Cl': 1}",Puckered
+77,77,"{'B': 8, 'Te': 6}",Puckered
+78,78,"{'Sb': 16, 'Br': 4}",Puckered
+79,79,"{'Sr': 2, 'Ir': 1}",Puckered
+80,80,"{'Ti': 2, 'Hg': 2}",Puckered
+81,81,"{'Hf': 2, 'Br': 6}",Puckered
+82,82,"{'Tl': 8, 'Te': 6}",Puckered
+83,83,"{'B': 4, 'As': 20}",Puckered
+84,84,"{'Th': 1, 'Cl': 2}",Puckered
+85,85,"{'Cu': 4, 'Te': 2}",Puckered
+86,86,"{'Ni': 3, 'P': 6}",Puckered
+87,87,"{'Pr': 2, 'Se': 6}",Puckered
+88,88,"{'W': 2, 'Se': 4}",Puckered
+89,89,"{'As': 6, 'C': 2}",Puckered
+90,90,"{'Se': 4, 'Cl': 4}",Puckered
+91,91,"{'Pd': 2, 'S': 2}",Puckered
+92,92,"{'C': 2, 'I': 6}",Puckered
+93,93,"{'Ag': 1, 'Se': 2}",Puckered
+94,94,"{'Sc': 2, 'Si': 1}",Puckered
+95,95,"{'B': 18, 'Te': 9}",Puckered
+96,96,"{'Pd': 1, 'Se': 1}",Puckered
+97,97,"{'Pu': 2, 'Cl': 6}",Puckered
+98,98,"{'B': 2, 'Ru': 1}",Puckered
+99,99,"{'Ti': 3, 'S': 2}",Puckered
+100,100,"{'Tb': 2, 'I': 2}",Puckered
+101,101,"{'Au': 1, 'I': 1}",Planar
+102,102,"{'Tl': 2, 'Os': 1}",Puckered
+103,103,"{'Cu': 2, 'F': 2}",Puckered
+104,104,"{'Mg': 1, 'Ge': 2}",Puckered
+105,105,"{'Ba': 10, 'Co': 2}",Puckered
+106,106,"{'Tb': 2, 'Ge': 1}",Puckered
+107,107,"{'Hf': 2, 'Sn': 4}",Puckered
+108,108,"{'Ce': 2, 'S': 6}",Puckered
+109,109,"{'Cu': 2, 'Cl': 2}",Puckered
+110,110,"{'Ag': 2, 'F': 2}",Puckered
+111,111,"{'U': 2, 'Se': 6}",Puckered
+112,112,"{'Sn': 4, 'As': 8}",Puckered
+113,113,"{'Si': 2, 'S': 2}",Puckered
+114,114,"{'Sn': 1, 'S': 1}",Puckered
+115,115,"{'Ag': 2, 'Se': 2}",Puckered
+116,116,"{'H': 2, 'Pb': 2}",Puckered
+117,117,"{'Tb': 2, 'Si': 1}",Puckered
+118,118,"{'Al': 2, 'S': 2}",Puckered
+119,119,"{'Ga': 1, 'Cl': 1}",Puckered
+120,120,"{'As': 8, 'Pb': 4}",Puckered
+121,121,"{'B': 2, 'Se': 2}",Puckered
+122,122,"{'Ni': 1, 'Se': 1}",Puckered
+123,123,"{'La': 2, 'Si': 1}",Puckered
+124,124,"{'Sn': 1, 'Br': 2}",Puckered
+125,125,"{'Ag': 2, 'F': 2}",Puckered
+126,126,"{'Hf': 2, 'Ag': 2}",Puckered
+127,127,"{'Ge': 4, 'N': 8}",Puckered
+128,128,"{'Re': 4, 'Te': 8}",Puckered
+129,129,"{'Nd': 2, 'F': 6}",Puckered
+130,130,"{'In': 2, 'Ru': 1}",Puckered
+131,131,"{'Ga': 4, 'O': 6}",Puckered
+132,132,"{'In': 4, 'Br': 4}",Puckered
+133,133,"{'B': 4, 'Br': 4}",Puckered
+134,134,"{'Sn': 6, 'As': 6}",Puckered
+135,135,"{'Si': 4, 'Sb': 8}",Puckered
+136,136,"{'Sb': 4, 'O': 8}",Puckered
+137,137,"{'In': 2, 'S': 2}",Puckered
+138,138,"{'Se': 4, 'Br': 4}",Puckered
+139,139,"{'Y': 2, 'Br': 6}",Puckered
+140,140,"{'Al': 18, 'Te': 9}",Puckered
+141,141,"{'Eu': 1, 'P': 2}",Puckered
+142,142,"{'Au': 2, 'F': 2}",Puckered
+143,143,"{'W': 2, 'I': 6}",Puckered
+144,144,"{'Pr': 2, 'S': 6}",Puckered
+145,145,"{'S': 3, 'N': 2}",Puckered
+146,146,"{'Si': 2, 'S': 2}",Puckered
+147,147,"{'B': 2, 'Te': 2}",Puckered
+148,148,"{'Sn': 2, 'N': 6}",Puckered
+149,149,"{'Ti': 1, 'F': 2}",Puckered
+150,150,"{'B': 8, 'S': 6}",Puckered
+151,151,"{'Be': 1, 'Ge': 2}",Puckered
+152,152,"{'U': 2, 'S': 10}",Puckered
+153,153,"{'Al': 2, 'Se': 5}",Puckered
+154,154,"{'Sr': 2, 'Au': 2}",Puckered
+155,155,"{'Mn': 6, 'Br': 18}",Puckered
+156,156,"{'Sn': 2, 'Te': 2}",Puckered
+157,157,"{'As': 8, 'C': 4}",Puckered
+158,158,"{'W': 12, 'I': 24}",Puckered
+159,159,"{'Zr': 2, 'F': 6}",Puckered
+160,160,"{'Si': 4, 'O': 4}",Puckered
+161,161,"{'In': 2, 'Fe': 1}",Puckered
+162,162,"{'Te': 2, 'Pb': 2}",Puckered
+163,163,"{'In': 2, 'Os': 1}",Puckered
+164,164,"{'Ga': 1, 'I': 1}",Puckered
+165,165,"{'P': 2, 'Se': 3}",Puckered
+166,166,"{'Y': 2, 'F': 6}",Puckered
+167,167,"{'Ga': 2, 'Os': 1}",Puckered
+168,168,"{'Y': 2, 'Ge': 1}",Puckered
+169,169,"{'Ag': 2, 'Br': 2}",Puckered
+170,170,"{'Ge': 6, 'Sb': 6}",Puckered
+171,171,"{'Tb': 2, 'F': 6}",Puckered
+172,172,"{'Sb': 2, 'O': 3}",Puckered
+173,173,"{'Pd': 1, 'S': 1}",Puckered
+174,174,"{'Sm': 2, 'S': 6}",Puckered
+175,175,"{'Rh': 4, 'Pb': 12}",Puckered
+176,176,"{'As': 2, 'Pt': 1}",Puckered
+177,177,"{'Si': 4, 'Bi': 8}",Puckered
+178,178,"{'Al': 1, 'Br': 1}",Puckered
+179,179,"{'Nd': 2, 'Cl': 6}",Puckered
+180,180,"{'S': 8, 'O': 18}",Puckered
+181,181,"{'Bi': 4, 'S': 6}",Puckered
+182,182,"{'Pb': 1, 'Se': 1}",Puckered
+183,183,"{'Ga': 2, 'As': 6}",Puckered
+184,184,"{'Sc': 1, 'I': 2}",Puckered
+185,185,"{'W': 3, 'S': 4}",Puckered
+186,186,"{'Ag': 1, 'S': 2}",Puckered
+187,187,"{'Mg': 10, 'Rh': 2}",Puckered
+188,188,"{'Sn': 4, 'O': 4}",Puckered
+189,189,"{'C': 2, 'Se': 2}",Puckered
+190,190,"{'Ti': 2, 'Si': 4}",Puckered
+191,191,"{'Cd': 3, 'F': 6}",Puckered
+192,192,"{'Ga': 8, 'O': 6}",Puckered
+193,193,"{'Ge': 1, 'Cl': 2}",Puckered
+194,194,"{'Ag': 2, 'Cl': 2}",Puckered
+195,195,"{'As': 4, 'S': 6}",Puckered
+196,196,"{'Sb': 18, 'Br': 4}",Puckered
+197,197,"{'Zr': 3, 'S': 2}",Puckered
+198,198,"{'Zr': 2, 'Hg': 2}",Puckered
+199,199,"{'Ti': 2, 'F': 2}",Puckered
+200,200,"{'Dy': 2, 'F': 6}",Puckered
+201,201,"{'W': 2, 'F': 6}",Puckered
+202,202,"{'Ge': 1, 'F': 2}",Puckered
+203,203,"{'Bi': 2, 'F': 6}",Puckered
+204,204,"{'Pd': 2, 'Se': 2}",Puckered
+205,205,"{'Au': 2, 'S': 2}",Puckered
+206,206,"{'Te': 2, 'C': 1}",Puckered
+207,207,"{'Eu': 1, 'Bi': 2}",Puckered
+208,208,"{'Al': 18, 'Te': 9}",Puckered
+209,209,"{'Pu': 2, 'F': 6}",Puckered
+210,210,"{'Zn': 3, 'I': 6}",Puckered
+211,211,"{'Tl': 2, 'Se': 2}",Puckered
+212,212,"{'Ag': 2, 'S': 2}",Puckered
+213,213,"{'Sc': 2, 'Ge': 1}",Puckered
+214,214,"{'Y': 2, 'F': 6}",Puckered
+215,215,"{'Nd': 2, 'S': 6}",Puckered
+216,216,"{'Sn': 2, 'Os': 1}",Puckered
+217,217,"{'W': 3, 'Se': 4}",Puckered
+218,218,"{'Ag': 2, 'Br': 2}",Puckered
+219,219,"{'Zr': 2, 'Zn': 2}",Puckered
+220,220,"{'K': 6, 'O': 3}",Puckered
+221,221,"{'Si': 2, 'Te': 2}",Puckered
+222,222,"{'Sn': 1, 'Te': 1}",Puckered
+223,223,"{'La': 1, 'Ge': 3}",Planar
+224,224,"{'Ga': 2, 'Se': 5}",Puckered
+225,225,"{'Ru': 2, 'Br': 6}",Puckered
+226,226,"{'Y': 1, 'Ge': 3}",Planar
+227,227,"{'Tb': 2, 'Sn': 1}",Puckered
+228,228,"{'B': 4, 'O': 6}",Puckered
+229,229,"{'Sn': 6, 'N': 6}",Puckered
+230,230,"{'Zr': 2, 'Ag': 2}",Puckered
+231,231,"{'Sc': 2, 'Se': 6}",Puckered
+232,232,"{'B': 4, 'Cl': 4}",Puckered
+233,233,"{'Ag': 2, 'Cl': 2}",Puckered
+234,234,"{'In': 18, 'Se': 9}",Puckered
+235,235,"{'Zn': 1, 'F': 2}",Puckered
+236,236,"{'Bi': 8, 'C': 4}",Puckered
+237,237,"{'Au': 4, 'S': 2}",Puckered
+238,238,"{'Sn': 4, 'N': 8}",Puckered
+239,239,"{'Nb': 4, 'S': 2}",Puckered
+240,240,"{'Sc': 2, 'S': 6}",Puckered
+241,241,"{'W': 1, 'O': 3}",Puckered
+242,242,"{'B': 2, 'Se': 5}",Puckered
+243,243,"{'Sb': 8, 'O': 16}",Puckered
+244,244,"{'Eu': 1, 'As': 2}",Puckered
+245,245,"{'W': 2, 'S': 4}",Puckered
+246,246,"{'Si': 12, 'Rh': 4}",Puckered
+247,247,"{'Pb': 2, 'N': 6}",Puckered
+248,248,"{'P': 2, 'Pt': 1}",Puckered
+249,249,"{'Pt': 1, 'N': 2}",Puckered
+250,250,"{'Bi': 2, 'S': 3}",Puckered
+251,251,"{'Ir': 4, 'Pb': 12}",Puckered
+252,252,"{'Si': 2, 'Te': 2}",Puckered
+253,253,"{'P': 8, 'Pb': 4}",Puckered
+254,254,"{'Nb': 4, 'Te': 12}",Puckered
+255,255,"{'Ga': 2, 'O': 1}",Puckered
+256,256,"{'Au': 1, 'F': 1}",Puckered
+257,257,"{'Cr': 2, 'Se': 4}",Puckered
+258,258,"{'Co': 2, 'C': 8}",Puckered
+259,259,"{'Ga': 2, 'Fe': 1}",Puckered
+260,260,"{'Ce': 2, 'Se': 6}",Puckered
+261,261,"{'Sn': 1, 'F': 2}",Puckered
+262,262,"{'Ga': 2, 'Ru': 1}",Puckered
+263,263,"{'As': 2, 'S': 3}",Puckered
+264,264,"{'Au': 2, 'Br': 2}",Puckered
+265,265,"{'Si': 2, 'Se': 2}",Puckered
+266,266,"{'Sn': 1, 'Cl': 2}",Puckered
+267,267,"{'Bi': 6, 'C': 6}",Puckered
+268,268,"{'Sr': 2, 'As': 1}",Puckered
+269,269,"{'Au': 1, 'Cl': 1}",Puckered
+270,270,"{'Ti': 2, 'Cl': 2}",Puckered
+271,271,"{'Al': 2, 'As': 6}",Puckered
+272,272,"{'Ta': 12, 'O': 26}",Puckered
+273,273,"{'Ba': 10, 'Rh': 2}",Puckered
+274,274,"{'U': 2, 'Se': 10}",Puckered
+275,275,"{'Hf': 2, 'Cu': 2}",Puckered
+276,276,"{'Sm': 2, 'I': 6}",Puckered
+277,277,"{'Te': 2, 'C': 2}",Puckered
+278,278,"{'Si': 12, 'Ir': 4}",Puckered
+279,279,"{'Mo': 2, 'I': 6}",Puckered
+280,280,"{'Sn': 2, 'H': 2}",Puckered
+281,281,"{'Sb': 6, 'C': 6}",Puckered
+282,282,"{'Zr': 2, 'Cu': 2}",Puckered
+283,283,"{'Ni': 1, 'S': 1}",Puckered
+284,284,"{'In': 2, 'F': 2}",Puckered
+285,285,"{'Mo': 3, 'Se': 4}",Puckered
+286,286,"{'Tl': 8, 'S': 6}",Puckered
+287,287,"{'Sr': 2, 'P': 1}",Puckered
+288,288,"{'Ru': 2, 'F': 6}",Puckered
+289,289,"{'Y': 2, 'Si': 1}",Puckered
+290,290,"{'Ge': 4, 'Sb': 8}",Puckered
+291,291,"{'Sn': 2, 'As': 6}",Puckered
+292,292,"{'Dy': 2, 'I': 6}",Puckered
+293,293,"{'Sn': 4, 'P': 8}",Puckered
+294,294,"{'Np': 1, 'Cl': 3}",Puckered
+295,295,"{'Tl': 2, 'Fe': 1}",Puckered
+296,296,"{'Se': 4, 'F': 4}",Puckered
+297,297,"{'P': 4, 'S': 6}",Puckered
+298,298,"{'As': 6, 'C': 6}",Puckered
+299,299,"{'Sr': 2, 'Sb': 1}",Puckered
+300,300,"{'U': 2, 'F': 6}",Puckered
+301,301,"{'As': 2, 'Se': 3}",Puckered
+302,302,"{'In': 8, 'O': 6}",Puckered
+303,303,"{'Y': 1, 'I': 2}",Puckered
+304,304,"{'Nb': 4, 'S': 12}",Puckered
+305,305,"{'Ni': 1, 'As': 2}",Puckered
+306,306,"{'Si': 2, 'As': 6}",Puckered
+307,307,"{'Na': 6, 'O': 3}",Puckered
+308,308,"{'Si': 1, 'S': 1}",Puckered
+309,309,"{'Y': 2, 'Cl': 6}",Puckered
+310,310,"{'Sb': 2, 'Se': 3}",Puckered
+311,311,"{'Ge': 2, 'Te': 2}",Puckered
+312,312,"{'Sm': 2, 'Cl': 6}",Puckered
+313,313,"{'P': 8, 'C': 4}",Puckered
+314,314,"{'Te': 1, 'C': 1}",Puckered
+315,315,"{'Sc': 1, 'Cl': 2}",Puckered
+316,316,"{'V': 4, 'Te': 2}",Puckered
+317,317,"{'As': 8, 'O': 16}",Puckered
+318,318,"{'Cu': 1, 'Se': 2}",Puckered
+319,319,"{'Ba': 2, 'Ir': 1}",Puckered
+320,320,"{'Ta': 4, 'Te': 12}",Puckered
+321,321,"{'B': 4, 'Cl': 4}",Puckered
+322,322,"{'Ge': 2, 'Se': 2}",Puckered
+323,323,"{'W': 2, 'Cl': 6}",Puckered
+324,324,"{'Al': 4, 'I': 4}",Puckered
+325,325,"{'Ge': 6, 'N': 6}",Puckered
+326,326,"{'Np': 2, 'Cl': 6}",Puckered
+327,327,"{'Sb': 2, 'Pt': 1}",Puckered
+328,328,"{'Mo': 2, 'S': 4}",Puckered
+329,329,"{'Nb': 4, 'Te': 2}",Puckered
+330,330,"{'V': 4, 'S': 2}",Puckered
+331,331,"{'Tl': 2, 'O': 3}",Planar
+332,332,"{'Si': 12, 'Ni': 4}",Puckered
+333,333,"{'Ge': 2, 'Os': 1}",Puckered
+334,334,"{'B': 4, 'I': 4}",Puckered
+335,335,"{'Ga': 2, 'F': 2}",Puckered
+336,336,"{'Ti': 2, 'I': 2}",Puckered
+337,337,"{'Ga': 1, 'Br': 1}",Puckered
+338,338,"{'In': 4, 'Br': 4}",Puckered
+339,339,"{'Al': 8, 'S': 6}",Puckered
+340,340,"{'Hf': 2, 'F': 2}",Puckered
+341,341,"{'Be': 2, 'Ir': 1}",Puckered
+342,342,"{'Al': 18, 'Se': 9}",Puckered
+343,343,"{'Si': 1, 'Se': 1}",Puckered
+344,344,"{'Ge': 2, 'As': 6}",Puckered
+345,345,"{'Hf': 2, 'Hg': 2}",Puckered
+346,346,"{'Al': 2, 'Se': 2}",Puckered
+347,347,"{'Tb': 2, 'I': 6}",Puckered
+348,348,"{'Y': 2, 'Br': 2}",Puckered
+349,349,"{'Nd': 2, 'I': 6}",Puckered
+350,350,"{'Sr': 10, 'Rh': 2}",Puckered
+351,351,"{'Sm': 2, 'F': 6}",Puckered
+352,352,"{'Tl': 2, 'As': 6}",Puckered
+353,353,"{'Ru': 8, 'Se': 10}",Puckered
+354,354,"{'Al': 8, 'Te': 6}",Puckered
+355,355,"{'Dy': 2, 'Br': 6}",Puckered
+356,356,"{'Nb': 12, 'O': 26}",Puckered
+357,357,"{'In': 18, 'Te': 9}",Puckered
+358,358,"{'Ga': 18, 'Te': 9}",Puckered
+359,359,"{'In': 18, 'Se': 9}",Puckered
+360,360,"{'In': 18, 'Te': 9}",Puckered
+361,361,"{'Ga': 18, 'Te': 9}",Puckered
+362,362,"{'Mn': 6, 'I': 18}",Puckered
+363,363,"{'Ga': 18, 'Se': 9}",Puckered
+364,364,"{'Ni': 2, 'Sn': 8}",Puckered
+365,365,"{'Be': 10, 'Rh': 2}",Puckered
+366,366,"{'Zn': 3, 'Cl': 6}",Puckered
+367,367,"{'Ca': 2, 'Co': 1}",Puckered
+368,368,"{'Pd': 2, 'Pb': 8}",Puckered
+369,369,"{'Co': 2, 'Pb': 8}",Puckered
+370,370,"{'Ge': 12, 'Rh': 4}",Puckered
+371,371,"{'Ga': 8, 'S': 6}",Puckered
+372,372,"{'Al': 2, 'Se': 3}",Planar
+373,373,"{'Au': 4, 'Se': 2}",Puckered
+374,374,"{'Ca': 1, 'Pb': 2}",Puckered
+375,375,"{'Ba': 2, 'Co': 1}",Puckered
+376,376,"{'Mg': 2, 'Zn': 1}",Puckered
+377,377,"{'Y': 1, 'Cl': 2}",Puckered
+378,378,"{'Zn': 3, 'F': 6}",Puckered
+379,379,"{'Ba': 2, 'Bi': 1}",Puckered
+380,380,"{'Hf': 2, 'C': 4}",Puckered
+381,381,"{'In': 1, 'Sb': 1}",Planar
+382,382,"{'Ca': 2, 'Zn': 1}",Puckered
+383,383,"{'Hf': 2, 'Zn': 2}",Puckered
+384,384,"{'Ru': 2, 'I': 6}",Puckered
+385,385,"{'Tl': 1, 'Sb': 1}",Planar
+386,386,"{'Pu': 1, 'I': 3}",Puckered
+387,387,"{'Ga': 4, 'Cl': 4}",Puckered
+388,388,"{'Tb': 2, 'F': 2}",Puckered
+389,389,"{'Sm': 1, 'Sn': 2}",Puckered
+390,390,"{'Cr': 2, 'S': 4}",Puckered
+391,391,"{'Y': 1, 'C': 3}",Planar
+392,392,"{'Ca': 2, 'Ag': 2}",Puckered
+393,393,"{'In': 4, 'Cl': 4}",Puckered
+394,394,"{'Ti': 2, 'Sn': 4}",Puckered
+395,395,"{'Pr': 1, 'Pb': 5}",Puckered
+396,396,"{'Sb': 6, 'C': 2}",Puckered
+397,397,"{'Ti': 2, 'C': 4}",Puckered
+398,398,"{'Ge': 12, 'Ir': 4}",Puckered
+399,399,"{'Tl': 2, 'Bi': 6}",Puckered
+400,400,"{'In': 1, 'Bi': 1}",Planar
+401,401,"{'U': 2, 'Cl': 6}",Puckered
+402,402,"{'In': 1, 'As': 1}",Planar
+403,403,"{'Y': 2, 'F': 2}",Puckered
+404,404,"{'Pt': 4, 'Pb': 12}",Puckered
+405,405,"{'As': 6, 'Pb': 2}",Puckered
+406,406,"{'Ca': 2, 'Cd': 1}",Puckered
+407,407,"{'Ga': 3, 'Co': 1}",Puckered
+408,408,"{'Mg': 2, 'Ag': 2}",Puckered
+409,409,"{'Eu': 1, 'N': 2}",Puckered
+410,410,"{'Ce': 1, 'Pb': 5}",Puckered
+411,411,"{'Be': 2, 'Zn': 1}",Puckered
+412,412,"{'Al': 1, 'Cl': 1}",Puckered
+413,413,"{'Ge': 4, 'P': 8}",Puckered
+414,414,"{'Zr': 3, 'Se': 2}",Puckered
+415,415,"{'Se': 8, 'O': 18}",Puckered
+416,416,"{'B': 4, 'I': 4}",Puckered
+417,417,"{'Sr': 2, 'Bi': 1}",Puckered
+418,418,"{'Cu': 2, 'F': 2}",Puckered
+419,419,"{'Tl': 2, 'Se': 3}",Puckered
+420,420,"{'Ga': 1, 'Sb': 1}",Planar
+421,421,"{'Al': 2, 'O': 1}",Puckered
+422,422,"{'Ca': 1, 'Si': 2}",Puckered
+423,423,"{'Ga': 4, 'I': 4}",Puckered
+424,424,"{'Y': 2, 'Sn': 1}",Puckered
+425,425,"{'Ca': 2, 'As': 1}",Puckered
+426,426,"{'Sr': 1, 'Sn': 2}",Puckered
+427,427,"{'Th': 1, 'F': 2}",Puckered
+428,428,"{'Mg': 2, 'Cd': 1}",Puckered
+429,429,"{'Ce': 1, 'Sn': 5}",Puckered
+430,430,"{'Cu': 2, 'Br': 2}",Puckered
+431,431,"{'Au': 2, 'Br': 2}",Puckered
+432,432,"{'Be': 1, 'Si': 2}",Puckered
+433,433,"{'S': 6, 'N': 4}",Puckered
+434,434,"{'Ce': 1, 'Si': 2}",Puckered
+435,435,"{'Cu': 2, 'I': 2}",Puckered
+436,436,"{'La': 1, 'Si': 3}",Planar
+437,437,"{'Cu': 1, 'F': 1}",Puckered
+438,438,"{'Ga': 1, 'P': 1}",Planar
+439,439,"{'B': 1, 'Br': 1}",Puckered
+440,440,"{'Sb': 8, 'Pb': 4}",Puckered
+441,441,"{'Ba': 2, 'P': 1}",Puckered
+442,442,"{'La': 2, 'Pb': 1}",Puckered
+443,443,"{'Pr': 1, 'Si': 5}",Puckered
+444,444,"{'Tl': 2, 'Sb': 6}",Puckered
+445,445,"{'Zn': 1, 'Cl': 2}",Puckered
+446,446,"{'Al': 4, 'Cl': 4}",Puckered
+447,447,"{'H': 2, 'Pb': 6}",Puckered
+448,448,"{'Ta': 4, 'O': 10}",Puckered
+449,449,"{'Au': 2, 'I': 2}",Puckered
+450,450,"{'Ru': 1, 'Pb': 2}",Puckered
+451,451,"{'Sn': 2, 'Ru': 1}",Puckered
+452,452,"{'Be': 2, 'Ag': 2}",Puckered
+453,453,"{'Bi': 4, 'O': 8}",Puckered
+454,454,"{'Au': 2, 'F': 2}",Puckered
+455,455,"{'Ga': 2, 'Se': 3}",Planar
+456,456,"{'B': 2, 'S': 2}",Puckered
+457,457,"{'Np': 1, 'Br': 3}",Puckered
+458,458,"{'Sr': 2, 'Co': 1}",Puckered
+459,459,"{'Ni': 3, 'N': 6}",Puckered
+460,460,"{'In': 3, 'Co': 1}",Puckered
+461,461,"{'Pd': 2, 'C': 8}",Puckered
+462,462,"{'Ga': 2, 'Bi': 6}",Puckered
+463,463,"{'Tb': 2, 'Pb': 1}",Puckered
+464,464,"{'Y': 1, 'F': 2}",Puckered
+465,465,"{'C': 1, 'S': 1}",Puckered
+466,466,"{'Tl': 2, 'N': 6}",Puckered
+467,467,"{'Al': 1, 'As': 1}",Planar
+468,468,"{'Ce': 1, 'C': 2}",Puckered
+469,469,"{'Bi': 4, 'O': 6}",Puckered
+470,470,"{'Hf': 2, 'Si': 4}",Puckered
+471,471,"{'Ce': 1, 'Sn': 2}",Puckered
+472,472,"{'W': 3, 'O': 8}",Puckered
+473,473,"{'Tl': 3, 'Rh': 1}",Puckered
+474,474,"{'Sr': 2, 'Ag': 2}",Puckered
+475,475,"{'Al': 2, 'N': 6}",Puckered
+476,476,"{'Ga': 3, 'Rh': 1}",Puckered
+477,477,"{'Ca': 1, 'Sn': 2}",Puckered
+478,478,"{'Sr': 2, 'Cd': 1}",Puckered
+479,479,"{'Sn': 6, 'Bi': 6}",Puckered
+480,480,"{'In': 3, 'Rh': 1}",Puckered
+481,481,"{'Be': 2, 'Au': 2}",Puckered
+482,482,"{'Al': 2, 'Bi': 6}",Puckered
+483,483,"{'Cu': 1, 'S': 2}",Puckered
+484,484,"{'Mg': 1, 'Si': 2}",Puckered
+485,485,"{'Sc': 2, 'Sn': 1}",Puckered
+486,486,"{'Ga': 4, 'I': 4}",Puckered
+487,487,"{'In': 4, 'I': 4}",Puckered
+488,488,"{'Mg': 2, 'Au': 2}",Puckered
+489,489,"{'Np': 1, 'I': 3}",Puckered
+490,490,"{'Ga': 1, 'Bi': 1}",Planar
+491,491,"{'B': 1, 'Cl': 1}",Puckered
+492,492,"{'C': 1, 'Se': 1}",Puckered
+493,493,"{'Pr': 1, 'Sn': 5}",Puckered
+494,494,"{'Ge': 4, 'Bi': 8}",Puckered
+495,495,"{'Ga': 2, 'S': 5}",Puckered
+496,496,"{'Th': 1, 'Br': 2}",Puckered
+497,497,"{'Nb': 4, 'O': 10}",Puckered
+498,498,"{'C': 2, 'S': 2}",Puckered
+499,499,"{'Y': 2, 'Pb': 1}",Puckered
+500,500,"{'B': 3, 'Rh': 1}",Puckered
+501,501,"{'Sr': 1, 'Si': 2}",Puckered
+502,502,"{'Sr': 1, 'Pb': 2}",Puckered
+503,503,"{'Nb': 4, 'O': 10}",Puckered
+504,504,"{'Be': 2, 'Co': 1}",Puckered
+505,505,"{'Sr': 2, 'Zn': 1}",Puckered
+506,506,"{'Pr': 1, 'C': 5}",Puckered
+507,507,"{'Nd': 1, 'Pb': 2}",Puckered
+508,508,"{'Tl': 1, 'P': 1}",Planar
+509,509,"{'Bi': 8, 'Pb': 4}",Puckered
+510,510,"{'In': 4, 'I': 4}",Puckered
+511,511,"{'Pd': 1, 'O': 2}",Puckered
+512,512,"{'Ir': 4, 'C': 12}",Puckered
+513,513,"{'B': 2, 'S': 5}",Puckered
+514,514,"{'C': 2, 'Se': 2}",Puckered
+515,515,"{'Ce': 1, 'Pb': 2}",Puckered
+516,516,"{'Eu': 1, 'Pb': 2}",Puckered
+517,517,"{'Ni': 2, 'Pb': 8}",Puckered
+518,518,"{'Be': 1, 'Sn': 2}",Puckered
+519,519,"{'Sn': 4, 'Bi': 8}",Puckered
+520,520,"{'Sc': 1, 'F': 2}",Puckered
+521,521,"{'Mo': 3, 'O': 8}",Puckered
+522,522,"{'Si': 2, 'N': 6}",Puckered
+523,523,"{'Pb': 4, 'N': 8}",Puckered
+524,524,"{'Al': 4, 'Bi': 20}",Puckered
+525,525,"{'Ga': 4, 'Bi': 20}",Puckered
+526,526,"{'Ge': 6, 'Bi': 6}",Puckered
+527,527,"{'In': 4, 'Bi': 20}",Puckered
+528,528,"{'Si': 12, 'Pt': 4}",Puckered
+529,529,"{'Te': 10, 'Ru': 8}",Puckered
+530,530,"{'B': 4, 'Sb': 20}",Puckered
+531,531,"{'In': 4, 'O': 6}",Puckered
+532,532,"{'Al': 4, 'Br': 4}",Puckered
+533,533,"{'Ga': 2, 'N': 6}",Puckered
+534,534,"{'Os': 1, 'Pb': 2}",Puckered
+535,535,"{'Os': 8, 'Se': 10}",Puckered
+536,536,"{'Ge': 6, 'H': 2}",Puckered
+537,537,"{'Eu': 1, 'Sn': 2}",Puckered
+538,538,"{'Bi': 6, 'C': 2}",Puckered
+539,539,"{'Be': 2, 'Cd': 1}",Puckered
+540,540,"{'Sb': 6, 'Pb': 2}",Puckered
+541,541,"{'Tl': 2, 'Te': 3}",Planar
+542,542,"{'Pu': 1, 'Br': 3}",Puckered
+543,543,"{'B': 2, 'As': 6}",Puckered
+544,544,"{'Sn': 2, 'Sb': 6}",Puckered
+545,545,"{'Bi': 6, 'B': 2}",Puckered
+546,546,"{'Sb': 6, 'Pb': 6}",Puckered
+547,547,"{'Bi': 6, 'Pb': 2}",Puckered
+548,548,"{'Pu': 1, 'Cl': 3}",Puckered
+549,549,"{'C': 2, 'N': 6}",Puckered
+550,550,"{'Mg': 10, 'Co': 2}",Puckered
+551,551,"{'Tc': 4, 'Br': 10}",Puckered
+552,552,"{'Si': 2, 'Bi': 6}",Puckered
+553,553,"{'Ta': 4, 'Te': 8}",Puckered
+554,554,"{'Ga': 4, 'Br': 4}",Puckered
+555,555,"{'Sn': 2, 'Bi': 6}",Puckered
+556,556,"{'B': 2, 'Sb': 6}",Puckered
+557,557,"{'Te': 2, 'Au': 4}",Puckered
+558,558,"{'Ni': 1, 'N': 2}",Puckered
+559,559,"{'Ca': 2, 'Ir': 1}",Puckered
+560,560,"{'Ge': 2, 'Bi': 6}",Puckered
+561,561,"{'Cu': 4, 'Se': 2}",Puckered
+562,562,"{'Sn': 6, 'Sb': 6}",Puckered
+563,563,"{'Tl': 3, 'Co': 1}",Puckered
+564,564,"{'Tc': 6, 'F': 18}",Puckered
+565,565,"{'Nb': 4, 'O': 10}",Puckered
+566,566,"{'Mn': 6, 'F': 18}",Puckered
+567,567,"{'Tl': 4, 'O': 6}",Puckered
+568,568,"{'Te': 10, 'Os': 8}",Puckered
+569,569,"{'Ge': 2, 'N': 6}",Puckered
+570,570,"{'In': 2, 'Se': 3}",Planar
+571,571,"{'Si': 2, 'Sb': 6}",Puckered
+572,572,"{'Cu': 1, 'Cl': 1}",Puckered
+573,573,"{'Mg': 2, 'Co': 1}",Puckered
+574,574,"{'Te': 2, 'Pd': 2}",Puckered
+575,575,"{'Mg': 2, 'Ir': 1}",Puckered
+576,576,"{'Sb': 2, 'Pd': 1}",Puckered
+577,577,"{'Ca': 2, 'Rh': 1}",Puckered
+578,578,"{'Au': 2, 'Cl': 2}",Puckered
+579,579,"{'La': 2, 'C': 1}",Puckered
+580,580,"{'Al': 2, 'Fe': 1}",Puckered
+581,581,"{'As': 2, 'Pd': 1}",Puckered
+582,582,"{'Fe': 1, 'Sn': 2}",Puckered
+583,583,"{'V': 4, 'Se': 2}",Puckered
+584,584,"{'Nb': 4, 'Se': 12}",Puckered
+585,585,"{'Tl': 1, 'Cl': 1}",Puckered
+586,586,"{'P': 6, 'C': 6}",Puckered
+587,587,"{'Nb': 4, 'Te': 6}",Puckered
+588,588,"{'Ta': 4, 'Te': 2}",Puckered
+589,589,"{'Ge': 1, 'S': 1}",Puckered
+590,590,"{'Zr': 2, 'Au': 2}",Puckered
+591,591,"{'Ca': 10, 'Co': 2}",Puckered
+592,592,"{'Cr': 3, 'S': 4}",Puckered
+593,593,"{'Si': 6, 'Bi': 6}",Puckered
+594,594,"{'Al': 3, 'Rh': 1}",Puckered
+595,595,"{'Al': 2, 'S': 3}",Planar
+596,596,"{'Ga': 2, 'S': 3}",Planar
+597,597,"{'Ba': 2, 'Ag': 2}",Puckered
+598,598,"{'Cu': 2, 'Br': 2}",Puckered
+599,599,"{'Si': 2, 'P': 6}",Puckered
+600,600,"{'Si': 6, 'Sb': 6}",Puckered
+601,601,"{'Hg': 3, 'Cl': 6}",Puckered
+602,602,"{'Zr': 2, 'C': 4}",Puckered
+603,603,"{'Ba': 2, 'Rh': 1}",Puckered
+604,604,"{'Ba': 2, 'Cd': 1}",Puckered
+605,605,"{'Te': 4, 'Mo': 3}",Puckered
+606,606,"{'Ti': 2, 'Cu': 2}",Puckered
+607,607,"{'Mg': 10, 'Ir': 2}",Puckered
+608,608,"{'Tl': 1, 'N': 1}",Planar
+609,609,"{'Ni': 1, 'Bi': 2}",Puckered
+610,610,"{'Pb': 1, 'Cl': 2}",Puckered
+611,611,"{'Te': 4, 'Br': 4}",Puckered
+612,612,"{'Be': 2, 'Rh': 1}",Puckered
+613,613,"{'In': 2, 'Se': 5}",Puckered
+614,614,"{'Tc': 6, 'Cl': 18}",Puckered
+615,615,"{'Se': 4, 'I': 4}",Puckered
+616,616,"{'Ti': 2, 'Ge': 4}",Puckered
+617,617,"{'Ag': 2, 'F': 2}",Puckered
+618,618,"{'Ta': 4, 'S': 2}",Puckered
+619,619,"{'Tl': 8, 'Se': 6}",Puckered
+620,620,"{'Zr': 3, 'Te': 2}",Puckered
+621,621,"{'Ag': 2, 'I': 2}",Puckered
+622,622,"{'Tl': 18, 'Te': 9}",Puckered
+623,623,"{'Sc': 2, 'Te': 6}",Puckered
+624,624,"{'Ba': 10, 'Ir': 2}",Puckered
+625,625,"{'Be': 10, 'Ir': 2}",Puckered
+626,626,"{'In': 3, 'Ir': 1}",Puckered
+627,627,"{'Re': 6, 'F': 18}",Puckered
+628,628,"{'B': 1, 'F': 1}",Puckered
+629,629,"{'Ga': 2, 'Te': 5}",Puckered
+630,630,"{'In': 1, 'F': 1}",Puckered
+631,631,"{'Ir': 2, 'Pb': 8}",Puckered
+632,632,"{'Ag': 1, 'Br': 1}",Planar
+633,633,"{'Tl': 3, 'Ir': 1}",Puckered
+634,634,"{'Tl': 18, 'Te': 9}",Puckered
+635,635,"{'Ga': 1, 'F': 1}",Puckered
+636,636,"{'P': 2, 'Pd': 1}",Puckered
+637,637,"{'Al': 3, 'Co': 1}",Puckered
+638,638,"{'Sc': 1, 'Si': 3}",Planar
+639,639,"{'Te': 1, 'Pb': 1}",Puckered
+640,640,"{'Pt': 1, 'Se': 1}",Puckered
+641,641,"{'Te': 1, 'Pd': 1}",Puckered
+642,642,"{'In': 8, 'Te': 6}",Puckered
+643,643,"{'Y': 2, 'S': 6}",Puckered
+644,644,"{'Fe': 8, 'Se': 10}",Puckered
+645,645,"{'Hg': 1, 'Cl': 2}",Puckered
+646,646,"{'Tl': 1, 'Br': 1}",Puckered
+647,647,"{'Y': 1, 'Br': 2}",Puckered
+648,648,"{'Al': 8, 'Se': 6}",Puckered
+649,649,"{'Re': 4, 'F': 10}",Puckered
+650,650,"{'Ga': 8, 'Se': 6}",Puckered
+651,651,"{'Tl': 18, 'Se': 9}",Puckered
+652,652,"{'Tl': 4, 'Br': 4}",Puckered
+653,653,"{'Tl': 2, 'Te': 5}",Puckered
+654,654,"{'Ag': 4, 'Te': 2}",Puckered
+655,655,"{'Ni': 2, 'Se': 2}",Puckered
+656,656,"{'Ag': 1, 'Te': 2}",Puckered
+657,657,"{'Ta': 4, 'Te': 12}",Puckered
+658,658,"{'Ti': 2, 'Ag': 2}",Puckered
+659,659,"{'Sr': 2, 'Hg': 1}",Puckered
+660,660,"{'Ga': 4, 'P': 20}",Puckered
+661,661,"{'B': 1, 'As': 1}",Planar
+662,662,"{'B': 2, 'Te': 3}",Planar
+663,663,"{'Sc': 1, 'Br': 2}",Puckered
+664,664,"{'Ru': 8, 'S': 10}",Puckered
+665,665,"{'Mg': 2, 'Hg': 1}",Puckered
+666,666,"{'B': 4, 'P': 20}",Puckered
+667,667,"{'Pt': 1, 'S': 1}",Puckered
+668,668,"{'C': 1, 'I': 2}",Puckered
+669,669,"{'Hf': 2, 'Au': 2}",Puckered
+670,670,"{'Au': 1, 'Se': 2}",Puckered
+671,671,"{'Te': 4, 'W': 3}",Puckered
+672,672,"{'Zr': 2, 'Si': 4}",Puckered
+673,673,"{'Cu': 1, 'I': 1}",Planar
+674,674,"{'Zr': 2, 'Pb': 4}",Puckered
+675,675,"{'Si': 1, 'I': 2}",Puckered
+676,676,"{'Ca': 2, 'Cu': 2}",Puckered
+677,677,"{'Ba': 1, 'C': 2}",Puckered
+678,678,"{'Bi': 2, 'Pt': 1}",Puckered
+679,679,"{'Bi': 16, 'Br': 4}",Puckered
+680,680,"{'Re': 6, 'I': 18}",Puckered
+681,681,"{'Ba': 2, 'Zn': 1}",Puckered
+682,682,"{'Y': 2, 'I': 6}",Puckered
+683,683,"{'Sr': 10, 'Ir': 2}",Puckered
+684,684,"{'Sc': 1, 'Ge': 3}",Planar
+685,685,"{'In': 8, 'S': 6}",Puckered
+686,686,"{'Al': 18, 'S': 9}",Puckered
+687,687,"{'Tl': 1, 'I': 1}",Puckered
+688,688,"{'Ni': 2, 'S': 2}",Puckered
+689,689,"{'Bi': 1, 'B': 1}",Planar
+690,690,"{'Sn': 6, 'P': 6}",Puckered
+691,691,"{'Sb': 16, 'I': 4}",Puckered
+692,692,"{'Ba': 2, 'Au': 2}",Puckered
+693,693,"{'Ga': 4, 'F': 4}",Puckered
+694,694,"{'Y': 2, 'Se': 6}",Puckered
+695,695,"{'Sb': 4, 'Pd': 2}",Puckered
+696,696,"{'Pb': 1, 'F': 2}",Puckered
+697,697,"{'Ca': 2, 'Hg': 1}",Puckered
+698,698,"{'B': 2, 'Se': 3}",Planar
+699,699,"{'Hf': 3, 'Se': 2}",Puckered
+700,700,"{'Be': 2, 'Hg': 1}",Puckered
+701,701,"{'Ga': 3, 'Ir': 1}",Puckered
+702,702,"{'Tl': 2, 'Cl': 2}",Puckered
+703,703,"{'Cu': 2, 'Cl': 2}",Puckered
+704,704,"{'B': 2, 'Te': 5}",Puckered
+705,705,"{'La': 1, 'Sn': 3}",Planar
+706,706,"{'Ni': 1, 'Te': 1}",Puckered
+707,707,"{'Y': 1, 'Sn': 3}",Planar
+708,708,"{'Sb': 18, 'I': 4}",Puckered
+709,709,"{'Nb': 4, 'Se': 2}",Puckered
+710,710,"{'Fe': 1, 'Pb': 2}",Puckered
+711,711,"{'Cu': 2, 'S': 2}",Puckered
+712,712,"{'Si': 6, 'N': 6}",Puckered
+713,713,"{'Te': 4, 'Cl': 4}",Puckered
+714,714,"{'P': 6, 'Pb': 6}",Puckered
+715,715,"{'Fe': 1, 'Ge': 2}",Puckered
+716,716,"{'Cu': 2, 'Cl': 2}",Puckered
+717,717,"{'Sr': 2, 'Rh': 1}",Puckered
+718,718,"{'Zr': 2, 'Sn': 4}",Puckered
+719,719,"{'Mn': 6, 'Cl': 18}",Puckered
+720,720,"{'Sn': 2, 'Te': 2}",Puckered
+721,721,"{'Au': 2, 'I': 2}",Puckered
+722,722,"{'Sc': 1, 'Pb': 3}",Planar
+723,723,"{'V': 4, 'Se': 12}",Puckered
+724,724,"{'B': 1, 'P': 1}",Planar
+725,725,"{'In': 2, 'Bi': 6}",Puckered
+726,726,"{'Bi': 18, 'Br': 4}",Puckered
+727,727,"{'Al': 4, 'F': 4}",Puckered
+728,728,"{'Hg': 3, 'I': 6}",Puckered
+729,729,"{'V': 4, 'Te': 6}",Puckered
+730,730,"{'Cr': 3, 'Se': 4}",Puckered
+731,731,"{'Ga': 18, 'S': 9}",Puckered
+732,732,"{'Ca': 10, 'Rh': 2}",Puckered
+733,733,"{'Al': 2, 'P': 6}",Puckered
+734,734,"{'Ti': 3, 'Te': 2}",Puckered
+735,735,"{'Al': 4, 'P': 20}",Puckered
+736,736,"{'Tl': 2, 'P': 6}",Puckered
+737,737,"{'Tc': 4, 'F': 10}",Puckered
+738,738,"{'B': 8, 'Se': 6}",Puckered
+739,739,"{'Ta': 4, 'S': 12}",Puckered
+740,740,"{'Te': 4, 'F': 4}",Puckered
+741,741,"{'Tl': 4, 'Sb': 20}",Puckered
+742,742,"{'Os': 8, 'S': 10}",Puckered
+743,743,"{'B': 1, 'Sb': 1}",Planar
+744,744,"{'Sn': 4, 'Sb': 8}",Puckered
+745,745,"{'Re': 4, 'I': 10}",Puckered
+746,746,"{'Tl': 18, 'Se': 9}",Puckered
+747,747,"{'Ge': 2, 'Sb': 6}",Puckered
+748,748,"{'Ba': 1, 'Pb': 2}",Puckered
+749,749,"{'Ta': 4, 'O': 10}",Puckered
+750,750,"{'In': 2, 'Sb': 6}",Puckered
+751,751,"{'Mg': 2, 'Cu': 2}",Puckered
+752,752,"{'Al': 1, 'P': 1}",Planar
+753,753,"{'Be': 2, 'Cu': 2}",Puckered
+754,754,"{'Bi': 2, 'B': 2}",Puckered
+755,755,"{'Sn': 12, 'Ir': 4}",Puckered
+756,756,"{'In': 18, 'S': 9}",Puckered
+757,757,"{'Ga': 2, 'P': 6}",Puckered
+758,758,"{'Co': 4, 'Si': 12}",Puckered
+759,759,"{'Mg': 2, 'N': 1}",Puckered
+760,760,"{'Co': 4, 'Pb': 12}",Puckered
+761,761,"{'In': 2, 'As': 6}",Puckered
+762,762,"{'Cu': 2, 'F': 2}",Puckered
+763,763,"{'B': 3, 'Ir': 1}",Puckered
+764,764,"{'P': 6, 'C': 2}",Puckered
+765,765,"{'In': 1, 'N': 1}",Planar
+766,766,"{'Sn': 12, 'Pt': 4}",Puckered
+767,767,"{'Hg': 3, 'F': 6}",Puckered
+768,768,"{'P': 6, 'Pb': 2}",Puckered
+769,769,"{'Tl': 2, 'S': 3}",Planar
+770,770,"{'Se': 6, 'N': 4}",Puckered
+771,771,"{'Co': 4, 'Ge': 12}",Puckered
+772,772,"{'Ge': 12, 'Pd': 4}",Puckered
+773,773,"{'Tl': 4, 'Bi': 20}",Puckered
+774,774,"{'Cr': 2, 'Te': 4}",Puckered
+775,775,"{'V': 4, 'Te': 12}",Puckered
+776,776,"{'Sb': 4, 'O': 6}",Puckered
+777,777,"{'Ni': 2, 'S': 2}",Puckered
+778,778,"{'Ni': 4, 'Pb': 12}",Puckered
+779,779,"{'B': 2, 'P': 6}",Puckered
+780,780,"{'Sn': 12, 'Rh': 4}",Puckered
+781,781,"{'Tc': 4, 'I': 10}",Puckered
+782,782,"{'Sn': 8, 'Rh': 2}",Puckered
+783,783,"{'Co': 2, 'Sn': 8}",Puckered
+784,784,"{'Hf': 3, 'S': 2}",Puckered
+785,785,"{'Si': 12, 'Pd': 4}",Puckered
+786,786,"{'Bi': 6, 'Pb': 6}",Puckered
+787,787,"{'In': 2, 'N': 6}",Puckered
+788,788,"{'Ga': 2, 'Te': 3}",Puckered
+789,789,"{'Si': 4, 'N': 8}",Puckered
+790,790,"{'Pd': 4, 'Pb': 12}",Puckered
+791,791,"{'Au': 1, 'S': 2}",Puckered
+792,792,"{'Ag': 2, 'Br': 2}",Puckered
+793,793,"{'Pt': 2, 'Se': 2}",Puckered
+794,794,"{'Re': 6, 'Br': 18}",Puckered
+795,795,"{'Ni': 4, 'Sn': 12}",Puckered
+796,796,"{'B': 18, 'S': 9}",Puckered
+797,797,"{'Pb': 6, 'N': 8}",Planar
+798,798,"{'In': 18, 'S': 9}",Puckered
+799,799,"{'Pd': 1, 'N': 2}",Puckered
+800,800,"{'Os': 2, 'Cl': 6}",Puckered
+801,801,"{'Tl': 1, 'As': 1}",Planar
+802,802,"{'In': 1, 'P': 1}",Planar
+803,803,"{'La': 1, 'Pb': 3}",Planar
+804,804,"{'Th': 1, 'Si': 2}",Puckered
+805,805,"{'Nd': 1, 'Se': 3}",Planar
+806,806,"{'Hg': 1, 'H': 1}",Puckered
+807,807,"{'P': 2, 'N': 2}",Puckered
+808,808,"{'Ge': 3, 'As': 4}",Puckered
+809,809,"{'Zr': 1, 'Cl': 4}",Puckered
+810,810,"{'Th': 1, 'Pb': 2}",Puckered
+811,811,"{'As': 4, 'C': 3}",Puckered
+812,812,"{'Sb': 2, 'Te': 2}",Puckered
+813,813,"{'Al': 1, 'S': 1}",Puckered
+814,814,"{'Ag': 4, 'Se': 2}",Puckered
+815,815,"{'Al': 2, 'O': 3}",Puckered
+816,816,"{'Ag': 2, 'Se': 4}",Puckered
+817,817,"{'Ce': 2, 'Te': 2}",Puckered
+818,818,"{'B': 1, 'S': 1}",Puckered
+819,819,"{'Cd': 3, 'Cu': 1}",Planar
+820,820,"{'Ag': 4, 'O': 4}",Puckered
+821,821,"{'Ba': 2, 'Bi': 1}",Puckered
+822,822,"{'Pd': 2, 'I': 4}",Puckered
+823,823,"{'Zn': 3, 'Au': 1}",Planar
+824,824,"{'Ti': 1, 'Br': 4}",Puckered
+825,825,"{'Pt': 3, 'S': 4}",Puckered
+826,826,"{'Sn': 2, 'Br': 8}",Puckered
+827,827,"{'Ge': 3, 'W': 1}",Planar
+828,828,"{'Bi': 1, 'Cl': 3}",Puckered
+829,829,"{'Ga': 1, 'Te': 1}",Puckered
+830,830,"{'Rb': 2, 'F': 1}",Puckered
+831,831,"{'V': 1, 'Te': 2}",Puckered
+832,832,"{'Ta': 1, 'Te': 2}",Puckered
+833,833,"{'Bi': 2, 'As': 2}",Puckered
+834,834,"{'B': 4, 'P': 4}",Planar
+835,835,"{'Bi': 4, 'O': 8}",Puckered
+836,836,"{'Sr': 2, 'P': 1}",Puckered
+837,837,"{'P': 2, 'I': 10}",Puckered
+838,838,"{'Sb': 2, 'As': 2}",Puckered
+839,839,"{'Tl': 1, 'Te': 1}",Puckered
+840,840,"{'As': 10, 'Se': 10}",Puckered
+841,841,"{'Bi': 2, 'Sb': 2}",Puckered
+842,842,"{'Sn': 3, 'Mo': 1}",Planar
+843,843,"{'Hf': 1, 'O': 2}",Puckered
+844,844,"{'Si': 1, 'Sn': 1}",Puckered
+845,845,"{'Tl': 1, 'S': 1}",Puckered
+846,846,"{'Sn': 1, 'Pb': 1}",Puckered
+847,847,"{'Pb': 4, 'O': 8}",Puckered
+848,848,"{'Bi': 1, 'Br': 3}",Puckered
+849,849,"{'I': 10, 'N': 2}",Puckered
+850,850,"{'Er': 2, 'S': 6}",Puckered
+851,851,"{'Na': 2, 'Br': 1}",Puckered
+852,852,"{'B': 1, 'Se': 1}",Puckered
+853,853,"{'Mg': 2, 'Bi': 1}",Puckered
+854,854,"{'Si': 4, 'Te': 4}",Puckered
+855,855,"{'Bi': 4, 'O': 8}",Puckered
+856,856,"{'Bi': 2, 'P': 2}",Puckered
+857,857,"{'Zn': 12, 'Se': 12}",Puckered
+858,858,"{'Pb': 3, 'N': 4}",Puckered
+859,859,"{'Pr': 1, 'Te': 3}",Planar
+860,860,"{'I': 3, 'N': 1}",Puckered
+861,861,"{'Zr': 1, 'Br': 4}",Puckered
+862,862,"{'K': 2, 'I': 1}",Puckered
+863,863,"{'Mo': 2, 'As': 2}",Puckered
+864,864,"{'Sb': 1, 'I': 3}",Puckered
+865,865,"{'Te': 10, 'P': 10}",Puckered
+866,866,"{'Al': 4, 'As': 4}",Planar
+867,867,"{'P': 1, 'Pd': 1}",Planar
+868,868,"{'Al': 1, 'Te': 1}",Puckered
+869,869,"{'In': 1, 'Se': 1}",Puckered
+870,870,"{'Cd': 3, 'As': 1}",Planar
+871,871,"{'Ge': 3, 'Bi': 4}",Puckered
+872,872,"{'Bi': 12, 'Te': 12}",Puckered
+873,873,"{'Pt': 1, 'N': 1}",Planar
+874,874,"{'Cd': 3, 'Ag': 1}",Planar
+875,875,"{'Bi': 12, 'Au': 2}",Puckered
+876,876,"{'Ge': 3, 'Sb': 4}",Puckered
+877,877,"{'N': 4, 'O': 6}",Puckered
+878,878,"{'Sn': 3, 'Sb': 4}",Puckered
+879,879,"{'Sb': 1, 'Pd': 1}",Planar
+880,880,"{'Mg': 2, 'Sb': 1}",Puckered
+881,881,"{'Lu': 1, 'Bi': 2}",Puckered
+882,882,"{'Cd': 3, 'Au': 1}",Planar
+883,883,"{'Zr': 1, 'Sb': 2}",Puckered
+884,884,"{'Ta': 4, 'O': 8}",Puckered
+885,885,"{'Ca': 2, 'Sb': 1}",Puckered
+886,886,"{'Pr': 1, 'Se': 3}",Planar
+887,887,"{'Au': 2, 'Se': 4}",Puckered
+888,888,"{'Y': 2, 'Se': 2}",Puckered
+889,889,"{'Rb': 2, 'I': 1}",Puckered
+890,890,"{'Te': 4, 'Au': 2}",Puckered
+891,891,"{'Te': 2, 'Au': 4}",Puckered
+892,892,"{'In': 1, 'S': 1}",Puckered
+893,893,"{'Fe': 3, 'Te': 4}",Puckered
+894,894,"{'Fe': 6, 'Se': 8}",Puckered
+895,895,"{'Te': 8, 'Ru': 4}",Puckered
+896,896,"{'Li': 2, 'I': 1}",Puckered
+897,897,"{'Sn': 4, 'O': 6}",Puckered
+898,898,"{'As': 2, 'Se': 2}",Puckered
+899,899,"{'P': 4, 'O': 8}",Puckered
+900,900,"{'Se': 2, 'N': 2}",Puckered
+901,901,"{'B': 13, 'Sb': 2}",Puckered
+902,902,"{'P': 4, 'Pb': 3}",Puckered
+903,903,"{'In': 4, 'N': 4}",Planar
+904,904,"{'B': 1, 'Te': 1}",Puckered
+905,905,"{'Hg': 12, 'Se': 12}",Puckered
+906,906,"{'As': 2, 'N': 2}",Puckered
+907,907,"{'Ni': 1, 'N': 1}",Planar
+908,908,"{'Be': 2, 'Bi': 1}",Puckered
+909,909,"{'Sb': 2, 'Se': 2}",Puckered
+910,910,"{'Sn': 3, 'W': 1}",Planar
+911,911,"{'Er': 2, 'Se': 6}",Puckered
+912,912,"{'As': 2, 'P': 2}",Puckered
+913,913,"{'Bi': 12, 'Se': 12}",Puckered
+914,914,"{'Ga': 4, 'As': 4}",Planar
+915,915,"{'Sb': 12, 'Au': 2}",Puckered
+916,916,"{'Sr': 2, 'Bi': 1}",Puckered
+917,917,"{'Ba': 2, 'P': 1}",Puckered
+918,918,"{'K': 2, 'Br': 1}",Puckered
+919,919,"{'Sb': 1, 'Cl': 3}",Puckered
+920,920,"{'Bi': 2, 'B': 13}",Puckered
+921,921,"{'Fe': 6, 'Te': 8}",Puckered
+922,922,"{'Ge': 3, 'P': 4}",Puckered
+923,923,"{'S': 1, 'O': 3}",Puckered
+924,924,"{'Al': 4, 'Bi': 4}",Planar
+925,925,"{'Te': 10, 'As': 10}",Puckered
+926,926,"{'Sn': 3, 'Bi': 4}",Puckered
+927,927,"{'Nb': 2, 'O': 5}",Puckered
+928,928,"{'Li': 2, 'Br': 1}",Puckered
+929,929,"{'As': 1, 'Pt': 1}",Planar
+930,930,"{'Hg': 3, 'P': 1}",Planar
+931,931,"{'In': 4, 'P': 4}",Planar
+932,932,"{'Mg': 2, 'P': 1}",Puckered
+933,933,"{'Na': 2, 'F': 1}",Puckered
+934,934,"{'Cr': 2, 'P': 2}",Puckered
+935,935,"{'Pb': 3, 'W': 1}",Planar
+936,936,"{'Ca': 2, 'As': 1}",Puckered
+937,937,"{'Sc': 2, 'Se': 2}",Puckered
+938,938,"{'Os': 4, 'Se': 8}",Puckered
+939,939,"{'Ga': 4, 'Bi': 4}",Planar
+940,940,"{'As': 4, 'O': 8}",Puckered
+941,941,"{'Hf': 1, 'Cl': 4}",Puckered
+942,942,"{'Hf': 6, 'O': 6}",Puckered
+943,943,"{'Sr': 2, 'As': 1}",Puckered
+944,944,"{'Ti': 1, 'Cl': 4}",Puckered
+945,945,"{'P': 1, 'O': 2}",Puckered
+946,946,"{'Si': 3, 'Sb': 4}",Puckered
+947,947,"{'Te': 2, 'N': 2}",Puckered
+948,948,"{'Hf': 1, 'F': 4}",Puckered
+949,949,"{'Cu': 2, 'Te': 4}",Puckered
+950,950,"{'Hg': 12, 'S': 12}",Puckered
+951,951,"{'Zr': 1, 'O': 2}",Puckered
+952,952,"{'P': 1, 'Cl': 3}",Puckered
+953,953,"{'Ga': 1, 'S': 1}",Puckered
+954,954,"{'Os': 6, 'Se': 8}",Puckered
+955,955,"{'Ti': 1, 'I': 4}",Puckered
+956,956,"{'Sc': 2, 'S': 2}",Puckered
+957,957,"{'As': 1, 'Pd': 1}",Planar
+958,958,"{'Ho': 1, 'Bi': 2}",Puckered
+959,959,"{'Zn': 12, 'Se': 12}",Puckered
+960,960,"{'Te': 2, 'P': 2}",Puckered
+961,961,"{'Li': 2, 'Cl': 1}",Puckered
+962,962,"{'Ru': 6, 'S': 8}",Puckered
+963,963,"{'Ag': 4, 'S': 2}",Puckered
+964,964,"{'Ru': 6, 'Se': 8}",Puckered
+965,965,"{'Ge': 4, 'O': 8}",Puckered
+966,966,"{'Sb': 4, 'Pb': 3}",Puckered
+967,967,"{'Pt': 2, 'I': 4}",Puckered
+968,968,"{'Ge': 1, 'Pb': 1}",Puckered
+969,969,"{'Sb': 12, 'Se': 12}",Puckered
+970,970,"{'Te': 4, 'Pd': 3}",Puckered
+971,971,"{'As': 1, 'I': 3}",Puckered
+972,972,"{'Sn': 3, 'As': 4}",Puckered
+973,973,"{'Ag': 4, 'Te': 2}",Puckered
+974,974,"{'Tc': 2, 'O': 4}",Puckered
+975,975,"{'Ag': 2, 'Te': 4}",Puckered
+976,976,"{'Ba': 2, 'N': 1}",Puckered
+977,977,"{'Se': 1, 'O': 3}",Puckered
+978,978,"{'Si': 3, 'As': 4}",Puckered
+979,979,"{'Au': 2, 'S': 4}",Puckered
+980,980,"{'Sb': 10, 'Te': 10}",Puckered
+981,981,"{'Tc': 4, 'O': 14}",Puckered
+982,982,"{'As': 10, 'S': 10}",Puckered
+983,983,"{'Te': 2, 'As': 2}",Puckered
+984,984,"{'Te': 8, 'Os': 6}",Puckered
+985,985,"{'Te': 8, 'Os': 4}",Puckered
+986,986,"{'Cu': 4, 'S': 2}",Puckered
+987,987,"{'Cd': 3, 'P': 1}",Planar
+988,988,"{'Os': 1, 'O': 2}",Puckered
+989,989,"{'Ho': 1, 'Se': 1}",Puckered
+990,990,"{'Ho': 1, 'Te': 1}",Puckered
+991,991,"{'Al': 4, 'Sb': 4}",Planar
+992,992,"{'Ta': 1, 'O': 2}",Puckered
+993,993,"{'Ce': 2, 'Se': 2}",Puckered
+994,994,"{'P': 1, 'Br': 3}",Puckered
+995,995,"{'Si': 1, 'Ge': 1}",Puckered
+996,996,"{'Si': 3, 'W': 1}",Planar
+997,997,"{'Si': 1, 'Pb': 1}",Puckered
+998,998,"{'As': 8, 'O': 12}",Puckered
+999,999,"{'Bi': 2, 'Te': 2}",Puckered
+1000,1000,"{'Au': 4, 'Se': 2}",Puckered
+1001,1001,"{'Ni': 1, 'P': 1}",Planar
+1002,1002,"{'Ta': 1, 'Te': 2}",Puckered
+1003,1003,"{'Pd': 3, 'S': 4}",Puckered
+1004,1004,"{'Hf': 1, 'I': 4}",Puckered
+1005,1005,"{'In': 2, 'O': 3}",Puckered
+1006,1006,"{'Cd': 3, 'Bi': 1}",Planar
+1007,1007,"{'B': 4, 'Sb': 4}",Planar
+1008,1008,"{'Th': 1, 'C': 2}",Puckered
+1009,1009,"{'As': 1, 'O': 2}",Puckered
+1010,1010,"{'Cu': 1, 'Hg': 3}",Planar
+1011,1011,"{'Ge': 3, 'Mo': 1}",Planar
+1012,1012,"{'Mo': 1, 'Pb': 3}",Planar
+1013,1013,"{'Au': 4, 'O': 4}",Puckered
+1014,1014,"{'Cd': 1, 'H': 1}",Puckered
+1015,1015,"{'Hg': 3, 'Bi': 1}",Planar
+1016,1016,"{'Y': 2, 'Te': 2}",Puckered
+1017,1017,"{'Cr': 1, 'Si': 3}",Planar
+1018,1018,"{'Ti': 1, 'F': 4}",Puckered
+1019,1019,"{'Ti': 1, 'Te': 2}",Puckered
+1020,1020,"{'N': 1, 'Cl': 3}",Puckered
+1021,1021,"{'Cu': 4, 'Se': 2}",Puckered
+1022,1022,"{'Sm': 2, 'Te': 2}",Puckered
+1023,1023,"{'As': 2, 'S': 2}",Puckered
+1024,1024,"{'Pt': 3, 'Se': 4}",Puckered
+1025,1025,"{'Bi': 4, 'C': 3}",Puckered
+1026,1026,"{'Cr': 1, 'Ge': 3}",Planar
+1027,1027,"{'Si': 3, 'Bi': 4}",Puckered
+1028,1028,"{'Ag': 1, 'Hg': 3}",Planar
+1029,1029,"{'Bi': 8, 'O': 12}",Puckered
+1030,1030,"{'Nd': 1, 'Te': 3}",Planar
+1031,1031,"{'Hg': 12, 'S': 12}",Puckered
+1032,1032,"{'Sc': 2, 'Te': 2}",Puckered
+1033,1033,"{'Be': 3, 'Cl': 6}",Puckered
+1034,1034,"{'P': 4, 'O': 6}",Puckered
+1035,1035,"{'Sm': 2, 'Se': 2}",Puckered
+1036,1036,"{'Nb': 1, 'Te': 2}",Puckered
+1037,1037,"{'S': 2, 'N': 2}",Puckered
+1038,1038,"{'In': 4, 'As': 4}",Planar
+1039,1039,"{'Ga': 4, 'Sb': 4}",Planar
+1040,1040,"{'Sb': 1, 'F': 3}",Puckered
+1041,1041,"{'Cd': 12, 'S': 12}",Puckered
+1042,1042,"{'K': 2, 'Cl': 1}",Puckered
+1043,1043,"{'Be': 2, 'Sb': 1}",Puckered
+1044,1044,"{'Ca': 2, 'Bi': 1}",Puckered
+1045,1045,"{'As': 1, 'Cl': 3}",Puckered
+1046,1046,"{'Cu': 2, 'Se': 4}",Puckered
+1047,1047,"{'As': 1, 'F': 3}",Puckered
+1048,1048,"{'Ba': 2, 'Sb': 1}",Puckered
+1049,1049,"{'P': 2, 'Se': 2}",Puckered
+1050,1050,"{'Bi': 1, 'I': 3}",Puckered
+1051,1051,"{'Cr': 2, 'As': 2}",Puckered
+1052,1052,"{'Mo': 2, 'P': 2}",Puckered
+1053,1053,"{'Sr': 2, 'N': 1}",Puckered
+1054,1054,"{'Bi': 4, 'O': 6}",Puckered
+1055,1055,"{'Be': 2, 'As': 1}",Puckered
+1056,1056,"{'Sn': 1, 'C': 1}",Puckered
+1057,1057,"{'Re': 2, 'O': 4}",Puckered
+1058,1058,"{'Ru': 1, 'O': 2}",Puckered
+1059,1059,"{'Ca': 2, 'P': 1}",Puckered
+1060,1060,"{'Cr': 2, 'N': 2}",Puckered
+1061,1061,"{'As': 4, 'O': 6}",Puckered
+1062,1062,"{'Cd': 3, 'Sb': 1}",Planar
+1063,1063,"{'S': 10, 'N': 10}",Puckered
+1064,1064,"{'Bi': 2, 'N': 2}",Puckered
+1065,1065,"{'Ba': 2, 'As': 1}",Puckered
+1066,1066,"{'Sb': 12, 'Te': 12}",Puckered
+1067,1067,"{'In': 1, 'Te': 1}",Puckered
+1068,1068,"{'As': 4, 'Pb': 3}",Puckered
+1069,1069,"{'Au': 2, 'N': 12}",Puckered
+1070,1070,"{'Ni': 1, 'As': 1}",Planar
+1071,1071,"{'Tl': 4, 'As': 4}",Planar
+1072,1072,"{'Ru': 4, 'Se': 8}",Puckered
+1073,1073,"{'Bi': 10, 'Se': 10}",Puckered
+1074,1074,"{'K': 2, 'F': 1}",Puckered
+1075,1075,"{'Br': 10, 'N': 2}",Puckered
+1076,1076,"{'Sb': 10, 'Se': 10}",Puckered
+1077,1077,"{'Cd': 12, 'Se': 12}",Puckered
+1078,1078,"{'Hf': 1, 'Br': 4}",Puckered
+1079,1079,"{'Ca': 2, 'N': 1}",Puckered
+1080,1080,"{'Se': 3, 'O': 9}",Puckered
+1081,1081,"{'Ag': 2, 'N': 12}",Puckered
+1082,1082,"{'Zn': 12, 'Te': 12}",Puckered
+1083,1083,"{'Sn': 3, 'N': 4}",Puckered
+1084,1084,"{'Al': 4, 'Sb': 4}",Puckered
+1085,1085,"{'Tl': 1, 'Se': 1}",Puckered
+1086,1086,"{'Cd': 12, 'S': 12}",Puckered
+1087,1087,"{'Cd': 12, 'Se': 12}",Puckered
+1088,1088,"{'Au': 4, 'S': 2}",Puckered
+1089,1089,"{'Th': 1, 'Sn': 2}",Puckered
+1090,1090,"{'Si': 4, 'O': 8}",Puckered
+1091,1091,"{'Ga': 4, 'N': 4}",Planar
+1092,1092,"{'Sr': 2, 'Sb': 1}",Puckered
+1093,1093,"{'Pt': 2, 'F': 4}",Puckered
+1094,1094,"{'P': 10, 'S': 10}",Puckered
+1095,1095,"{'Al': 4, 'N': 4}",Planar
+1096,1096,"{'Na': 2, 'I': 1}",Puckered
+1097,1097,"{'Ga': 4, 'P': 4}",Planar
+1098,1098,"{'Bi': 4, 'B': 4}",Planar
+1099,1099,"{'N': 1, 'O': 2}",Puckered
+1100,1100,"{'P': 2, 'S': 2}",Puckered
+1101,1101,"{'Bi': 1, 'O': 2}",Puckered
+1102,1102,"{'Sb': 2, 'P': 2}",Puckered
+1103,1103,"{'Te': 12, 'As': 12}",Puckered
+1104,1104,"{'V': 2, 'O': 5}",Puckered
+1105,1105,"{'In': 4, 'Bi': 4}",Planar
+1106,1106,"{'Al': 1, 'Se': 1}",Puckered
+1107,1107,"{'Sb': 10, 'S': 10}",Puckered
+1108,1108,"{'Tl': 4, 'N': 4}",Planar
+1109,1109,"{'Rb': 2, 'Cl': 1}",Puckered
+1110,1110,"{'Cr': 1, 'Pb': 3}",Planar
+1111,1111,"{'In': 4, 'Sb': 4}",Planar
+1112,1112,"{'As': 12, 'Au': 2}",Puckered
+1113,1113,"{'Cr': 1, 'Sn': 3}",Planar
+1114,1114,"{'Cd': 12, 'Te': 12}",Puckered
+1115,1115,"{'Tl': 4, 'Bi': 4}",Planar
+1116,1116,"{'Pd': 2, 'Br': 4}",Puckered
+1117,1117,"{'P': 12, 'Au': 2}",Puckered
+1118,1118,"{'Pb': 2, 'Br': 8}",Puckered
+1119,1119,"{'V': 2, 'I': 10}",Puckered
+1120,1120,"{'Be': 2, 'N': 1}",Puckered
+1121,1121,"{'Os': 6, 'S': 8}",Puckered
+1122,1122,"{'V': 1, 'Se': 2}",Puckered
+1123,1123,"{'Ca': 3, 'Br': 6}",Puckered
+1124,1124,"{'P': 8, 'O': 12}",Puckered
+1125,1125,"{'Te': 8, 'Ru': 6}",Puckered
+1126,1126,"{'Tl': 4, 'P': 4}",Planar
+1127,1127,"{'As': 12, 'Se': 12}",Puckered
+1128,1128,"{'Zn': 12, 'Te': 12}",Puckered
+1129,1129,"{'As': 1, 'Br': 3}",Puckered
+1130,1130,"{'Si': 1, 'C': 1}",Planar
+1131,1131,"{'Hf': 1, 'Te': 2}",Puckered
+1132,1132,"{'P': 1, 'I': 3}",Puckered
+1133,1133,"{'Rb': 2, 'Br': 1}",Puckered
+1134,1134,"{'As': 2, 'W': 2}",Puckered
+1135,1135,"{'Ni': 1, 'Bi': 1}",Planar
+1136,1136,"{'Zn': 3, 'Cu': 1}",Puckered
+1137,1137,"{'Os': 3, 'Se': 4}",Puckered
+1138,1138,"{'Ru': 3, 'Se': 4}",Puckered
+1139,1139,"{'Sn': 2, 'I': 8}",Puckered
+1140,1140,"{'B': 13, 'N': 2}",Puckered
+1141,1141,"{'W': 3, 'O': 8}",Puckered
+1142,1142,"{'Mo': 1, 'I': 5}",Puckered
+1143,1143,"{'Ga': 13, 'N': 2}",Puckered
+1144,1144,"{'Ca': 3, 'F': 6}",Puckered
+1145,1145,"{'Sb': 1, 'Br': 3}",Puckered
+1146,1146,"{'Hf': 1, 'Bi': 2}",Puckered
+1147,1147,"{'Bi': 1, 'Pt': 1}",Planar
+1148,1148,"{'Ta': 8, 'O': 18}",Puckered
+1149,1149,"{'Mg': 2, 'N': 1}",Puckered
+1150,1150,"{'P': 4, 'O': 8}",Puckered
+1151,1151,"{'In': 6, 'O': 9}",Puckered
+1152,1152,"{'Bi': 1, 'Pd': 1}",Planar
+1153,1153,"{'Zn': 3, 'Ag': 1}",Planar
+1154,1154,"{'Zn': 3, 'N': 1}",Planar
+1155,1155,"{'Zr': 1, 'Bi': 2}",Puckered
+1156,1156,"{'Pb': 2, 'I': 8}",Puckered
+1157,1157,"{'Zn': 3, 'Sb': 1}",Planar
+1158,1158,"{'Cr': 2, 'I': 10}",Puckered
+1159,1159,"{'Sr': 3, 'I': 6}",Puckered
+1160,1160,"{'Hf': 1, 'Sb': 2}",Puckered
+1161,1161,"{'Mo': 3, 'O': 8}",Puckered
+1162,1162,"{'B': 13, 'As': 2}",Puckered
+1163,1163,"{'Yb': 2, 'F': 6}",Puckered
+1164,1164,"{'V': 1, 'Te': 2}",Puckered
+1165,1165,"{'V': 1, 'Se': 2}",Puckered
+1166,1166,"{'Zr': 6, 'O': 6}",Puckered
+1167,1167,"{'Mg': 3, 'I': 6}",Puckered
+1168,1168,"{'Ge': 3, 'N': 4}",Puckered
+1169,1169,"{'Ge': 1, 'C': 1}",Planar
+1170,1170,"{'Zn': 3, 'As': 1}",Planar
+1171,1171,"{'Yb': 2, 'I': 6}",Puckered
+1172,1172,"{'Cd': 12, 'Te': 12}",Puckered
+1173,1173,"{'Ni': 2, 'C': 8}",Puckered
+1174,1174,"{'Cd': 3, 'N': 1}",Planar
+1175,1175,"{'Ta': 6, 'Co': 18}",Puckered
+1176,1176,"{'Ta': 6, 'Rh': 18}",Puckered
+1177,1177,"{'Ga': 6, 'O': 9}",Puckered
+1178,1178,"{'Tl': 4, 'Sb': 4}",Planar
+1179,1179,"{'Bi': 10, 'Te': 10}",Puckered
+1180,1180,"{'V': 6, 'Ir': 18}",Puckered
+1181,1181,"{'Bi': 12, 'O': 24}",Puckered
+1182,1182,"{'Ta': 6, 'Ir': 18}",Puckered
+1183,1183,"{'Sr': 3, 'Cl': 6}",Puckered
+1184,1184,"{'Zn': 3, 'P': 1}",Planar
+1185,1185,"{'Zn': 3, 'Bi': 1}",Planar
+1186,1186,"{'C': 4, 'S': 4}",Puckered
+1187,1187,"{'P': 1, 'Pt': 1}",Planar
+1188,1188,"{'Li': 2, 'F': 1}",Puckered
+1189,1189,"{'Pb': 1, 'C': 1}",Puckered
+1190,1190,"{'Ni': 1, 'Sb': 1}",Planar
+1191,1191,"{'Nb': 8, 'O': 18}",Puckered
+1192,1192,"{'Cr': 2, 'Sb': 2}",Puckered
+1193,1193,"{'V': 1, 'I': 5}",Puckered
+1194,1194,"{'Se': 12, 'N': 12}",Puckered
+1195,1195,"{'Hg': 12, 'Te': 12}",Puckered
+1196,1196,"{'Al': 13, 'Sb': 2}",Puckered
+1197,1197,"{'Nb': 1, 'Te': 2}",Puckered
+1198,1198,"{'Sb': 1, 'Pt': 1}",Planar
+1199,1199,"{'Hg': 12, 'Se': 12}",Puckered
+1200,1200,"{'Hg': 12, 'Te': 12}",Puckered
+1201,1201,"{'Ti': 1, 'Bi': 2}",Puckered
+1202,1202,"{'Si': 6, 'Sb': 8}",Puckered
+1203,1203,"{'V': 6, 'Rh': 18}",Puckered
+1204,1204,"{'Ba': 3, 'Cl': 6}",Puckered
+1205,1205,"{'Pb': 4, 'O': 10}",Puckered
+1206,1206,"{'In': 2, 'S': 2}",Puckered
+1207,1207,"{'Al': 2, 'Br': 2}",Puckered
+1208,1208,"{'Ga': 4, 'O': 6}",Puckered
+1209,1209,"{'Be': 4, 'Bi': 2}",Puckered
+1210,1210,"{'Ca': 4, 'Sb': 2}",Puckered
+1211,1211,"{'Sr': 4, 'Sb': 2}",Puckered
+1212,1212,"{'Be': 4, 'Sb': 2}",Puckered
+1213,1213,"{'Ga': 2, 'Te': 2}",Puckered
+1214,1214,"{'B': 4, 'O': 6}",Puckered
+1215,1215,"{'In': 4, 'O': 6}",Puckered
+1216,1216,"{'Tl': 2, 'Te': 2}",Puckered
+1217,1217,"{'In': 2, 'Te': 2}",Puckered
+1218,1218,"{'Ba': 4, 'Sb': 2}",Puckered
+1219,1219,"{'B': 2, 'Cl': 2}",Puckered
+1220,1220,"{'Sr': 4, 'As': 2}",Puckered
+1221,1221,"{'B': 2, 'Te': 2}",Puckered
+1222,1222,"{'Al': 2, 'Te': 2}",Puckered
+1223,1223,"{'Mg': 4, 'Bi': 2}",Puckered
+1224,1224,"{'Al': 2, 'F': 2}",Puckered
+1225,1225,"{'Ba': 4, 'As': 2}",Puckered
+1226,1226,"{'Sr': 4, 'P': 2}",Puckered
+1227,1227,"{'Tl': 2, 'Se': 2}",Puckered
+1228,1228,"{'Tl': 2, 'S': 2}",Puckered
+1229,1229,"{'Mg': 4, 'P': 2}",Puckered
+1230,1230,"{'Ca': 4, 'As': 2}",Puckered
+1231,1231,"{'Ca': 4, 'N': 2}",Puckered
+1232,1232,"{'B': 2, 'Se': 2}",Puckered
+1233,1233,"{'Ga': 2, 'S': 2}",Puckered
+1234,1234,"{'Mg': 4, 'N': 2}",Puckered
+1235,1235,"{'Ba': 4, 'N': 2}",Puckered
+1236,1236,"{'In': 2, 'Se': 2}",Puckered
+1237,1237,"{'Be': 4, 'P': 2}",Puckered
+1238,1238,"{'Al': 2, 'Cl': 2}",Puckered
+1239,1239,"{'Al': 2, 'Se': 2}",Puckered
+1240,1240,"{'Al': 2, 'S': 2}",Puckered
+1241,1241,"{'Al': 4, 'O': 6}",Puckered
+1242,1242,"{'B': 2, 'S': 2}",Puckered
+1243,1243,"{'Be': 4, 'As': 2}",Puckered
+1244,1244,"{'B': 2, 'Br': 2}",Puckered
+1245,1245,"{'Mg': 4, 'Sb': 2}",Puckered
+1246,1246,"{'B': 2, 'I': 2}",Puckered
+1247,1247,"{'Sr': 4, 'N': 2}",Puckered
+1248,1248,"{'Be': 4, 'N': 2}",Puckered
+1249,1249,"{'B': 2, 'F': 2}",Puckered
+1250,1250,"{'Ca': 4, 'P': 2}",Puckered
+1251,1251,"{'Ba': 4, 'Bi': 2}",Puckered
+1252,1252,"{'Ca': 4, 'Bi': 2}",Puckered
+1253,1253,"{'Ba': 4, 'P': 2}",Puckered
+1254,1254,"{'Sr': 4, 'Bi': 2}",Puckered
+1255,1255,"{'C': 3, 'N': 1}",Planar
+1256,1256,"{'Ga': 1, 'N': 1}",Planar
+1257,1257,"{'Li': 2, 'B': 2}",Planar
+1258,1258,{'Ga': 2},Puckered
+1259,1259,"{'Sb': 2, 'Te': 3}",Puckered
+1260,1260,"{'Dy': 2, 'C': 1}",Puckered
+1261,1261,"{'Hg': 1, 'Br': 1, 'N': 1}",Puckered
+1262,1262,"{'Li': 2, 'Mg': 2}",Puckered
+1263,1263,"{'Al': 2, 'Zn': 2, 'S': 5}",Puckered
+1264,1264,"{'V': 1, 'Te': 2}",Puckered
+1265,1265,"{'H': 6, 'W': 2}",Puckered
+1266,1266,"{'Tm': 2, 'Te': 6}",Puckered
+1267,1267,"{'Ti': 2, 'H': 2, 'O': 3}",Puckered
+1268,1268,"{'Ti': 2, 'Se': 2}",Puckered
+1269,1269,"{'Tb': 2, 'Te': 6}",Puckered
+1270,1270,"{'Dy': 1, 'Sb': 2}",Puckered
+1271,1271,"{'Si': 2, 'Ni': 2, 'Sb': 2}",Puckered
+1272,1272,"{'Ca': 2, 'Co': 2, 'Si': 2}",Puckered
+1273,1273,"{'Ca': 1, 'Si': 3, 'Ir': 1}",Puckered
+1274,1274,"{'Ca': 2, 'Co': 1, 'O': 3}",Puckered
+1275,1275,"{'Zn': 2, 'Ga': 2, 'S': 5}",Puckered
+1276,1276,"{'Bi': 2, 'S': 2}",Puckered
+1277,1277,"{'Pb': 1, 'S': 1}",Puckered
+1278,1278,"{'S': 2, 'N': 2}",Puckered
+1279,1279,"{'Mg': 2, 'Sn': 1}",Planar
+1280,1280,"{'Co': 1, 'O': 2}",Puckered
+1281,1281,"{'Mn': 1, 'H': 1, 'O': 2}",Puckered
+1282,1282,"{'Nb': 1, 'S': 2}",Puckered
+1283,1283,{'P': 10},Puckered
+1284,1284,"{'Y': 2, 'Mg': 4}",Puckered
+1285,1285,"{'Al': 3, 'Ru': 2}",Puckered
+1286,1286,"{'Tb': 2, 'Mg': 2, 'Ni': 2}",Puckered
+1287,1287,"{'Zn': 3, 'Ga': 2, 'S': 6}",Puckered
+1288,1288,"{'Rb': 1, 'Mg': 6, 'B': 1, 'O': 7}",Puckered
+1289,1289,"{'Al': 2, 'Zn': 2, 'S': 5}",Puckered
+1290,1290,"{'Ir': 2, 'C': 4}",Puckered
+1291,1291,"{'Na': 1, 'Mn': 1, 'Se': 2}",Puckered
+1292,1292,"{'Nb': 3, 'Te': 6}",Puckered
+1293,1293,"{'Hf': 1, 'Ta': 1, 'N': 1, 'O': 3}",Puckered
+1294,1294,"{'Sr': 2, 'Mg': 4}",Puckered
+1295,1295,"{'Ho': 2, 'Co': 2, 'Ge': 4}",Puckered
+1296,1296,"{'Ho': 1, 'Cu': 2, 'S': 2}",Puckered
+1297,1297,"{'Mg': 2, 'Bi': 4}",Puckered
+1298,1298,"{'Fe': 2, 'H': 2, 'O': 4}",Puckered
+1299,1299,{'Ga': 1},Planar
+1300,1300,{'P': 2},Puckered
+1301,1301,"{'Ca': 1, 'Fe': 1, 'S': 1, 'O': 1}",Puckered
+1302,1302,"{'Pb': 2, 'S': 2}",Puckered
+1303,1303,"{'Ti': 1, 'Zn': 1, 'Bi': 2, 'O': 6}",Puckered
+1304,1304,"{'Ce': 2, 'I': 6}",Puckered
+1305,1305,"{'Pd': 1, 'N': 2}",Planar
+1306,1306,"{'Te': 2, 'W': 1}",Puckered
+1307,1307,"{'Li': 2, 'Mg': 4}",Puckered
+1308,1308,"{'U': 4, 'S': 2}",Puckered
+1309,1309,"{'Mg': 3, 'Bi': 3}",Puckered
+1310,1310,{'Sb': 1},Planar
+1311,1311,"{'Nb': 2, 'Cu': 1, 'S': 4}",Puckered
+1312,1312,"{'Lu': 1, 'Pb': 2}",Puckered
+1313,1313,"{'La': 1, 'Te': 3}",Puckered
+1314,1314,"{'Nd': 1, 'B': 4}",Planar
+1315,1315,"{'Si': 4, 'S': 8}",Puckered
+1316,1316,"{'Mg': 1, 'Br': 2, 'O': 6}",Puckered
+1317,1317,"{'U': 2, 'S': 6}",Puckered
+1318,1318,"{'Zn': 2, 'Sn': 2, 'O': 6}",Puckered
+1319,1319,"{'Np': 2, 'Se': 6}",Puckered
+1320,1320,"{'Pr': 2, 'Te': 6}",Puckered
+1321,1321,"{'Tb': 1, 'Cu': 2, 'S': 2}",Puckered
+1322,1322,"{'Nd': 1, 'Al': 3, 'Cu': 1}",Puckered
+1323,1323,"{'Mg': 4, 'Sn': 2}",Puckered
+1324,1324,"{'Ca': 2, 'Mg': 4}",Puckered
+1325,1325,"{'Pb': 2, 'Se': 2}",Puckered
+1326,1326,"{'Zn': 1, 'Re': 2, 'O': 8}",Puckered
+1327,1327,"{'Zn': 2, 'Ga': 2, 'S': 5}",Puckered
+1328,1328,"{'Cr': 1, 'Te': 4, 'Au': 1}",Puckered
+1329,1329,"{'Mg': 6, 'B': 1, 'C': 1}",Puckered
+1330,1330,"{'Co': 1, 'O': 2}",Puckered
+1331,1331,"{'C': 2, 'N': 4}",Puckered
+1332,1332,"{'Dy': 2, 'Te': 6}",Puckered
+1333,1333,"{'Zn': 2, 'Ga': 2, 'S': 5}",Puckered
+1334,1334,"{'Nb': 1, 'S': 2}",Puckered
+1335,1335,"{'Cd': 2, 'N': 2, 'Cl': 6}",Puckered
+1336,1336,"{'Zr': 4, 'Sn': 4}",Puckered
+1337,1337,"{'Al': 1, 'N': 1}",Planar
+1338,1338,"{'Ni': 1, 'H': 1, 'O': 2}",Puckered
+1339,1339,"{'Er': 2, 'Ni': 2, 'Ge': 4}",Puckered
+1340,1340,"{'B': 13, 'P': 2}",Puckered
+1341,1341,"{'Rb': 1, 'Hf': 1, 'Mg': 6, 'O': 7}",Puckered
+1342,1342,"{'Pb': 4, 'S': 4}",Puckered
+1343,1343,"{'Fe': 2, 'O': 4}",Puckered
+1344,1344,"{'La': 2, 'Cl': 2, 'O': 4}",Puckered
+1345,1345,{'Ge': 2},Puckered
+1346,1346,"{'Hg': 2, 'N': 2, 'Cl': 2}",Puckered
+1347,1347,"{'Y': 2, 'Zn': 2, 'P': 2, 'O': 2}",Puckered
+1348,1348,"{'Li': 2, 'Be': 2}",Puckered
+1349,1349,"{'Ga': 2, 'Te': 2}",Puckered
+1350,1350,"{'B': 1, 'Pt': 2}",Puckered
+1351,1351,"{'Pt': 1, 'N': 2, 'O': 6}",Puckered
+1352,1352,{'B': 1},Planar
+1353,1353,"{'Ni': 1, 'Cl': 2, 'O': 6}",Puckered
+1354,1354,"{'Mg': 2, 'Sb': 4}",Puckered
+1355,1355,"{'V': 3, 'Te': 6}",Puckered
+1356,1356,"{'Cu': 2, 'W': 1, 'Se': 4}",Puckered
+1357,1357,"{'Re': 2, 'N': 4}",Puckered
+1358,1358,"{'La': 2, 'Bi': 2, 'Se': 4, 'O': 2}",Puckered
+1359,1359,"{'Ta': 2, 'Al': 2, 'O': 8}",Puckered
+1360,1360,"{'Sn': 2, 'P': 2, 'S': 6}",Puckered
+1361,1361,"{'Na': 4, 'Cl': 2}",Puckered
+1362,1362,"{'Sr': 1, 'Mg': 2}",Puckered
+1363,1363,"{'Co': 1, 'Si': 2, 'Se': 4}",Puckered
+1364,1364,"{'Mg': 3, 'C': 1}",Puckered
+1365,1365,"{'Li': 2, 'Tl': 2}",Puckered
+1366,1366,"{'Tl': 2, 'Cu': 1, 'F': 4}",Puckered
+1367,1367,"{'Mg': 1, 'Cu': 1, 'O': 2}",Puckered
+1368,1368,{'Se': 2},Puckered
+1369,1369,"{'Mg': 2, 'Sb': 4}",Puckered
+1370,1370,"{'Zn': 4, 'Ge': 4, 'N': 8}",Puckered
+1371,1371,"{'Mg': 5, 'Ti': 1}",Puckered
+1372,1372,"{'Mg': 2, 'Ti': 1}",Puckered
+1373,1373,"{'Dy': 2, 'Te': 6}",Puckered
+1374,1374,"{'Sb': 2, 'S': 2}",Puckered
+1375,1375,"{'Mg': 2, 'Ti': 4}",Puckered
+1376,1376,"{'Ba': 2, 'Fe': 2, 'S': 2}",Puckered
+1377,1377,"{'Zr': 2, 'Cd': 2}",Puckered
+1378,1378,"{'Tm': 2, 'Te': 6}",Puckered
+1379,1379,"{'Ce': 2, 'Mg': 4}",Puckered
+1380,1380,"{'La': 1, 'Al': 3, 'Cu': 1}",Puckered
+1381,1381,"{'In': 2, 'Te': 3}",Puckered
+1382,1382,"{'Mg': 1, 'O': 2}",Puckered
+1383,1383,"{'Cr': 1, 'Se': 2}",Puckered
+1384,1384,"{'Th': 1, 'Ge': 2}",Puckered
+1385,1385,"{'Mg': 3, 'Sn': 3}",Puckered
+1386,1386,{'Pb': 2},Puckered
+1387,1387,"{'Mg': 4, 'Ti': 4}",Puckered
+1388,1388,"{'Y': 2, 'Mg': 4}",Puckered
+1389,1389,"{'Zr': 2, 'Cl': 6}",Puckered
+1390,1390,"{'Yb': 2, 'Co': 2, 'Ge': 4}",Puckered
+1391,1391,"{'W': 2, 'N': 3}",Puckered
+1392,1392,"{'Mo': 1, 'S': 2}",Puckered
+1393,1393,{'Te': 2},Puckered
+1394,1394,"{'Al': 2, 'Zn': 1, 'S': 4}",Puckered
+1395,1395,"{'Bi': 4, 'O': 6}",Puckered
+1396,1396,"{'C': 6, 'N': 2}",Planar
+1397,1397,"{'Na': 2, 'Hf': 1, 'N': 2}",Puckered
+1398,1398,"{'H': 2, 'C': 2, 'S': 1}",Puckered
+1399,1399,"{'Cd': 1, 'O': 2}",Puckered
+1400,1400,"{'Sm': 1, 'Ge': 2}",Puckered
+1401,1401,"{'Hf': 2, 'Cd': 2}",Puckered
+1402,1402,"{'Tl': 4, 'Ge': 2, 'Se': 6}",Puckered
+1403,1403,"{'Yb': 2, 'Cu': 2, 'Pb': 2, 'Se': 6}",Puckered
+1404,1404,"{'Te': 2, 'O': 4}",Puckered
+1405,1405,"{'Li': 1, 'Mn': 1, 'Te': 2}",Puckered
+1406,1406,"{'Mg': 1, 'Sb': 3}",Puckered
+1407,1407,"{'Ge': 6, 'P': 6}",Puckered
+1408,1408,"{'Tb': 1, 'Ge': 2}",Puckered
+1409,1409,"{'Na': 1, 'Li': 2, 'As': 1}",Puckered
+1410,1410,"{'Mn': 1, 'Sb': 2, 'S': 4}",Puckered
+1411,1411,"{'Ce': 2, 'Mg': 4}",Puckered
+1412,1412,"{'Mg': 8, 'Ti': 8}",Puckered
+1413,1413,"{'Ce': 1, 'Se': 2}",Puckered
+1414,1414,"{'Hf': 1, 'Mg': 6, 'B': 1, 'O': 7}",Puckered
+1415,1415,"{'Te': 2, 'Pb': 2}",Puckered
+1416,1416,"{'La': 2, 'Bi': 2, 'S': 4, 'O': 2}",Puckered
+1417,1417,"{'Zn': 1, 'O': 2, 'F': 2}",Puckered
+1418,1418,"{'Ta': 4, 'Pt': 2, 'Se': 14}",Puckered
+1419,1419,"{'Eu': 3, 'S': 3}",Puckered
+1420,1420,"{'La': 1, 'Mg': 5}",Puckered
+1421,1421,"{'Ti': 1, 'S': 2}",Puckered
+1422,1422,"{'Mg': 4, 'Ti': 4}",Puckered
+1423,1423,"{'Nd': 4, 'Te': 10}",Puckered
+1424,1424,"{'Tb': 2, 'Ga': 2, 'I': 2}",Puckered
+1425,1425,"{'Ce': 1, 'Mg': 5}",Puckered
+1426,1426,"{'Mo': 2, 'Br': 4, 'O': 4}",Puckered
+1427,1427,"{'Y': 2, 'C': 1}",Puckered
+1428,1428,"{'Sr': 2, 'Gd': 1, 'S': 3}",Puckered
+1429,1429,"{'Rb': 1, 'Li': 1, 'Mg': 6, 'O': 7}",Puckered
+1430,1430,"{'Zr': 1, 'S': 2}",Puckered
+1431,1431,"{'Yb': 2, 'Cl': 6}",Puckered
+1432,1432,"{'Hf': 2, 'Si': 2, 'Se': 2}",Puckered
+1433,1433,"{'Y': 2, 'I': 2}",Puckered
+1434,1434,"{'Cd': 12, 'As': 8}",Puckered
+1435,1435,"{'Si': 2, 'C': 4, 'O': 4}",Puckered
+1436,1436,"{'Y': 2, 'Mg': 2}",Puckered
+1437,1437,"{'Sn': 1, 'S': 2}",Puckered
+1438,1438,"{'K': 2, 'Sn': 2, 'N': 6}",Puckered
+1439,1439,"{'Ti': 3, 'H': 2, 'O': 4}",Puckered
+1440,1440,{'Bi': 4},Puckered
+1441,1441,"{'Li': 1, 'Mn': 1, 'Se': 2}",Puckered
+1442,1442,"{'Sb': 4, 'Te': 6}",Puckered
+1443,1443,"{'Pb': 4, 'S': 4}",Puckered
+1444,1444,"{'Al': 1, 'Ag': 1, 'O': 2}",Puckered
+1445,1445,"{'Al': 2, 'Zn': 1, 'S': 4}",Puckered
+1446,1446,"{'Ca': 3, 'Mg': 3}",Puckered
+1447,1447,"{'V': 1, 'S': 2}",Puckered
+1448,1448,"{'Na': 1, 'I': 1}",Planar
+1449,1449,"{'Ho': 2, 'S': 2, 'I': 2}",Puckered
+1450,1450,"{'Ag': 2, 'N': 2}",Puckered
+1451,1451,"{'Mg': 3, 'Ti': 3}",Puckered
+1452,1452,"{'K': 2, 'P': 2, 'O': 8}",Puckered
+1453,1453,"{'Pd': 1, 'N': 1}",Planar
+1454,1454,"{'Ni': 1, 'S': 2}",Puckered
+1455,1455,"{'Tl': 4, 'Si': 2, 'Se': 6}",Puckered
+1456,1456,"{'Ho': 2, 'B': 2, 'C': 2}",Puckered
+1457,1457,"{'H': 2, 'C': 2}",Puckered
+1458,1458,"{'Na': 1, 'Mn': 1, 'Te': 2}",Puckered
+1459,1459,"{'Ag': 2, 'I': 1, 'O': 6}",Puckered
+1460,1460,"{'Ti': 2, 'Te': 2, 'P': 1}",Puckered
+1461,1461,"{'Ba': 2, 'Mg': 2, 'Sn': 2}",Puckered
+1462,1462,"{'Mg': 5, 'Ti': 5}",Puckered
+1463,1463,"{'Al': 2, 'Bi': 4, 'O': 8}",Puckered
+1464,1464,"{'Na': 1, 'Ti': 2, 'H': 1, 'O': 5}",Puckered
+1465,1465,"{'Zn': 1, 'O': 2}",Puckered
+1466,1466,"{'Mn': 2, 'Ga': 2, 'S': 5}",Puckered
+1467,1467,"{'V': 2, 'P': 2, 'S': 6}",Puckered
+1468,1468,"{'Ce': 2, 'Se': 4}",Puckered
+1469,1469,"{'Cd': 1, 'S': 1}",Puckered
+1470,1470,"{'Pd': 2, 'Cl': 4}",Puckered
+1471,1471,"{'Al': 2, 'Ru': 1}",Puckered
+1472,1472,"{'Th': 1, 'Co': 5}",Planar
+1473,1473,"{'Na': 2, 'Zr': 1, 'N': 2}",Puckered
+1474,1474,"{'Hf': 2, 'Si': 2, 'Te': 2}",Puckered
+1475,1475,"{'Bi': 4, 'S': 4, 'O': 2}",Puckered
+1476,1476,"{'Ho': 2, 'Fe': 2, 'Ge': 4}",Puckered
+1477,1477,"{'Fe': 1, 'Bi': 1, 'O': 3}",Puckered
+1478,1478,"{'Y': 1, 'Cu': 2, 'S': 2}",Puckered
+1479,1479,"{'Ba': 2, 'Mg': 2, 'Pb': 2}",Puckered
+1480,1480,"{'Ce': 2, 'Sb': 4, 'Se': 8}",Puckered
+1481,1481,{'Ni': 4},Puckered
+1482,1482,"{'Sr': 1, 'Ta': 2, 'O': 7}",Puckered
+1483,1483,"{'Sr': 2, 'Fe': 4, 'Se': 4, 'O': 2}",Puckered
+1484,1484,"{'Mg': 2, 'Bi': 4}",Puckered
+1485,1485,"{'In': 2, 'Se': 3}",Puckered
+1486,1486,"{'Mg': 6, 'Ti': 6}",Puckered
+1487,1487,"{'Ca': 2, 'C': 4}",Puckered
+1488,1488,"{'Ho': 2, 'Te': 6}",Puckered
+1489,1489,"{'Ag': 2, 'Se': 1, 'O': 4}",Puckered
+1490,1490,"{'Ho': 2, 'Te': 6}",Puckered
+1491,1491,"{'Zn': 4, 'Si': 4, 'N': 8}",Puckered
+1492,1492,"{'Tm': 1, 'Sb': 2}",Puckered
+1493,1493,"{'Hg': 2, 'S': 2, 'Br': 2}",Puckered
+1494,1494,"{'Er': 2, 'Mg': 2, 'Ru': 1}",Puckered
+1495,1495,{'C': 1},Planar
+1496,1496,"{'Lu': 2, 'Te': 6}",Puckered
+1497,1497,"{'Hf': 2, 'Te': 6}",Puckered
+1498,1498,"{'Zn': 1, 'O': 1}",Planar
+1499,1499,"{'Pb': 2, 'S': 2}",Puckered
+1500,1500,"{'Sr': 2, 'N': 1}",Puckered
+1501,1501,"{'Ca': 2, 'Ni': 2, 'Ge': 2}",Puckered
+1502,1502,"{'Zn': 1, 'Bi': 1}",Puckered
+1503,1503,"{'Mg': 2, 'Sn': 2}",Puckered
+1504,1504,"{'Mg': 3, 'Sb': 3}",Puckered
+1505,1505,"{'Pb': 6, 'N': 4}",Puckered
+1506,1506,"{'Ca': 1, 'B': 2, 'H': 2}",Puckered
+1507,1507,"{'Zn': 1, 'Ga': 2, 'S': 4}",Puckered
+1508,1508,"{'Pt': 1, 'Se': 2}",Puckered
+1509,1509,"{'Al': 2, 'Zn': 2, 'S': 5}",Puckered
+1510,1510,"{'Mg': 4, 'In': 8, 'Se': 16}",Puckered
+1511,1511,"{'Nb': 1, 'F': 4}",Puckered
+1512,1512,"{'Ce': 2, 'Mg': 2}",Puckered
+1513,1513,"{'Lu': 2, 'Te': 6}",Puckered
+1514,1514,"{'La': 2, 'I': 2, 'O': 6}",Puckered
+1515,1515,"{'Nb': 2, 'Pd': 1, 'S': 6}",Puckered
+1516,1516,"{'Cu': 2, 'Sn': 2, 'Au': 2}",Puckered
+1517,1517,"{'Mg': 1, 'Sn': 2}",Puckered
+1518,1518,"{'Ca': 2, 'B': 2, 'O': 6}",Puckered
+1519,1519,"{'Mg': 2, 'Co': 2, 'Ge': 2}",Puckered
+1520,1520,"{'Mg': 4, 'Fe': 2}",Puckered
+1521,1521,"{'Sr': 2, 'Cu': 2}",Puckered
+1522,1522,"{'Li': 8, 'Ge': 4, 'N': 8}",Puckered
+1523,1523,"{'Nd': 1, 'Ge': 5}",Puckered
+1524,1524,"{'Cu': 4, 'Br': 2, 'O': 6}",Puckered
+1525,1525,"{'La': 1, 'Ge': 5}",Puckered
+1526,1526,"{'Sn': 8, 'Ir': 2}",Puckered
+1527,1527,"{'Hf': 1, 'Mg': 6, 'Nb': 1}",Puckered
+1528,1528,"{'Hg': 2, 'Se': 2, 'O': 8}",Puckered
+1529,1529,{'As': 2},Puckered
+1530,1530,"{'V': 2, 'H': 2, 'O': 5}",Puckered
+1531,1531,"{'Y': 2, 'Co': 2, 'Ge': 4}",Puckered
+1532,1532,"{'H': 8, 'W': 2}",Puckered
+1533,1533,"{'Ga': 2, 'Fe': 2, 'S': 5}",Puckered
+1534,1534,"{'K': 2, 'U': 2, 'Cl': 2, 'O': 6}",Puckered
+1535,1535,"{'Tl': 2, 'Cu': 6, 'S': 4}",Puckered
+1536,1536,"{'Hf': 1, 'Al': 5, 'Ni': 2}",Puckered
+1537,1537,"{'La': 2, 'Mg': 4}",Puckered
+1538,1538,"{'Ca': 1, 'In': 2, 'N': 2}",Puckered
+1539,1539,"{'Ga': 1, 'Cu': 1, 'S': 2}",Puckered
+1540,1540,"{'Ca': 2, 'C': 4, 'S': 4, 'N': 4}",Puckered
+1541,1541,"{'Pr': 4, 'B': 2, 'C': 2}",Puckered
+1542,1542,"{'Zn': 2, 'Si': 2, 'O': 6}",Puckered
+1543,1543,"{'Ni': 2, 'P': 2, 'Se': 6}",Puckered
+1544,1544,"{'Er': 2, 'Fe': 2, 'Ge': 4}",Puckered
+1545,1545,"{'Zr': 2, 'Ge': 2, 'Te': 8}",Puckered
+1546,1546,"{'Ge': 2, 'Te': 2}",Puckered
+1547,1547,"{'Mg': 4, 'Ti': 2}",Puckered
+1548,1548,"{'Dy': 1, 'Cu': 2, 'S': 2}",Puckered
+1549,1549,"{'Cu': 1, 'S': 1}",Puckered
+1550,1550,"{'Na': 8, 'Zn': 4, 'S': 8}",Puckered
+1551,1551,"{'Sr': 2, 'Fe': 4, 'S': 4, 'O': 2}",Puckered
+1552,1552,"{'Sn': 2, 'S': 2}",Puckered
+1553,1553,"{'Tb': 1, 'Ge': 5}",Puckered
+1554,1554,"{'Na': 2, 'Er': 2, 'S': 4, 'O': 16}",Puckered
+1555,1555,"{'Mg': 1, 'Sn': 1}",Planar
+1556,1556,"{'Lu': 1, 'Sb': 2}",Puckered
+1557,1557,"{'Ti': 2, 'S': 2, 'Cl': 2}",Puckered
+1558,1558,"{'Y': 1, 'Mg': 2}",Puckered
+1559,1559,"{'Er': 1, 'Sb': 2}",Puckered
+1560,1560,"{'Pr': 1, 'Al': 3, 'Cu': 1}",Puckered
+1561,1561,"{'Rb': 1, 'O': 2}",Puckered
+1562,1562,"{'Ca': 2, 'Mg': 2}",Puckered
+1563,1563,"{'K': 1, 'Rb': 1, 'Mg': 6, 'O': 7}",Puckered
+1564,1564,"{'Al': 2, 'Zn': 2, 'S': 5}",Puckered
+1565,1565,"{'Pa': 2, 'P': 4}",Puckered
+1566,1566,"{'Ge': 1, 'S': 2}",Puckered
+1567,1567,"{'Mg': 1, 'Ga': 2}",Puckered
+1568,1568,"{'Ce': 2, 'Mg': 2}",Puckered
+1569,1569,{'Sb': 2},Puckered
+1570,1570,"{'Sm': 1, 'Ge': 5}",Puckered
+1571,1571,"{'Ti': 1, 'Ag': 1, 'Se': 2}",Puckered
+1572,1572,"{'Si': 2, 'O': 1}",Puckered
+1573,1573,"{'Tb': 2, 'C': 2, 'Br': 2}",Puckered
+1574,1574,"{'Ca': 2, 'O': 2}",Puckered
+1575,1575,{'Bi': 8},Puckered
+1576,1576,"{'Li': 1, 'P': 3}",Puckered
+1577,1577,"{'La': 1, 'Nb': 2, 'O': 7}",Puckered
+1578,1578,"{'Mg': 3, 'Sb': 3}",Puckered
+1579,1579,"{'Y': 1, 'Mg': 5}",Puckered
+1580,1580,"{'Tb': 2, 'Co': 2, 'Ge': 4}",Puckered
+1581,1581,"{'Cu': 2, 'F': 4}",Puckered
+1582,1582,"{'Au': 1, 'N': 2}",Puckered
+1583,1583,{'Br': 1},Planar
+1584,1584,"{'Ga': 2, 'O': 3}",Planar
+1585,1585,"{'Sm': 2, 'Si': 6, 'Ni': 2}",Puckered
+1586,1586,"{'Sr': 2, 'Bi': 2, 'S': 4, 'F': 2}",Puckered
+1587,1587,"{'Ni': 2, 'Te': 2}",Puckered
+1588,1588,"{'Ti': 1, 'Ag': 1, 'F': 6}",Puckered
+1589,1589,"{'Li': 2, 'Ag': 1, 'Sn': 2}",Puckered
+1590,1590,"{'Mg': 2, 'Rh': 1}",Puckered
+1591,1591,"{'Ce': 1, 'Al': 3, 'Cu': 1}",Puckered
+1592,1592,"{'U': 1, 'Tl': 2, 'O': 4}",Puckered
+1593,1593,"{'Rb': 1, 'Hf': 1, 'Mg': 6, 'O': 7}",Puckered
+1594,1594,"{'Tm': 1, 'Cu': 2, 'S': 2}",Puckered
+1595,1595,"{'Tb': 1, 'Sb': 2}",Puckered
+1596,1596,"{'Hg': 1, 'Br': 2}",Puckered
+1597,1597,"{'Sr': 2, 'Co': 1, 'Br': 2, 'O': 2}",Puckered
+1598,1598,"{'Hf': 2, 'Ge': 4}",Puckered
+1599,1599,"{'Hf': 2, 'Se': 6}",Puckered
+1600,1600,"{'Rb': 1, 'Hf': 1, 'Mg': 6, 'O': 7}",Puckered
+1601,1601,"{'Ag': 1, 'Cl': 1, 'O': 4}",Puckered
+1602,1602,"{'U': 2, 'Br': 2, 'O': 4}",Puckered
+1603,1603,"{'Rb': 1, 'Na': 1, 'Mg': 6, 'O': 7}",Puckered
+1604,1604,"{'Ce': 2, 'S': 2}",Puckered
+1605,1605,"{'Sb': 2, 'Te': 2, 'I': 2}",Puckered
+1606,1606,"{'Mg': 6, 'V': 1, 'C': 1}",Puckered
+1607,1607,"{'Ti': 2, 'N': 2, 'F': 2}",Puckered
+1608,1608,"{'Be': 2, 'B': 1, 'O': 5}",Puckered
+1609,1609,"{'Sn': 6, 'F': 16}",Puckered
+1610,1610,{'P': 4},Puckered
+1611,1611,"{'Cu': 1, 'Br': 1}",Planar
+1612,1612,"{'Bi': 2, 'Br': 2, 'O': 2}",Puckered
+1613,1613,"{'La': 2, 'Br': 2, 'O': 2}",Puckered
+1614,1614,"{'Mo': 1, 'Se': 2}",Puckered
+1615,1615,"{'Li': 2, 'Co': 2, 'As': 2}",Puckered
+1616,1616,"{'Ti': 1, 'Cu': 1, 'F': 6}",Puckered
+1617,1617,"{'K': 2, 'H': 4, 'N': 2}",Puckered
+1618,1618,"{'Zr': 2, 'Ge': 4}",Puckered
+1619,1619,"{'Zr': 2, 'Te': 2, 'P': 1}",Puckered
+1620,1620,"{'Bi': 4, 'Se': 4}",Puckered
+1621,1621,"{'Pb': 2, 'I': 2, 'F': 2}",Puckered
+1622,1622,"{'Zr': 2, 'Te': 6}",Puckered
+1623,1623,"{'Cr': 2, 'S': 2, 'Br': 2}",Puckered
+1624,1624,"{'Eu': 2, 'Zn': 1, 'Ge': 3}",Puckered
+1625,1625,"{'Y': 1, 'Sb': 2}",Puckered
+1626,1626,"{'Zn': 4, 'Si': 2, 'O': 8}",Puckered
+1627,1627,"{'Cu': 4, 'Te': 2}",Puckered
+1628,1628,"{'Ge': 2, 'S': 2}",Puckered
+1629,1629,"{'U': 4, 'Te': 3, 'O': 4}",Puckered
+1630,1630,"{'Cr': 3, 'N': 2}",Puckered
+1631,1631,"{'U': 2, 'I': 6}",Puckered
+1632,1632,"{'Sr': 2, 'Cu': 1, 'Cl': 2, 'O': 2}",Puckered
+1633,1633,"{'Ba': 2, 'I': 2, 'F': 2}",Puckered
+1634,1634,"{'U': 2, 'Pb': 4}",Puckered
+1635,1635,"{'Ca': 1, 'Sn': 4, 'S': 9}",Puckered
+1636,1636,"{'Ta': 4, 'Ni': 4, 'Te': 8}",Puckered
+1637,1637,"{'U': 2, 'Te': 2, 'P': 2}",Puckered
+1638,1638,"{'Zr': 6, 'S': 2, 'O': 18}",Puckered
+1639,1639,"{'La': 2, 'Se': 2}",Puckered
+1640,1640,"{'Dy': 2, 'Cl': 6}",Puckered
+1641,1641,"{'P': 4, 'H': 8, 'Pb': 2, 'O': 8}",Puckered
+1642,1642,"{'Ni': 1, 'Te': 2}",Puckered
+1643,1643,"{'Nb': 2, 'Te': 10, 'Pd': 2}",Puckered
+1644,1644,"{'Zr': 2, 'Cl': 2}",Puckered
+1645,1645,"{'Zr': 2, 'Si': 2, 'Te': 2}",Puckered
+1646,1646,"{'Th': 2, 'Br': 2, 'N': 2}",Puckered
+1647,1647,{'As': 4},Puckered
+1648,1648,"{'Sn': 2, 'C': 4, 'Cl': 4}",Puckered
+1649,1649,"{'Ag': 2, 'N': 6}",Puckered
+1650,1650,"{'K': 1, 'Rb': 1, 'Mg': 6, 'O': 7}",Puckered
+1651,1651,"{'Li': 4, 'Bi': 4, 'O': 8}",Puckered
+1652,1652,"{'Bi': 6, 'Te': 6}",Puckered
+1653,1653,"{'Er': 2, 'Co': 2, 'Ge': 4}",Puckered
+1654,1654,"{'Ge': 1, 'I': 2}",Puckered
+1655,1655,"{'Y': 2, 'S': 2}",Puckered
+1656,1656,"{'Bi': 4, 'Se': 6}",Puckered
+1657,1657,"{'Ti': 2, 'Br': 2, 'N': 2}",Puckered
+1658,1658,"{'Er': 2, 'Se': 2, 'I': 2}",Puckered
+1659,1659,"{'Nb': 6, 'Ge': 2, 'Te': 12}",Puckered
+1660,1660,"{'Nb': 2, 'Cr': 2, 'Se': 10}",Puckered
+1661,1661,"{'Mn': 1, 'H': 2, 'O': 2}",Puckered
+1662,1662,"{'K': 2, 'Fe': 4, 'Se': 6}",Puckered
+1663,1663,"{'Te': 2, 'Rh': 2, 'Cl': 2}",Puckered
+1664,1664,"{'V': 4, 'Pb': 2, 'O': 12}",Puckered
+1665,1665,"{'Na': 1, 'Sb': 5, 'O': 8}",Puckered
+1666,1666,"{'Hf': 3, 'Te': 2}",Puckered
+1667,1667,"{'Bi': 2, 'Te': 2, 'S': 1}",Puckered
+1668,1668,"{'Si': 6, 'P': 6}",Puckered
+1669,1669,"{'Ag': 4, 'Cl': 4, 'O': 8}",Puckered
+1670,1670,"{'Sc': 2, 'C': 1, 'Cl': 2}",Puckered
+1671,1671,"{'Pb': 2, 'Br': 4}",Puckered
+1672,1672,"{'U': 2, 'N': 2, 'Cl': 2}",Puckered
+1673,1673,"{'Cd': 12, 'P': 8}",Puckered
+1674,1674,"{'Th': 2, 'I': 2, 'N': 2}",Puckered
+1675,1675,"{'Cu': 2, 'Te': 2}",Puckered
+1676,1676,"{'Se': 8, 'O': 20}",Puckered
+1677,1677,"{'Na': 1, 'N': 3}",Puckered
+1678,1678,"{'Bi': 8, 'Te': 4, 'O': 20}",Puckered
+1679,1679,"{'Au': 4, 'Se': 4, 'O': 14}",Puckered
+1680,1680,"{'Ag': 4, 'I': 2, 'O': 2, 'F': 2}",Puckered
+1681,1681,"{'Ce': 4, 'Se': 8}",Puckered
+1682,1682,"{'Pb': 2, 'Br': 2, 'Cl': 2}",Puckered
+1683,1683,"{'Au': 2, 'I': 2}",Puckered
+1684,1684,"{'Tl': 8, 'O': 6}",Puckered
+1685,1685,"{'Te': 4, 'W': 2}",Puckered
+1686,1686,"{'Y': 2, 'C': 2, 'I': 2}",Puckered
+1687,1687,"{'Ge': 3, 'Sb': 2, 'O': 9}",Puckered
+1688,1688,"{'Mg': 8, 'Si': 4}",Puckered
+1689,1689,"{'Te': 8, 'I': 8}",Puckered
+1690,1690,"{'Na': 2, 'Mn': 2, 'As': 2}",Puckered
+1691,1691,"{'Mn': 2, 'Ni': 1, 'O': 6}",Puckered
+1692,1692,"{'Au': 2, 'Se': 2}",Puckered
+1693,1693,"{'Ca': 2, 'H': 2, 'Br': 2}",Puckered
+1694,1694,"{'Nd': 1, 'I': 2}",Puckered
+1695,1695,"{'Li': 4, 'Te': 2, 'O': 6}",Puckered
+1696,1696,"{'Nd': 2, 'Br': 2, 'O': 2}",Puckered
+1697,1697,"{'Zr': 2, 'I': 8, 'O': 24}",Puckered
+1698,1698,"{'Ta': 1, 'S': 2}",Puckered
+1699,1699,"{'Li': 2, 'V': 4, 'O': 10}",Puckered
+1700,1700,"{'Ti': 2, 'Cl': 2, 'O': 2}",Puckered
+1701,1701,"{'Cu': 2, 'Br': 2}",Puckered
+1702,1702,"{'Hg': 8, 'Cl': 4, 'O': 4}",Puckered
+1703,1703,"{'P': 4, 'O': 10}",Puckered
+1704,1704,"{'Ca': 2, 'Mn': 2, 'Ge': 2}",Puckered
+1705,1705,"{'Li': 2, 'V': 4, 'O': 10}",Puckered
+1706,1706,"{'Ga': 2, 'Te': 2, 'Cl': 2}",Puckered
+1707,1707,"{'Te': 8, 'O': 18}",Puckered
+1708,1708,"{'Sn': 8, 'Pt': 2}",Puckered
+1709,1709,"{'Bi': 10, 'S': 10}",Puckered
+1710,1710,"{'Zn': 1, 'In': 2, 'S': 4}",Puckered
+1711,1711,"{'Ga': 2, 'Se': 2}",Puckered
+1712,1712,"{'Sb': 4, 'Se': 6}",Puckered
+1713,1713,"{'Sc': 2, 'Si': 6, 'Ni': 4}",Puckered
+1714,1714,"{'Ca': 1, 'Th': 1, 'Br': 6}",Puckered
+1715,1715,"{'Sr': 3, 'Co': 2, 'Cl': 2, 'O': 5}",Puckered
+1716,1716,"{'In': 4, 'Te': 4, 'I': 4}",Puckered
+1717,1717,"{'Rb': 2, 'Mn': 2, 'As': 2}",Puckered
+1718,1718,"{'Mn': 2, 'Te': 3, 'O': 8}",Puckered
+1719,1719,"{'Zr': 2, 'I': 2, 'N': 2}",Puckered
+1720,1720,"{'K': 2, 'Mn': 2, 'P': 2}",Puckered
+1721,1721,"{'Mg': 1, 'I': 2}",Puckered
+1722,1722,"{'Zr': 1, 'Se': 2}",Puckered
+1723,1723,"{'Ga': 2, 'Fe': 1, 'S': 4}",Puckered
+1724,1724,"{'Tl': 2, 'Re': 6, 'Se': 8, 'Cl': 4}",Puckered
+1725,1725,"{'K': 4, 'Ru': 2, 'Br': 12}",Puckered
+1726,1726,"{'K': 2, 'Nb': 6, 'O': 16}",Puckered
+1727,1727,"{'V': 2, 'Cl': 6}",Puckered
+1728,1728,"{'Sb': 2, 'I': 6}",Puckered
+1729,1729,"{'Te': 4, 'Pt': 3}",Puckered
+1730,1730,"{'U': 2, 'Se': 4, 'O': 14}",Puckered
+1731,1731,"{'Tl': 2, 'B': 2, 'S': 6}",Puckered
+1732,1732,"{'Si': 1, 'Te': 2}",Puckered
+1733,1733,"{'Al': 2, 'Cl': 2, 'O': 2}",Puckered
+1734,1734,"{'Hg': 1, 'I': 2}",Puckered
+1735,1735,"{'U': 2, 'I': 2, 'N': 2}",Puckered
+1736,1736,"{'Pt': 2, 'Pb': 8}",Puckered
+1737,1737,"{'Fe': 2, 'Sb': 4, 'S': 8}",Puckered
+1738,1738,"{'Pb': 2, 'O': 2}",Puckered
+1739,1739,"{'Pt': 4, 'I': 8}",Puckered
+1740,1740,"{'Fe': 1, 'Si': 2}",Puckered
+1741,1741,"{'Ce': 2, 'O': 3}",Puckered
+1742,1742,"{'Li': 8, 'Te': 8, 'O': 20}",Puckered
+1743,1743,"{'Lu': 2, 'S': 2, 'Br': 2}",Puckered
+1744,1744,"{'Rb': 2, 'Mn': 2, 'P': 2}",Puckered
+1745,1745,"{'Na': 4, 'Br': 2, 'O': 1}",Puckered
+1746,1746,"{'Al': 1, 'Pd': 5, 'I': 2}",Puckered
+1747,1747,"{'Ca': 2, 'H': 8, 'S': 2, 'O': 12}",Puckered
+1748,1748,"{'In': 8, 'Se': 6}",Puckered
+1749,1749,"{'Ni': 2, 'Te': 3, 'O': 8}",Puckered
+1750,1750,"{'Rb': 2, 'Pb': 2, 'I': 6}",Puckered
+1751,1751,"{'K': 2, 'Hg': 3, 'Ge': 2, 'S': 8}",Puckered
+1752,1752,"{'In': 2, 'O': 3}",Puckered
+1753,1753,"{'Ca': 4, 'Mg': 4, 'Si': 8, 'O': 24}",Puckered
+1754,1754,"{'Cu': 4, 'H': 4, 'O': 4, 'F': 4}",Puckered
+1755,1755,"{'La': 2, 'I': 6}",Puckered
+1756,1756,"{'Sb': 4, 'S': 6}",Puckered
+1757,1757,"{'Cu': 2, 'Bi': 2, 'S': 4}",Puckered
+1758,1758,"{'In': 2, 'Cl': 2, 'O': 2}",Puckered
+1759,1759,"{'Te': 2, 'Au': 1}",Puckered
+1760,1760,"{'Pr': 4, 'Br': 10}",Puckered
+1761,1761,"{'Bi': 1, 'Te': 1, 'I': 1}",Puckered
+1762,1762,"{'Sb': 8, 'S': 8, 'O': 4}",Puckered
+1763,1763,"{'Ca': 2, 'H': 2, 'I': 2}",Puckered
+1764,1764,"{'K': 2, 'Mg': 1, 'Cl': 4}",Puckered
+1765,1765,"{'W': 1, 'Se': 2}",Puckered
+1766,1766,"{'Ca': 1, 'H': 2, 'O': 2}",Puckered
+1767,1767,"{'Er': 2, 'S': 2, 'Cl': 2}",Puckered
+1768,1768,"{'Y': 4, 'N': 2, 'Cl': 6}",Puckered
+1769,1769,"{'In': 1, 'Ag': 1, 'P': 2, 'Se': 6}",Puckered
+1770,1770,"{'Sc': 2, 'N': 1, 'Cl': 2}",Puckered
+1771,1771,"{'In': 1, 'Ag': 1, 'P': 2, 'S': 6}",Puckered
+1772,1772,"{'Ca': 2, 'Cl': 2, 'F': 2}",Puckered
+1773,1773,"{'Ti': 2, 'Br': 2, 'O': 2}",Puckered
+1774,1774,"{'Mn': 1, 'Br': 2}",Puckered
+1775,1775,"{'Ti': 1, 'Cl': 2}",Puckered
+1776,1776,"{'Ga': 2, 'S': 2}",Puckered
+1777,1777,"{'Ta': 2, 'I': 4, 'O': 2}",Puckered
+1778,1778,"{'Ga': 2, 'H': 2, 'O': 4}",Puckered
+1779,1779,"{'Pb': 8, 'O': 12}",Puckered
+1780,1780,"{'Sr': 3, 'Fe': 2, 'Cl': 2, 'O': 5}",Puckered
+1781,1781,"{'Si': 6, 'As': 6}",Puckered
+1782,1782,"{'Cr': 2, 'Cl': 2, 'O': 2}",Puckered
+1783,1783,"{'Ge': 4, 'As': 8}",Puckered
+1784,1784,"{'In': 2, 'Sb': 2, 'S': 6}",Puckered
+1785,1785,"{'Rb': 2, 'Fe': 4, 'Te': 6}",Puckered
+1786,1786,"{'V': 1, 'Cl': 2}",Puckered
+1787,1787,"{'Cr': 1, 'I': 2}",Puckered
+1788,1788,"{'Na': 2, 'Cl': 2, 'O': 8}",Puckered
+1789,1789,"{'Pb': 2, 'Br': 2, 'F': 2}",Puckered
+1790,1790,"{'Ti': 2, 'I': 2, 'N': 2}",Puckered
+1791,1791,"{'Hf': 4, 'Cu': 2, 'Ge': 8}",Puckered
+1792,1792,"{'Bi': 2, 'I': 6}",Puckered
+1793,1793,"{'Sn': 2, 'O': 2}",Puckered
+1794,1794,"{'Ca': 2, 'Cu': 1, 'Cl': 2, 'O': 2}",Puckered
+1795,1795,"{'Mo': 12, 'S': 6, 'Br': 12}",Puckered
+1796,1796,"{'Na': 2, 'Ga': 2, 'H': 8}",Puckered
+1797,1797,"{'Pb': 2, 'C': 2, 'N': 4}",Puckered
+1798,1798,"{'Nb': 2, 'S': 4, 'Cl': 4}",Puckered
+1799,1799,"{'K': 2, 'Fe': 4, 'S': 6}",Puckered
+1800,1800,"{'Rb': 2, 'Br': 2, 'F': 8}",Puckered
+1801,1801,"{'Cu': 2, 'I': 2}",Puckered
+1802,1802,"{'Ge': 4, 'As': 4, 'Se': 4}",Puckered
+1803,1803,"{'La': 1, 'I': 2}",Puckered
+1804,1804,"{'As': 4, 'O': 8}",Puckered
+1805,1805,"{'Sr': 3, 'Fe': 2, 'Br': 2, 'O': 5}",Puckered
+1806,1806,"{'Sr': 2, 'I': 2, 'F': 2}",Puckered
+1807,1807,"{'Pb': 5, 'S': 2, 'I': 6}",Puckered
+1808,1808,"{'Rb': 2, 'Pa': 2, 'F': 12}",Puckered
+1809,1809,"{'Sr': 2, 'H': 2, 'I': 2}",Puckered
+1810,1810,"{'Ca': 2, 'H': 8, 'Se': 2, 'O': 12}",Puckered
+1811,1811,"{'Li': 2, 'H': 2, 'O': 2}",Puckered
+1812,1812,"{'In': 8, 'Bi': 4, 'S': 18}",Puckered
+1813,1813,"{'Ce': 1, 'Ge': 2}",Puckered
+1814,1814,"{'Ge': 2, 'Te': 5, 'As': 2}",Puckered
+1815,1815,"{'Sn': 2, 'S': 2}",Puckered
+1816,1816,"{'Ti': 2, 'N': 2, 'Cl': 2}",Puckered
+1817,1817,"{'Ti': 1, 'Te': 2}",Puckered
+1818,1818,"{'Na': 8, 'Pb': 4, 'O': 8}",Puckered
+1819,1819,"{'Sn': 2, 'Pb': 2, 'F': 8}",Puckered
+1820,1820,"{'Dy': 2, 'S': 2, 'I': 2}",Puckered
+1821,1821,"{'Rb': 4, 'P': 4, 'Se': 24}",Puckered
+1822,1822,"{'V': 4, 'O': 10}",Puckered
+1823,1823,"{'Ba': 2, 'N': 1}",Puckered
+1824,1824,"{'In': 2, 'Br': 2, 'O': 2}",Puckered
+1825,1825,"{'Nb': 4, 'Te': 12, 'I': 2}",Puckered
+1826,1826,"{'Pb': 4, 'O': 4}",Puckered
+1827,1827,"{'Nb': 4, 'Se': 6}",Puckered
+1828,1828,"{'Ta': 4, 'Te': 10, 'Pd': 6}",Puckered
+1829,1829,"{'Sr': 2, 'H': 8, 'O': 6}",Puckered
+1830,1830,"{'Na': 4, 'S': 4, 'O': 8}",Puckered
+1831,1831,"{'U': 2, 'Br': 8}",Puckered
+1832,1832,"{'I': 4, 'O': 12}",Puckered
+1833,1833,"{'Ca': 4, 'P': 4, 'H': 12, 'O': 16}",Puckered
+1834,1834,"{'Bi': 2, 'Cl': 2, 'O': 2}",Puckered
+1835,1835,"{'Dy': 2, 'S': 2, 'Br': 2}",Puckered
+1836,1836,"{'Zn': 12, 'As': 8}",Puckered
+1837,1837,"{'Na': 2, 'Fe': 2, 'As': 2}",Puckered
+1838,1838,"{'Ca': 3, 'Cu': 2, 'Cl': 2, 'O': 4}",Puckered
+1839,1839,"{'Bi': 18, 'I': 4}",Puckered
+1840,1840,"{'Nb': 4, 'Ge': 2, 'Te': 8}",Puckered
+1841,1841,"{'Hg': 1, 'I': 2}",Puckered
+1842,1842,"{'Tm': 2, 'I': 2, 'O': 2}",Puckered
+1843,1843,"{'Nb': 1, 'O': 2}",Puckered
+1844,1844,"{'In': 1, 'Cu': 1, 'P': 2, 'Se': 6}",Puckered
+1845,1845,"{'Tl': 6, 'B': 2, 'Se': 6}",Puckered
+1846,1846,"{'V': 2, 'Pb': 3, 'O': 8}",Puckered
+1847,1847,"{'Te': 4, 'O': 8}",Puckered
+1848,1848,"{'Cd': 1, 'Br': 2}",Puckered
+1849,1849,"{'Re': 2, 'Bi': 2, 'O': 8}",Puckered
+1850,1850,"{'Sm': 2, 'Br': 6}",Puckered
+1851,1851,"{'Cu': 2, 'Sb': 2, 'Se': 4}",Puckered
+1852,1852,"{'K': 4, 'P': 4, 'Se': 24}",Puckered
+1853,1853,"{'Zr': 1, 'Cl': 2}",Puckered
+1854,1854,"{'Ta': 2, 'Te': 8, 'Ir': 2}",Puckered
+1855,1855,"{'Cu': 2, 'H': 4, 'Se': 4, 'O': 12}",Puckered
+1856,1856,"{'Bi': 2, 'I': 2, 'O': 2}",Puckered
+1857,1857,"{'Cu': 4, 'Hg': 4, 'S': 4, 'Cl': 4}",Puckered
+1858,1858,"{'U': 2, 'Br': 2, 'N': 2}",Puckered
+1859,1859,"{'K': 4, 'Br': 2, 'O': 1}",Puckered
+1860,1860,"{'Nd': 1, 'Ge': 2}",Puckered
+1861,1861,"{'K': 2, 'Sb': 4, 'S': 7}",Puckered
+1862,1862,"{'In': 4, 'Te': 4, 'Br': 4}",Puckered
+1863,1863,"{'Si': 4, 'Pb': 8, 'Se': 16}",Puckered
+1864,1864,"{'Ca': 2, 'Mn': 2, 'Si': 2}",Puckered
+1865,1865,"{'Sn': 3, 'I': 6}",Puckered
+1866,1866,"{'Nb': 12, 'Cl': 28}",Puckered
+1867,1867,"{'Mn': 2, 'Al': 2, 'Ge': 2}",Puckered
+1868,1868,"{'Mn': 1, 'I': 2}",Puckered
+1869,1869,"{'Ca': 2, 'N': 1}",Puckered
+1870,1870,"{'Ti': 1, 'Se': 2}",Puckered
+1871,1871,"{'Ti': 1, 'S': 2}",Puckered
+1872,1872,"{'Bi': 1, 'Te': 1, 'Cl': 1}",Puckered
+1873,1873,"{'Ti': 1, 'Br': 2}",Puckered
+1874,1874,"{'Sm': 2, 'S': 2}",Puckered
+1875,1875,{'Bi': 2},Puckered
+1876,1876,"{'Th': 1, 'I': 2}",Puckered
+1877,1877,"{'Te': 2, 'Rh': 1}",Puckered
+1878,1878,"{'V': 2, 'Cl': 2, 'O': 2}",Puckered
+1879,1879,"{'In': 2, 'Bi': 2}",Puckered
+1880,1880,"{'Y': 4, 'C': 1, 'I': 5}",Puckered
+1881,1881,"{'Mg': 1, 'Al': 2, 'H': 8}",Puckered
+1882,1882,"{'Zr': 2, 'Se': 6}",Puckered
+1883,1883,"{'W': 1, 'S': 2}",Puckered
+1884,1884,"{'Cu': 1, 'Br': 2}",Puckered
+1885,1885,"{'Zr': 1, 'P': 2, 'H': 2, 'O': 6}",Puckered
+1886,1886,"{'Tb': 2, 'Cl': 6}",Puckered
+1887,1887,"{'Mg': 2, 'Mn': 2, 'Ge': 2}",Puckered
+1888,1888,"{'Cr': 1, 'H': 1, 'O': 2}",Puckered
+1889,1889,"{'In': 2, 'Se': 2}",Puckered
+1890,1890,"{'Te': 2, 'Ir': 1}",Puckered
+1891,1891,"{'Al': 3, 'Ir': 1}",Puckered
+1892,1892,"{'Sr': 2, 'Br': 2, 'F': 2}",Puckered
+1893,1893,"{'In': 2, 'Ga': 2, 'S': 6}",Puckered
+1894,1894,"{'Eu': 1, 'Cd': 2, 'P': 2}",Puckered
+1895,1895,"{'Tl': 2, 'I': 2}",Puckered
+1896,1896,"{'Zr': 1, 'N': 1, 'Cl': 1}",Puckered
+1897,1897,"{'Y': 6, 'C': 2, 'I': 7}",Puckered
+1898,1898,"{'Ag': 1, 'I': 1}",Puckered
+1899,1899,"{'Bi': 6, 'Se': 6}",Puckered
+1900,1900,"{'Cr': 2, 'Br': 6}",Puckered
+1901,1901,"{'Al': 2, 'O': 4}",Puckered
+1902,1902,"{'Xe': 1, 'O': 2, 'F': 2}",Puckered
+1903,1903,"{'Tl': 2, 'F': 2}",Puckered
+1904,1904,"{'Zr': 2, 'N': 2, 'Cl': 2}",Puckered
+1905,1905,"{'Al': 1, 'O': 2}",Puckered
+1906,1906,"{'Tl': 1, 'F': 1}",Puckered
+1907,1907,"{'Sr': 4, 'Mn': 3, 'Cl': 2, 'O': 8}",Puckered
+1908,1908,"{'Y': 2, 'B': 2, 'C': 2}",Puckered
+1909,1909,"{'Nd': 2, 'Br': 6}",Puckered
+1910,1910,"{'Ga': 2, 'Se': 2}",Puckered
+1911,1911,"{'Ga': 1, 'Se': 1}",Puckered
+1912,1912,"{'Mo': 1, 'O': 3}",Puckered
+1913,1913,"{'Y': 4, 'Cl': 6}",Puckered
+1914,1914,"{'Y': 1, 'B': 1, 'C': 1}",Puckered
+1915,1915,"{'Rb': 2, 'C': 4}",Puckered
+1916,1916,"{'Mo': 2, 'O': 6}",Puckered
+1917,1917,"{'P': 4, 'Pd': 4, 'S': 4}",Puckered
+1918,1918,"{'P': 2, 'Au': 2, 'S': 2}",Puckered
+1919,1919,"{'Ag': 2, 'I': 2}",Puckered
+1920,1920,"{'Sr': 2, 'Bi': 4, 'O': 8}",Puckered
+1921,1921,"{'Sr': 1, 'Th': 1, 'Br': 6}",Puckered
+1922,1922,"{'Bi': 2, 'Pd': 4, 'O': 8}",Puckered
+1923,1923,"{'P': 4, 'Au': 4, 'S': 4}",Puckered
+1924,1924,"{'Cd': 2, 'P': 4, 'H': 8, 'O': 8}",Puckered
+1925,1925,"{'Ta': 4, 'Se': 2}",Puckered
+1926,1926,"{'Sn': 4, 'I': 2, 'F': 6}",Puckered
+1927,1927,"{'Ba': 1, 'Th': 1, 'Br': 6}",Puckered
+1928,1928,"{'Na': 2, 'Cl': 1}",Puckered
+1929,1929,"{'Ti': 2, 'Br': 6}",Puckered
+1930,1930,"{'Fe': 2, 'Mo': 2, 'Cl': 2, 'O': 8}",Puckered
+1931,1931,"{'Ca': 2, 'P': 4, 'H': 8, 'O': 8}",Puckered
+1932,1932,"{'Hf': 2, 'S': 6}",Puckered
+1933,1933,"{'Zr': 4, 'Cu': 2, 'Ge': 8}",Puckered
+1934,1934,"{'Fe': 1, 'Sn': 2, 'C': 6, 'N': 6}",Puckered
+1935,1935,"{'Li': 1, 'V': 1, 'O': 2, 'F': 2}",Puckered
+1936,1936,"{'Ba': 1, 'Tl': 1, 'Sn': 2, 'O': 6}",Puckered
+1937,1937,"{'Pr': 4, 'I': 10}",Puckered
+1938,1938,"{'V': 1, 'O': 1, 'F': 2}",Puckered
+1939,1939,"{'Rb': 1, 'C': 2}",Puckered
+1940,1940,"{'Mg': 1, 'Br': 2}",Puckered
+1941,1941,"{'Zn': 2, 'P': 2, 'S': 6}",Puckered
+1942,1942,"{'Ta': 4, 'Co': 4, 'Te': 8}",Puckered
+1943,1943,"{'Ta': 4, 'Ni': 2, 'S': 10}",Puckered
+1944,1944,"{'Li': 1, 'Cu': 1, 'C': 1, 'O': 3}",Puckered
+1945,1945,"{'Sb': 1, 'O': 2}",Puckered
+1946,1946,"{'Mg': 1, 'I': 2, 'O': 6}",Puckered
+1947,1947,"{'I': 4, 'O': 10}",Puckered
+1948,1948,"{'Pu': 2, 'Br': 6}",Puckered
+1949,1949,"{'Ca': 3, 'Cu': 2, 'Br': 2, 'O': 4}",Puckered
+1950,1950,"{'Dy': 2, 'Zn': 2, 'P': 2, 'O': 2}",Puckered
+1951,1951,"{'Tl': 2, 'Sn': 1, 'As': 2, 'S': 6}",Puckered
+1952,1952,"{'Hf': 1, 'S': 2}",Puckered
+1953,1953,"{'Zn': 1, 'H': 2, 'O': 2}",Puckered
+1954,1954,"{'Na': 2, 'In': 2, 'Br': 8}",Puckered
+1955,1955,"{'Zr': 1, 'Mo': 2, 'O': 8}",Puckered
+1956,1956,"{'Sr': 1, 'Bi': 5, 'O': 9}",Puckered
+1957,1957,"{'Ag': 4, 'I': 4, 'O': 12}",Puckered
+1958,1958,"{'Li': 2, 'Cu': 2, 'C': 2, 'O': 6}",Puckered
+1959,1959,"{'Nb': 4, 'Ni': 4, 'Te': 8}",Puckered
+1960,1960,"{'Zr': 2, 'Br': 2, 'N': 2}",Puckered
+1961,1961,"{'Tl': 1, 'In': 1, 'S': 2}",Puckered
+1962,1962,"{'Ta': 4, 'Ag': 1, 'S': 8}",Puckered
+1963,1963,"{'Si': 2, 'Hg': 6, 'O': 7}",Puckered
+1964,1964,"{'Co': 2, 'Te': 3, 'O': 8}",Puckered
+1965,1965,"{'Sr': 2, 'Th': 2, 'Br': 12}",Puckered
+1966,1966,"{'Cr': 2, 'Br': 2, 'O': 2}",Puckered
+1967,1967,"{'Ag': 4, 'S': 2}",Puckered
+1968,1968,"{'Li': 2, 'U': 1, 'Br': 6}",Puckered
+1969,1969,"{'Ta': 3, 'Te': 14, 'Pd': 3}",Puckered
+1970,1970,"{'Y': 1, 'Fe': 1, 'F': 5}",Puckered
+1971,1971,"{'La': 2, 'P': 1, 'Br': 2}",Puckered
+1972,1972,"{'Fe': 4, 'Cu': 2, 'S': 7}",Puckered
+1973,1973,"{'Mg': 1, 'Sb': 2, 'O': 5}",Puckered
+1974,1974,"{'Li': 2, 'V': 2, 'O': 4, 'F': 4}",Puckered
+1975,1975,"{'Rb': 6, 'O': 3}",Puckered
+1976,1976,"{'Ba': 1, 'Tl': 1, 'Co': 2, 'O': 6}",Puckered
+1977,1977,"{'Nb': 2, 'C': 1, 'S': 2}",Puckered
+1978,1978,"{'Ba': 2, 'Bi': 3, 'O': 7}",Puckered
+1979,1979,"{'Sb': 6, 'Te': 6}",Puckered
+1980,1980,"{'Rb': 2, 'Sn': 1, 'H': 12, 'N': 6}",Puckered
+1981,1981,"{'Rb': 2, 'Pb': 2, 'F': 6}",Puckered
+1982,1982,"{'K': 2, 'H': 4, 'I': 6, 'O': 2}",Puckered
+1983,1983,"{'Ba': 2, 'Mn': 3, 'O': 8}",Puckered
+1984,1984,"{'Ag': 4, 'C': 2, 'O': 6}",Puckered
+1985,1985,"{'Ni': 1, 'C': 2, 'S': 2, 'N': 2}",Puckered
+1986,1986,"{'Si': 2, 'Bi': 4, 'O': 10}",Puckered
+1987,1987,"{'Bi': 4, 'Te': 4, 'I': 4, 'O': 12}",Puckered
+1988,1988,"{'Fe': 2, 'H': 2, 'O': 4}",Puckered
+1989,1989,"{'Nb': 6, 'Si': 2, 'Te': 12}",Puckered
+1990,1990,"{'Ho': 2, 'Br': 2, 'O': 2}",Puckered
+1991,1991,"{'Mn': 1, 'Co': 2, 'O': 6}",Puckered
+1992,1992,"{'Sr': 4, 'Mn': 2, 'Cl': 2, 'O': 6}",Puckered
+1993,1993,"{'Hg': 4, 'Mo': 2, 'O': 8}",Puckered
+1994,1994,"{'V': 1, 'O': 2}",Puckered
+1995,1995,"{'Tm': 2, 'Br': 2, 'O': 2}",Puckered
+1996,1996,"{'Ba': 2, 'Ti': 1, 'O': 4}",Puckered
+1997,1997,"{'Bi': 2, 'Se': 2}",Puckered
+1998,1998,"{'Fe': 2, 'Cl': 2, 'O': 2}",Puckered
+1999,1999,"{'Ti': 1, 'W': 2, 'O': 8}",Puckered
+2000,2000,"{'Pu': 2, 'I': 6}",Puckered
+2001,2001,"{'Ba': 1, 'Cu': 1, 'Re': 1, 'O': 5}",Puckered
+2002,2002,"{'Li': 2, 'Cu': 2, 'C': 2, 'O': 6}",Puckered
+2003,2003,"{'V': 4, 'Ag': 2, 'O': 11}",Puckered
+2004,2004,"{'Ni': 1, 'I': 2, 'O': 6}",Puckered
+2005,2005,"{'Ba': 4, 'Sb': 4, 'O': 10}",Puckered
+2006,2006,"{'Ba': 1, 'Cu': 1, 'Sb': 1, 'O': 5}",Puckered
+2007,2007,"{'Tl': 4, 'V': 4, 'O': 12}",Puckered
+2008,2008,"{'Ti': 1, 'Co': 2, 'O': 6}",Puckered
+2009,2009,"{'Ta': 8, 'Ag': 2, 'S': 16}",Puckered
+2010,2010,"{'Re': 4, 'Se': 8}",Puckered
+2011,2011,"{'Ba': 2, 'Th': 2, 'Br': 12}",Puckered
+2012,2012,"{'Nd': 2, 'Te': 6}",Puckered
+2013,2013,"{'Rb': 4, 'As': 4, 'O': 8}",Puckered
+2014,2014,"{'Ca': 1, 'Bi': 4, 'O': 8}",Puckered
+2015,2015,"{'Ag': 4, 'Hg': 4, 'S': 4, 'Br': 4}",Puckered
+2016,2016,"{'Mg': 1, 'Bi': 2, 'O': 5}",Puckered
+2017,2017,"{'Tl': 4, 'As': 4, 'S': 8}",Puckered
+2018,2018,"{'Ba': 2, 'Ni': 2, 'F': 8}",Puckered
+2019,2019,"{'B': 3, 'C': 10, 'N': 3}",Planar
+2020,2020,"{'Sb': 2, 'Te': 1, 'Se': 2}",Puckered
+2021,2021,"{'Ba': 1, 'Cu': 1, 'W': 1, 'O': 5}",Puckered
+2022,2022,"{'Cd': 1, 'C': 1, 'N': 2}",Puckered
+2023,2023,"{'Nb': 1, 'Se': 2}",Puckered
+2024,2024,"{'Mn': 1, 'H': 2, 'O': 2}",Puckered
+2025,2025,"{'Lu': 4, 'B': 3, 'C': 4}",Puckered
+2026,2026,"{'Ba': 1, 'Ca': 1, 'I': 4}",Puckered
+2027,2027,"{'Ho': 1, 'Sb': 2}",Puckered
+2028,2028,"{'Te': 6, 'Pd': 8, 'Br': 8}",Puckered
+2029,2029,"{'Nb': 4, 'V': 2, 'Zn': 4, 'O': 16}",Puckered
+2030,2030,"{'Zr': 1, 'Ti': 1, 'Te': 4}",Puckered
+2031,2031,"{'Hg': 4, 'S': 2, 'O': 8}",Puckered
+2032,2032,"{'Tl': 4, 'Sn': 2, 'S': 6}",Puckered
+2033,2033,"{'Mn': 3, 'Sb': 1, 'O': 8}",Puckered
+2034,2034,"{'In': 2, 'Sb': 4, 'Se': 8, 'Br': 2}",Puckered
+2035,2035,"{'Ti': 4, 'Zn': 2, 'O': 10}",Puckered
+2036,2036,"{'Li': 2, 'Cu': 4, 'F': 10}",Puckered
+2037,2037,"{'Au': 2, 'C': 2, 'Cl': 2, 'O': 2}",Puckered
+2038,2038,"{'Sc': 2, 'Te': 5, 'O': 13}",Puckered
+2039,2039,"{'Y': 14, 'C': 6, 'I': 12, 'O': 2}",Puckered
+2040,2040,"{'Cr': 2, 'Cu': 2, 'P': 4, 'S': 12}",Puckered
+2041,2041,"{'Ba': 2, 'Tl': 2, 'Sn': 4, 'O': 12}",Puckered
+2042,2042,"{'Bi': 2, 'O': 3}",Puckered
+2043,2043,"{'Pb': 4, 'W': 4, 'O': 16}",Puckered
+2044,2044,"{'Tl': 2, 'Sb': 2, 'O': 6}",Puckered
+2045,2045,"{'Nb': 1, 'Tl': 1, 'Br': 4, 'O': 1}",Puckered
+2046,2046,"{'In': 2, 'Sb': 4, 'S': 8, 'Cl': 2}",Puckered
+2047,2047,"{'Fe': 8, 'Cu': 4, 'S': 14}",Puckered
+2048,2048,"{'Fe': 2, 'W': 2, 'Cl': 2, 'O': 8}",Puckered
+2049,2049,"{'Sn': 2, 'Br': 2, 'F': 2}",Puckered
+2050,2050,"{'Sb': 2, 'O': 2, 'F': 2}",Puckered
+2051,2051,"{'Ti': 1, 'Pb': 9, 'O': 11}",Puckered
+2052,2052,"{'U': 2, 'Te': 2, 'O': 2}",Puckered
+2053,2053,"{'Ba': 2, 'Ti': 3, 'O': 7}",Puckered
+2054,2054,"{'Zn': 1, 'In': 2, 'S': 4}",Puckered
+2055,2055,"{'Ti': 2, 'Bi': 4, 'O': 10}",Puckered
+2056,2056,"{'Lu': 2, 'Te': 5, 'O': 13}",Puckered
+2057,2057,"{'Zn': 4, 'Ag': 4, 'O': 10}",Puckered
+2058,2058,"{'Ti': 1, 'V': 2, 'Cr': 1, 'O': 10}",Puckered
+2059,2059,"{'Sc': 4, 'Te': 10, 'O': 26}",Puckered
+2060,2060,"{'Mg': 2, 'Sb': 4, 'O': 8}",Puckered
+2061,2061,{'C': 2},Planar
+2062,2062,"{'Ba': 8, 'Li': 4, 'N': 4}",Puckered
+2063,2063,"{'Li': 3, 'Fe': 2, 'F': 9}",Puckered
+2064,2064,"{'Co': 1, 'Te': 1, 'O': 4}",Puckered
+2065,2065,"{'Fe': 1, 'P': 2, 'S': 6}",Puckered
+2066,2066,"{'Re': 6, 'Se': 8, 'Cl': 2}",Puckered
+2067,2067,"{'Zn': 2, 'Bi': 4, 'O': 10}",Puckered
+2068,2068,"{'V': 4, 'Te': 4, 'O': 16}",Puckered
+2069,2069,"{'Pu': 2, 'I': 2, 'O': 2}",Puckered
+2070,2070,"{'Re': 4, 'S': 8}",Puckered
+2071,2071,"{'K': 2, 'Mo': 6, 'O': 18}",Puckered
+2072,2072,"{'Ti': 6, 'H': 4, 'O': 14}",Puckered
+2073,2073,"{'Mg': 1, 'Cl': 2}",Puckered
+2074,2074,"{'K': 4, 'Cr': 4, 'Cl': 4, 'O': 12}",Puckered
+2075,2075,"{'Cd': 1, 'H': 1, 'Cl': 1, 'O': 1}",Puckered
+2076,2076,"{'Cr': 4, 'S': 10}",Puckered
+2077,2077,"{'Sr': 4, 'Cr': 2, 'Cu': 4, 'O': 14}",Puckered
+2078,2078,"{'Zn': 2, 'W': 2, 'O': 5}",Puckered
+2079,2079,"{'Zn': 2, 'Sb': 4, 'O': 8}",Puckered
+2080,2080,"{'Co': 2, 'Se': 2}",Puckered
+2081,2081,"{'Au': 4, 'Se': 4}",Puckered
+2082,2082,"{'Mg': 2, 'Mo': 3, 'O': 8}",Puckered
+2083,2083,"{'Ca': 2, 'Sb': 4, 'O': 8}",Puckered
+2084,2084,"{'Mg': 2, 'Al': 2, 'Se': 5}",Puckered
+2085,2085,"{'Mg': 2, 'Ag': 2, 'O': 5}",Puckered
+2086,2086,"{'Ca': 2, 'P': 2, 'H': 8, 'O': 12}",Puckered
+2087,2087,"{'Ta': 6, 'Te': 28, 'Pd': 6}",Puckered
+2088,2088,"{'Sr': 3, 'Co': 2, 'S': 2, 'O': 5}",Puckered
+2089,2089,"{'Fe': 1, 'H': 2, 'O': 2}",Puckered
+2090,2090,"{'Zn': 8, 'Se': 4, 'Cl': 8, 'O': 12}",Puckered
+2091,2091,"{'Ti': 6, 'H': 4, 'O': 14}",Puckered
+2092,2092,"{'Be': 2, 'B': 4, 'C': 4}",Puckered
+2093,2093,"{'Ti': 1, 'O': 2}",Puckered
+2094,2094,"{'Li': 2, 'Bi': 1, 'O': 3}",Puckered
+2095,2095,"{'Zr': 2, 'Pb': 2, 'F': 12}",Puckered
+2096,2096,"{'Cu': 4, 'Hg': 4, 'S': 4, 'Br': 4}",Puckered
+2097,2097,"{'Lu': 4, 'Te': 10, 'O': 26}",Puckered
+2098,2098,"{'Sb': 2, 'Te': 2, 'Se': 1}",Puckered
+2099,2099,"{'Cu': 2, 'Bi': 2, 'O': 4}",Puckered
+2100,2100,"{'Fe': 2, 'P': 2, 'S': 6}",Puckered
+2101,2101,"{'Mg': 3, 'P': 2, 'H': 16, 'O': 16}",Puckered
+2102,2102,"{'Ta': 3, 'O': 5, 'F': 5}",Puckered
+2103,2103,"{'Bi': 2, 'P': 2, 'Pb': 2, 'O': 10}",Puckered
+2104,2104,"{'Na': 2, 'B': 2, 'F': 8}",Puckered
+2105,2105,{'Zn': 1},Planar
+2106,2106,"{'Mg': 3, 'Si': 4, 'H': 2, 'O': 12}",Puckered
+2107,2107,"{'Ni': 2, 'P': 4}",Puckered
+2108,2108,"{'Y': 2, 'Cu': 3, 'O': 6}",Puckered
+2109,2109,"{'Cr': 2, 'Cu': 2, 'O': 8}",Puckered
+2110,2110,"{'Mg': 2, 'P': 2, 'Se': 6}",Puckered
+2111,2111,"{'Mo': 2, 'N': 4}",Puckered
+2112,2112,{'Cd': 1},Planar
+2113,2113,"{'Zr': 3, 'Al': 4, 'C': 6}",Puckered
+2114,2114,"{'Zn': 2, 'Co': 3, 'O': 8}",Puckered
+2115,2115,"{'Nb': 1, 'V': 3, 'O': 10}",Puckered
+2116,2116,"{'K': 4, 'Co': 2, 'Se': 4}",Puckered
+2117,2117,"{'Co': 4, 'As': 4, 'S': 4}",Puckered
+2118,2118,"{'Sr': 4, 'Cu': 4, 'Ni': 2, 'O': 14}",Puckered
+2119,2119,"{'Sr': 2, 'Cu': 2, 'Bi': 2, 'O': 8}",Puckered
+2120,2120,"{'Cu': 2, 'C': 2, 'Cl': 2, 'O': 2}",Puckered
+2121,2121,"{'Mn': 5, 'O': 9, 'F': 1}",Puckered
+2122,2122,"{'Li': 2, 'H': 4, 'N': 2, 'O': 6}",Puckered
+2123,2123,"{'Tl': 2, 'O': 1}",Puckered
+2124,2124,"{'Tl': 2, 'Sb': 2, 'O': 6}",Puckered
+2125,2125,"{'In': 4, 'Te': 4, 'O': 12, 'F': 4}",Puckered
+2126,2126,"{'Ba': 2, 'Ni': 3, 'O': 7}",Puckered
+2127,2127,"{'Sr': 4, 'Co': 2, 'S': 2, 'O': 6}",Puckered
+2128,2128,"{'Co': 2, 'Sb': 1, 'O': 6}",Puckered
+2129,2129,"{'Hg': 3, 'Au': 1}",Planar
+2130,2130,"{'Ca': 1, 'Bi': 4, 'O': 8}",Puckered
+2131,2131,"{'Ga': 4, 'Te': 6}",Puckered
+2132,2132,"{'Sm': 2, 'Ga': 4, 'Co': 2}",Puckered
+2133,2133,"{'Ge': 3, 'Te': 6, 'As': 2}",Puckered
+2134,2134,"{'Mn': 1, 'Co': 2, 'O': 6}",Puckered
+2135,2135,"{'La': 2, 'Pb': 12, 'Br': 2, 'O': 14}",Puckered
+2136,2136,"{'Pb': 2, 'Cl': 4, 'O': 8}",Puckered
+2137,2137,"{'La': 2, 'Bi': 7, 'O': 14}",Puckered
+2138,2138,"{'Ag': 2, 'Bi': 2, 'O': 4}",Puckered
+2139,2139,"{'Zn': 2, 'Cr': 3, 'O': 8}",Puckered
+2140,2140,"{'Mg': 3, 'H': 2, 'O': 4}",Puckered
+2141,2141,"{'Ba': 1, 'Y': 1, 'Sn': 4, 'O': 7}",Puckered
+2142,2142,"{'Nb': 6, 'Se': 18}",Puckered
+2143,2143,"{'Mg': 1, 'Al': 2, 'Se': 4}",Puckered
+2144,2144,"{'Ba': 1, 'V': 4, 'O': 8}",Puckered
+2145,2145,"{'Mg': 2, 'P': 2, 'S': 6}",Puckered
+2146,2146,"{'Mn': 1, 'Co': 1, 'O': 4}",Puckered
+2147,2147,"{'V': 1, 'Cl': 2, 'O': 1}",Puckered
+2148,2148,"{'Ca': 2, 'Ti': 8, 'O': 18}",Puckered
+2149,2149,"{'Li': 4, 'Co': 1, 'P': 2, 'O': 8}",Puckered
+2150,2150,"{'Cr': 2, 'Si': 2, 'Te': 6}",Puckered
+2151,2151,"{'K': 2, 'B': 2, 'C': 8, 'O': 16}",Puckered
+2152,2152,"{'Hf': 2, 'Sn': 2, 'O': 6}",Puckered
+2153,2153,"{'Na': 2, 'H': 6, 'Pt': 1, 'O': 6}",Puckered
+2154,2154,"{'Ca': 1, 'Sb': 2, 'O': 5}",Puckered
+2155,2155,"{'Li': 2, 'Cu': 2, 'O': 2}",Puckered
+2156,2156,"{'K': 1, 'V': 4, 'O': 10}",Puckered
+2157,2157,"{'Ta': 4, 'Ti': 2, 'Zn': 4, 'O': 16}",Puckered
+2158,2158,"{'Pt': 1, 'S': 2}",Puckered
+2159,2159,"{'Mg': 2, 'Mn': 4, 'O': 10}",Puckered
+2160,2160,"{'Cr': 8, 'Te': 24}",Puckered
+2161,2161,"{'Ba': 1, 'Al': 1, 'Sn': 4, 'O': 7}",Puckered
+2162,2162,"{'Bi': 2, 'Pb': 2, 'Se': 5}",Puckered
+2163,2163,"{'Ca': 6, 'Zn': 2}",Puckered
+2164,2164,"{'Li': 4, 'P': 8, 'W': 2, 'O': 26}",Puckered
+2165,2165,"{'Sm': 2, 'H': 4, 'Cl': 2, 'O': 4}",Puckered
+2166,2166,"{'Li': 2, 'Co': 2, 'P': 2, 'O': 8}",Puckered
+2167,2167,"{'Ba': 4, 'Tl': 4, 'Cu': 2, 'O': 12}",Puckered
+2168,2168,"{'Y': 1, 'Ge': 3}",Puckered
+2169,2169,"{'Sb': 10, 'O': 14, 'F': 2}",Puckered
+2170,2170,"{'Li': 2, 'V': 2, 'F': 8}",Puckered
+2171,2171,"{'Fe': 1, 'Co': 1, 'O': 4}",Puckered
+2172,2172,"{'Sr': 2, 'La': 2, 'Br': 10}",Puckered
+2173,2173,"{'Li': 2, 'V': 1, 'P': 2, 'O': 8}",Puckered
+2174,2174,"{'Sr': 2, 'La': 2, 'I': 10}",Puckered
+2175,2175,"{'Ba': 2, 'Tl': 2, 'Co': 4, 'O': 12}",Puckered
+2176,2176,"{'Al': 2, 'B': 2, 'Mo': 2}",Puckered
+2177,2177,"{'Cr': 1, 'O': 2}",Puckered
+2178,2178,"{'Mo': 12, 'Cl': 24}",Puckered
+2179,2179,"{'In': 2, 'Cu': 2, 'Mo': 4, 'O': 16}",Puckered
+2180,2180,"{'V': 4, 'Zn': 2, 'O': 10}",Puckered
+2181,2181,"{'Te': 2, 'Pd': 2, 'I': 4}",Puckered
+2182,2182,"{'Li': 4, 'V': 4, 'F': 16}",Puckered
+2183,2183,"{'V': 4, 'Zn': 4, 'O': 8}",Puckered
+2184,2184,"{'Li': 2, 'Mn': 2, 'P': 2, 'O': 8}",Puckered
+2185,2185,"{'Ag': 2, 'O': 4, 'F': 2}",Puckered
+2186,2186,"{'Ce': 2, 'Bi': 2, 'S': 4, 'O': 2}",Puckered
+2187,2187,"{'Pt': 1, 'O': 2}",Puckered
+2188,2188,"{'Sb': 2, 'Cl': 2, 'O': 2}",Puckered
+2189,2189,"{'Zn': 2, 'Ni': 4, 'O': 10}",Puckered
+2190,2190,"{'Mn': 4, 'F': 10}",Puckered
+2191,2191,"{'Li': 4, 'V': 2, 'O': 4, 'F': 2}",Puckered
+2192,2192,"{'Mg': 1, 'H': 2, 'O': 2}",Puckered
+2193,2193,"{'Ca': 1, 'O': 2}",Puckered
+2194,2194,"{'Sn': 4, 'H': 4, 'C': 8, 'O': 12}",Puckered
+2195,2195,"{'Sr': 4, 'As': 2, 'O': 1}",Puckered
+2196,2196,"{'Li': 4, 'V': 4, 'O': 12}",Puckered
+2197,2197,"{'Cu': 1, 'Bi': 1, 'P': 2, 'Se': 6}",Puckered
+2198,2198,"{'La': 1, 'H': 1, 'Br': 2}",Puckered
+2199,2199,"{'Au': 2, 'Se': 3, 'O': 10}",Puckered
+2200,2200,"{'Ta': 2, 'Ni': 4, 'Te': 2, 'Se': 2}",Puckered
+2201,2201,"{'Li': 6, 'Br': 3, 'N': 1}",Puckered
+2202,2202,"{'Li': 6, 'Sb': 2, 'S': 6}",Puckered
+2203,2203,"{'Sr': 2, 'H': 4, 'Se': 4, 'O': 12}",Puckered
+2204,2204,"{'Y': 2, 'Mn': 2, 'S': 2, 'O': 5}",Puckered
+2205,2205,"{'Zn': 4, 'Sn': 4, 'O': 8}",Puckered
+2206,2206,"{'Bi': 4, 'Te': 2, 'Br': 2, 'O': 9}",Puckered
+2207,2207,"{'B': 4, 'N': 4}",Planar
+2208,2208,"{'Li': 4, 'V': 2, 'F': 12}",Puckered
+2209,2209,"{'Sb': 2, 'Mo': 4, 'O': 16}",Puckered
+2210,2210,"{'Zn': 2, 'In': 2, 'S': 5}",Puckered
+2211,2211,"{'Sm': 2, 'Al': 4, 'Cl': 16}",Puckered
+2212,2212,"{'Ba': 4, 'Sb': 4, 'Se': 8, 'F': 4}",Puckered
+2213,2213,"{'Ca': 6, 'Ge': 6, 'O': 18}",Puckered
+2214,2214,"{'Si': 4, 'Ag': 12, 'O': 14}",Puckered
+2215,2215,"{'Li': 2, 'V': 1, 'F': 6}",Puckered
+2216,2216,"{'Hg': 3, 'S': 1, 'O': 6}",Puckered
+2217,2217,"{'K': 1, 'Re': 2, 'O': 4, 'F': 7}",Puckered
+2218,2218,"{'Tm': 2, 'Fe': 2, 'Ge': 4}",Puckered
+2219,2219,"{'Eu': 1, 'Re': 2, 'O': 8}",Puckered
+2220,2220,"{'V': 2, 'Se': 2}",Puckered
+2221,2221,"{'Cu': 2, 'Se': 4, 'Cl': 2}",Puckered
+2222,2222,"{'Tl': 4, 'Ge': 2, 'S': 6}",Puckered
+2223,2223,"{'Li': 2, 'Fe': 1, 'P': 2, 'O': 8}",Puckered
+2224,2224,"{'Rb': 4, 'Re': 4, 'S': 4, 'O': 12}",Puckered
+2225,2225,"{'Cd': 2, 'Sb': 4, 'Se': 6, 'Br': 4}",Puckered
+2226,2226,"{'Mg': 1, 'Sb': 4, 'O': 8}",Puckered
+2227,2227,"{'Ta': 4, 'Mo': 2, 'O': 16}",Puckered
+2228,2228,"{'Mn': 2, 'P': 2, 'S': 6}",Puckered
+2229,2229,"{'V': 4, 'Zn': 2, 'S': 10}",Puckered
+2230,2230,"{'K': 5, 'N': 1, 'O': 4}",Puckered
+2231,2231,"{'Li': 4, 'Cu': 4, 'O': 8}",Puckered
+2232,2232,"{'Pr': 1, 'Re': 2, 'O': 8}",Puckered
+2233,2233,"{'Ta': 2, 'O': 5}",Puckered
+2234,2234,"{'Fe': 1, 'I': 2}",Puckered
+2235,2235,"{'Sc': 2, 'Br': 2, 'O': 2}",Puckered
+2236,2236,"{'W': 4, 'O': 10}",Puckered
+2237,2237,"{'Y': 2, 'C': 2, 'Br': 2}",Puckered
+2238,2238,"{'Sn': 4, 'Ge': 4, 'S': 12}",Puckered
+2239,2239,"{'Te': 6, 'As': 4}",Puckered
+2240,2240,"{'Tl': 2, 'I': 6, 'O': 18}",Puckered
+2241,2241,"{'Te': 2, 'Pt': 1}",Puckered
+2242,2242,"{'Mg': 1, 'Sb': 2, 'O': 5}",Puckered
+2243,2243,"{'Y': 2, 'I': 2, 'O': 2}",Puckered
+2244,2244,"{'Co': 2, 'Sb': 4, 'Br': 4, 'O': 6}",Puckered
+2245,2245,"{'Ba': 1, 'B': 2, 'Se': 6}",Puckered
+2246,2246,"{'Ba': 2, 'Tl': 2, 'Cu': 1, 'O': 6}",Puckered
+2247,2247,"{'Ta': 2, 'Pd': 1, 'S': 6}",Puckered
+2248,2248,"{'Ag': 2, 'Ge': 2, 'O': 6}",Puckered
+2249,2249,"{'Li': 8, 'Cr': 3, 'Te': 1, 'O': 12}",Puckered
+2250,2250,"{'Ag': 2, 'C': 2, 'S': 2, 'N': 2}",Puckered
+2251,2251,"{'Pb': 4, 'W': 4, 'O': 16}",Puckered
+2252,2252,"{'Ta': 1, 'Se': 2}",Puckered
+2253,2253,"{'Cd': 1, 'H': 2, 'O': 2}",Puckered
+2254,2254,"{'Mn': 2, 'O': 4}",Puckered
+2255,2255,{'Sb': 4},Puckered
+2256,2256,"{'Fe': 2, 'O': 2, 'F': 2}",Puckered
+2257,2257,"{'Zr': 2, 'Al': 4, 'C': 5}",Puckered
+2258,2258,"{'Bi': 2, 'Te': 5, 'Pb': 2}",Puckered
+2259,2259,"{'Zn': 1, 'Sn': 2, 'N': 2}",Puckered
+2260,2260,"{'Cu': 1, 'Br': 1, 'O': 2}",Puckered
+2261,2261,"{'Nb': 2, 'I': 4, 'O': 2}",Puckered
+2262,2262,"{'Li': 4, 'Fe': 4, 'F': 16}",Puckered
+2263,2263,"{'K': 2, 'Ca': 1, 'N': 4, 'O': 8}",Puckered
+2264,2264,"{'Zr': 1, 'Al': 5, 'Ni': 2}",Puckered
+2265,2265,"{'Al': 1, 'Ni': 1, 'F': 5}",Puckered
+2266,2266,"{'Cr': 2, 'P': 2, 'S': 8}",Puckered
+2267,2267,"{'Ag': 2, 'C': 2, 'N': 2, 'O': 2}",Puckered
+2268,2268,"{'Ni': 1, 'Cl': 2, 'O': 8}",Puckered
+2269,2269,"{'Te': 2, 'H': 4, 'O': 8}",Puckered
+2270,2270,"{'Sm': 2, 'P': 3, 'Pt': 6}",Puckered
+2271,2271,"{'Ba': 2, 'Ti': 3, 'O': 8}",Puckered
+2272,2272,"{'Ca': 1, 'Bi': 2, 'O': 5}",Puckered
+2273,2273,"{'V': 4, 'O': 10}",Puckered
+2274,2274,"{'Sn': 1, 'W': 2, 'O': 8}",Puckered
+2275,2275,"{'Li': 2, 'Cu': 2, 'P': 6, 'O': 18}",Puckered
+2276,2276,"{'Ag': 4, 'S': 2}",Puckered
+2277,2277,"{'Sb': 1, 'W': 2, 'O': 8}",Puckered
+2278,2278,"{'Ba': 4, 'As': 2, 'O': 1}",Puckered
+2279,2279,"{'K': 4, 'As': 4, 'O': 8}",Puckered
+2280,2280,"{'Ca': 2, 'Ge': 4, 'W': 2, 'O': 12}",Puckered
+2281,2281,"{'Cu': 3, 'Te': 2, 'Br': 2, 'O': 6}",Puckered
+2282,2282,"{'Ca': 2, 'Bi': 2, 'Cl': 2, 'O': 4}",Puckered
+2283,2283,"{'Al': 2, 'F': 6}",Puckered
+2284,2284,"{'Ca': 3, 'Si': 1, 'Br': 2}",Puckered
+2285,2285,"{'Te': 4, 'Pd': 6, 'Pb': 4}",Puckered
+2286,2286,"{'Li': 2, 'Te': 2, 'H': 2, 'O': 8}",Puckered
+2287,2287,"{'H': 1, 'Au': 1, 'O': 2}",Puckered
+2288,2288,"{'Mg': 2, 'Bi': 4, 'O': 8}",Puckered
+2289,2289,"{'Li': 2, 'Cu': 2, 'O': 4}",Puckered
+2290,2290,"{'Fe': 2, 'O': 2, 'F': 2}",Puckered
+2291,2291,"{'Bi': 8, 'O': 16}",Puckered
+2292,2292,"{'Li': 2, 'U': 1, 'O': 4}",Puckered
+2293,2293,"{'Mg': 2, 'Sn': 4, 'O': 8}",Puckered
+2294,2294,"{'Tm': 1, 'Mg': 5}",Puckered
+2295,2295,"{'V': 2, 'Pb': 2, 'Cl': 2, 'O': 6}",Puckered
+2296,2296,"{'Cu': 1, 'Ag': 1, 'O': 2}",Puckered
+2297,2297,"{'Cu': 2, 'C': 2, 'N': 4}",Puckered
+2298,2298,"{'Ba': 1, 'Co': 4, 'O': 8}",Puckered
+2299,2299,"{'Ce': 4, 'C': 2, 'Br': 5}",Puckered
+2300,2300,"{'Cr': 2, 'F': 4}",Puckered
+2301,2301,"{'Al': 2, 'Os': 1}",Puckered
+2302,2302,"{'Sr': 4, 'Ga': 2, 'Ni': 4, 'O': 14}",Puckered
+2303,2303,"{'Ga': 2, 'Ni': 1, 'S': 4}",Puckered
+2304,2304,"{'Bi': 4, 'Pd': 2}",Puckered
+2305,2305,"{'Ta': 4, 'Te': 6}",Puckered
+2306,2306,"{'Ti': 1, 'Mn': 3, 'O': 8}",Puckered
+2307,2307,"{'Fe': 2, 'C': 2, 'O': 7}",Puckered
+2308,2308,"{'La': 4, 'C': 2, 'Br': 5}",Puckered
+2309,2309,"{'Bi': 1, 'Te': 1, 'Br': 1}",Puckered
+2310,2310,"{'Ti': 2, 'Sn': 2, 'O': 6}",Puckered
+2311,2311,"{'Pb': 1, 'F': 4}",Puckered
+2312,2312,"{'Li': 1, 'Mn': 7, 'O': 7, 'F': 1}",Puckered
+2313,2313,"{'Zn': 4, 'Cr': 2, 'N': 4}",Puckered
+2314,2314,"{'Ho': 1, 'S': 1}",Puckered
+2315,2315,"{'Ba': 2, 'La': 2, 'Cl': 10}",Puckered
+2316,2316,"{'Sm': 2, 'Te': 6}",Puckered
+2317,2317,"{'Bi': 4, 'Rh': 6, 'S': 4}",Puckered
+2318,2318,"{'Co': 1, 'Re': 2, 'O': 8}",Puckered
+2319,2319,"{'Ba': 2, 'Cr': 3, 'O': 8}",Puckered
+2320,2320,"{'Y': 2, 'Ge': 1, 'I': 2}",Puckered
+2321,2321,"{'Yb': 3, 'S': 2, 'F': 4}",Puckered
+2322,2322,"{'Ba': 1, 'Cr': 4, 'O': 8}",Puckered
+2323,2323,"{'Cu': 2, 'S': 4}",Puckered
+2324,2324,"{'Lu': 2, 'S': 2, 'Br': 2}",Puckered
+2325,2325,"{'Al': 4, 'H': 12, 'O': 12}",Puckered
+2326,2326,"{'V': 1, 'S': 2}",Puckered
+2327,2327,"{'Ba': 2, 'La': 2, 'Br': 10}",Puckered
+2328,2328,"{'Mg': 2, 'H': 2, 'O': 3}",Puckered
+2329,2329,"{'Ag': 2, 'Au': 2, 'Cl': 8}",Puckered
+2330,2330,"{'Pr': 4, 'C': 2, 'Cl': 5}",Puckered
+2331,2331,"{'Sr': 2, 'Cu': 1, 'Br': 2, 'O': 2}",Puckered
+2332,2332,"{'Co': 1, 'H': 2, 'O': 2}",Puckered
+2333,2333,"{'Mn': 2, 'P': 2, 'Se': 6}",Puckered
+2334,2334,"{'Zn': 2, 'Ge': 4, 'W': 2, 'O': 12}",Puckered
+2335,2335,"{'Al': 2, 'H': 6, 'O': 6}",Puckered
+2336,2336,"{'V': 2, 'I': 2, 'N': 2, 'Cl': 6}",Puckered
+2337,2337,"{'Li': 4, 'Cr': 4, 'O': 14}",Puckered
+2338,2338,"{'Li': 2, 'P': 2, 'H': 4, 'O': 4}",Puckered
+2339,2339,"{'Pr': 2, 'Br': 2, 'O': 2}",Puckered
+2340,2340,"{'U': 4, 'Te': 10}",Puckered
+2341,2341,"{'Ti': 1, 'Mn': 2, 'O': 6}",Puckered
+2342,2342,"{'Mg': 2, 'Sn': 3, 'O': 8}",Puckered
+2343,2343,"{'Li': 2, 'Cu': 2, 'F': 8}",Puckered
+2344,2344,"{'Ag': 4, 'Te': 4, 'O': 12}",Puckered
+2345,2345,"{'Na': 2, 'B': 2, 'C': 8, 'O': 16}",Puckered
+2346,2346,"{'Cd': 1, 'I': 2}",Puckered
+2347,2347,"{'Fe': 3, 'Se': 4}",Puckered
+2348,2348,"{'Hg': 3, 'As': 1}",Planar
+2349,2349,"{'Bi': 2, 'Te': 3}",Puckered
+2350,2350,"{'Bi': 4, 'O': 2, 'F': 8}",Puckered
+2351,2351,"{'La': 8, 'Si': 4, 'I': 8, 'O': 16}",Puckered
+2352,2352,"{'Ni': 2, 'P': 2, 'S': 6}",Puckered
+2353,2353,"{'Li': 2, 'Fe': 3, 'O': 6}",Puckered
+2354,2354,"{'Bi': 2, 'Sb': 2, 'O': 6}",Puckered
+2355,2355,"{'Ca': 2, 'Co': 1, 'O': 3}",Puckered
+2356,2356,"{'Ba': 2, 'H': 18, 'I': 2, 'O': 10}",Puckered
+2357,2357,"{'Mn': 2, 'Cr': 1, 'O': 6}",Puckered
+2358,2358,"{'Mn': 2, 'Co': 1, 'O': 6}",Puckered
+2359,2359,"{'Nb': 2, 'Si': 1, 'Te': 4}",Puckered
+2360,2360,"{'Hf': 1, 'Se': 2}",Puckered
+2361,2361,"{'Hf': 1, 'Te': 2}",Puckered
+2362,2362,"{'Li': 2, 'Cu': 6, 'F': 20}",Puckered
+2363,2363,"{'Sr': 2, 'Co': 1, 'O': 3}",Puckered
+2364,2364,"{'Ca': 1, 'Sn': 2, 'N': 2}",Puckered
+2365,2365,"{'Zr': 4, 'H': 2, 'Br': 4}",Puckered
+2366,2366,"{'Ta': 4, 'Mn': 2, 'Zn': 4, 'O': 16}",Puckered
+2367,2367,"{'Cu': 2, 'I': 4, 'O': 12}",Puckered
+2368,2368,"{'Cu': 2, 'O': 4, 'F': 2}",Puckered
+2369,2369,"{'Tl': 1, 'Br': 1, 'O': 3}",Puckered
+2370,2370,"{'Sc': 2, 'I': 6, 'O': 18}",Puckered
+2371,2371,"{'Zn': 4, 'Sn': 4, 'O': 8}",Puckered
+2372,2372,"{'Eu': 2, 'I': 2, 'O': 2}",Puckered
+2373,2373,"{'Mg': 2, 'Ni': 2, 'P': 4, 'O': 14}",Puckered
+2374,2374,"{'Ba': 2, 'Ni': 3, 'O': 8}",Puckered
+2375,2375,"{'Ba': 2, 'Mn': 3, 'O': 7}",Puckered
+2376,2376,"{'Ag': 2, 'O': 4, 'F': 2}",Puckered
+2377,2377,"{'Ta': 4, 'Co': 2, 'Pd': 1, 'Se': 12}",Puckered
+2378,2378,"{'Ti': 1, 'Fe': 2, 'Se': 4}",Puckered
+2379,2379,"{'Zn': 1, 'Sb': 4, 'O': 8}",Puckered
+2380,2380,"{'Sn': 2, 'S': 2, 'O': 8}",Puckered
+2381,2381,"{'Bi': 2, 'Se': 3}",Puckered
+2382,2382,"{'Ti': 4, 'O': 8}",Puckered
+2383,2383,"{'Tl': 2, 'Pd': 4, 'Se': 6}",Puckered
+2384,2384,"{'Tm': 2, 'Br': 2, 'O': 2}",Puckered
+2385,2385,"{'Mg': 4, 'Cl': 8, 'O': 4}",Puckered
+2386,2386,"{'Mg': 8, 'Si': 8, 'O': 24}",Puckered
+2387,2387,"{'Cr': 1, 'Co': 2, 'O': 6}",Puckered
+2388,2388,"{'Bi': 2, 'Te': 2, 'S': 1}",Puckered
+2389,2389,"{'Ca': 1, 'Sn': 1, 'S': 3}",Puckered
+2390,2390,"{'Co': 2, 'C': 2, 'O': 7}",Puckered
+2391,2391,"{'Dy': 2, 'Co': 2, 'Si': 4}",Puckered
+2392,2392,"{'Zn': 4, 'Sn': 4, 'O': 8}",Puckered
+2393,2393,"{'Ge': 2, 'Pt': 2}",Puckered
+2394,2394,"{'Li': 2, 'Mn': 2, 'P': 2, 'O': 8}",Puckered
+2395,2395,"{'Li': 4, 'Cu': 4, 'F': 10}",Puckered
+2396,2396,"{'Cr': 3, 'O': 8}",Puckered
+2397,2397,"{'Mn': 2, 'I': 4, 'O': 12}",Puckered
+2398,2398,"{'Lu': 2, 'Br': 2, 'O': 2}",Puckered
+2399,2399,"{'Sb': 8, 'I': 4, 'O': 10}",Puckered
+2400,2400,"{'Au': 2, 'Br': 2, 'O': 4}",Puckered
+2401,2401,"{'Ge': 2, 'Se': 2}",Puckered
+2402,2402,"{'Sr': 2, 'Co': 1, 'Cl': 2, 'O': 2}",Puckered
+2403,2403,"{'Cu': 2, 'Ge': 4, 'P': 6}",Puckered
+2404,2404,"{'W': 6, 'Se': 4, 'Cl': 2, 'O': 16}",Puckered
+2405,2405,"{'Cr': 4, 'H': 4, 'O': 8}",Puckered
+2406,2406,"{'Ca': 2, 'Bi': 10, 'O': 17}",Puckered
+2407,2407,"{'Ba': 2, 'H': 8, 'O': 6}",Puckered
+2408,2408,"{'Sn': 4, 'Sb': 2, 'S': 4, 'I': 6}",Puckered
+2409,2409,"{'Ru': 2, 'Cl': 6}",Puckered
+2410,2410,"{'La': 2, 'O': 6}",Puckered
+2411,2411,"{'Al': 4, 'P': 4}",Planar
+2412,2412,"{'Bi': 4, 'O': 8}",Puckered
+2413,2413,"{'Cu': 1, 'O': 2}",Planar
+2414,2414,"{'V': 2, 'Cl': 4, 'O': 2}",Puckered
+2415,2415,"{'Ba': 2, 'Tl': 2, 'W': 3, 'O': 10}",Puckered
+2416,2416,"{'Na': 8, 'Fe': 4, 'O': 8}",Puckered
+2417,2417,"{'Rb': 4, 'Cr': 4, 'Cl': 4, 'O': 12}",Puckered
+2418,2418,"{'Ta': 13, 'Se': 26}",Puckered
+2419,2419,"{'Ti': 2, 'Sn': 2, 'P': 4, 'O': 16}",Puckered
+2420,2420,"{'Bi': 2, 'Te': 1, 'Se': 2}",Puckered
+2421,2421,"{'V': 3, 'H': 4, 'O': 8}",Puckered
+2422,2422,"{'Li': 2, 'Nb': 1, 'P': 2, 'O': 8}",Puckered
+2423,2423,"{'Al': 2, 'Si': 2, 'Te': 6}",Puckered
+2424,2424,"{'Fe': 1, 'Co': 2, 'O': 6}",Puckered
+2425,2425,"{'Ge': 2, 'Sb': 2, 'Te': 5}",Puckered
+2426,2426,"{'Fe': 1, 'Te': 1, 'P': 2, 'O': 8}",Puckered
+2427,2427,"{'Fe': 2, 'O': 6}",Puckered
+2428,2428,"{'Ca': 1, 'Sb': 2, 'O': 5}",Puckered
+2429,2429,"{'Tl': 8, 'Te': 8, 'O': 20}",Puckered
+2430,2430,"{'Ca': 3, 'Si': 1, 'Br': 2}",Puckered
+2431,2431,"{'U': 1, 'C': 1, 'O': 5}",Puckered
+2432,2432,"{'Zr': 1, 'Mo': 2, 'O': 8}",Puckered
+2433,2433,"{'Gd': 2, 'Zn': 2, 'P': 2, 'O': 2}",Puckered
+2434,2434,"{'Nd': 2, 'Zn': 2, 'P': 2, 'O': 2}",Puckered
+2435,2435,"{'Co': 1, 'Bi': 1, 'O': 3}",Puckered
+2436,2436,"{'Sr': 3, 'Fe': 2, 'S': 2, 'O': 5}",Puckered
+2437,2437,"{'Li': 6, 'V': 2, 'O': 4, 'F': 4}",Puckered
+2438,2438,"{'Sr': 2, 'Cl': 4, 'O': 8}",Puckered
+2439,2439,"{'Mg': 1, 'Re': 2, 'O': 8}",Puckered
+2440,2440,"{'Np': 2, 'Br': 6}",Puckered
+2441,2441,"{'Ba': 3, 'In': 2, 'Br': 2, 'O': 5}",Puckered
+2442,2442,"{'Tl': 8, 'Sn': 2, 'S': 6}",Puckered
+2443,2443,"{'Mg': 2, 'Ge': 2, 'O': 6}",Puckered
+2444,2444,"{'Ca': 1, 'Sb': 4, 'O': 8}",Puckered
+2445,2445,"{'Li': 3, 'Mn': 1, 'P': 2}",Puckered
+2446,2446,"{'Ga': 1, 'Ag': 1, 'P': 2, 'Se': 6}",Puckered
+2447,2447,"{'Ni': 1, 'H': 2, 'O': 2}",Puckered
+2448,2448,"{'Ca': 1, 'H': 1, 'Cl': 1, 'O': 1}",Puckered
+2449,2449,"{'Ti': 2, 'Ni': 2, 'O': 6}",Puckered
+2450,2450,"{'K': 2, 'H': 8, 'O': 4, 'F': 2}",Puckered
+2451,2451,"{'Sr': 4, 'Cu': 2, 'Bi': 4, 'O': 12}",Puckered
+2452,2452,"{'Li': 1, 'Fe': 2, 'C': 2, 'O': 7}",Puckered
+2453,2453,"{'Tb': 2, 'C': 1}",Puckered
+2454,2454,"{'Sc': 2, 'Br': 2, 'O': 2}",Puckered
+2455,2455,"{'Gd': 2, 'C': 1, 'F': 2}",Puckered
+2456,2456,{'Bi': 2},Planar
+2457,2457,"{'W': 1, 'O': 2}",Puckered
+2458,2458,"{'V': 2, 'Cd': 1, 'O': 6}",Puckered
+2459,2459,"{'Nb': 3, 'Ir': 1, 'S': 8}",Puckered
+2460,2460,"{'Na': 4, 'As': 4, 'O': 8}",Puckered
+2461,2461,"{'Mg': 2, 'Cr': 8, 'O': 18}",Puckered
+2462,2462,"{'Li': 4, 'V': 4, 'O': 4, 'F': 12}",Puckered
+2463,2463,"{'Ge': 4, 'Te': 4}",Puckered
+2464,2464,"{'Au': 2, 'Br': 2}",Puckered
+2465,2465,"{'Li': 1, 'Fe': 1, 'O': 2}",Puckered
+2466,2466,"{'Fe': 1, 'C': 2, 'O': 6}",Puckered
+2467,2467,"{'V': 4, 'Cu': 4, 'O': 14}",Puckered
+2468,2468,"{'Ca': 2, 'La': 2, 'I': 10}",Puckered
+2469,2469,"{'Be': 2, 'Cr': 2, 'O': 8}",Puckered
+2470,2470,"{'La': 2, 'P': 1, 'I': 2}",Puckered
+2471,2471,"{'Mn': 1, 'C': 2, 'O': 6}",Puckered
+2472,2472,"{'Zn': 1, 'In': 2, 'S': 4}",Puckered
+2473,2473,"{'Ge': 6, 'As': 6}",Puckered
+2474,2474,"{'Si': 1, 'H': 2, 'O': 1}",Puckered
+2475,2475,"{'Cu': 1, 'Te': 1, 'O': 4}",Puckered
+2476,2476,"{'Ag': 1, 'I': 2}",Puckered
+2477,2477,"{'Co': 2, 'P': 2, 'S': 6}",Puckered
+2478,2478,"{'Mn': 2, 'Nb': 4, 'Zn': 4, 'O': 16}",Puckered
+2479,2479,"{'Cu': 2, 'H': 4, 'C': 4, 'O': 8}",Puckered
+2480,2480,"{'Mg': 4, 'Sn': 4, 'O': 8}",Puckered
+2481,2481,"{'Ti': 2, 'Tl': 2, 'P': 2, 'S': 10}",Puckered
+2482,2482,"{'Ti': 2, 'Cd': 2}",Puckered
+2483,2483,"{'Cr': 1, 'Co': 2, 'O': 6}",Puckered
+2484,2484,"{'Sr': 4, 'Ti': 2, 'Cu': 4, 'O': 14}",Puckered
+2485,2485,"{'Y': 1, 'W': 1, 'F': 5}",Puckered
+2486,2486,"{'Hf': 2, 'Br': 2, 'N': 2}",Puckered
+2487,2487,"{'Dy': 2, 'B': 2, 'C': 2}",Puckered
+2488,2488,"{'Sr': 4, 'Fe': 2, 'S': 2, 'O': 6}",Puckered
+2489,2489,"{'Cd': 6, 'Se': 6, 'O': 20}",Puckered
+2490,2490,"{'Sr': 2, 'C': 2, 'O': 6}",Puckered
+2491,2491,"{'Ga': 4, 'P': 4, 'S': 16}",Puckered
+2492,2492,"{'Ca': 4, 'Fe': 2, 'Cl': 2, 'O': 6}",Puckered
+2493,2493,"{'B': 2, 'Sb': 2, 'O': 6}",Puckered
+2494,2494,"{'Ba': 2, 'Tl': 2, 'Ni': 4, 'O': 12}",Puckered
+2495,2495,"{'Y': 1, 'Ni': 1, 'F': 5}",Puckered
+2496,2496,"{'Li': 1, 'Ag': 1, 'F': 4}",Puckered
+2497,2497,"{'P': 4, 'Pd': 4, 'Se': 4}",Puckered
+2498,2498,"{'Ba': 1, 'Ta': 1, 'Cu': 1, 'O': 5}",Puckered
+2499,2499,"{'Ba': 3, 'B': 1, 'P': 1, 'O': 7}",Puckered
+2500,2500,"{'Ti': 1, 'Bi': 2, 'O': 6}",Puckered
+2501,2501,"{'Li': 1, 'Mn': 1, 'Cr': 2, 'O': 6}",Puckered
+2502,2502,"{'Fe': 8, 'S': 10}",Puckered
+2503,2503,"{'Tl': 4, 'F': 4}",Puckered
+2504,2504,"{'Mg': 1, 'V': 2, 'O': 6}",Puckered
+2505,2505,"{'Ag': 4, 'Se': 2}",Puckered
+2506,2506,"{'U': 2, 'Te': 2, 'N': 2}",Puckered
+2507,2507,"{'Nd': 2, 'Te': 4, 'Se': 2}",Puckered
+2508,2508,"{'Ta': 4, 'Zn': 4, 'Fe': 2, 'O': 16}",Puckered
+2509,2509,"{'Ca': 1, 'Co': 1, 'O': 3}",Puckered
+2510,2510,"{'Tm': 2, 'Cl': 2, 'O': 2}",Puckered
+2511,2511,"{'Ag': 2, 'Cl': 2, 'O': 4}",Puckered
+2512,2512,"{'Sn': 6, 'H': 4, 'O': 8}",Puckered
+2513,2513,"{'Li': 2, 'Ni': 2, 'P': 2, 'O': 8}",Puckered
+2514,2514,"{'Ta': 4, 'Zn': 4, 'Co': 2, 'O': 16}",Puckered
+2515,2515,"{'Ga': 2, 'Os': 1}",Puckered
+2516,2516,"{'Sr': 2, 'Ta': 4, 'Bi': 4, 'O': 18}",Puckered
+2517,2517,"{'Ca': 2, 'Bi': 10, 'O': 17}",Puckered
+2518,2518,"{'H': 4, 'Pb': 2, 'O': 4}",Puckered
+2519,2519,"{'Li': 2, 'Sn': 2, 'P': 2, 'O': 8}",Puckered
+2520,2520,"{'Li': 2, 'Mn': 2, 'F': 8}",Puckered
+2521,2521,"{'Mo': 6, 'O': 14}",Puckered
+2522,2522,"{'Zr': 2, 'I': 4}",Puckered
+2523,2523,"{'Sm': 2, 'Zn': 2, 'P': 2, 'O': 2}",Puckered
+2524,2524,"{'Li': 2, 'H': 2, 'Pd': 1}",Puckered
+2525,2525,"{'Ca': 1, 'H': 2, 'O': 2}",Puckered
+2526,2526,"{'Tl': 2, 'Mo': 6, 'O': 18}",Puckered
+2527,2527,"{'Mo': 2, 'N': 2}",Puckered
+2528,2528,"{'V': 4, 'Zn': 1, 'O': 10}",Puckered
+2529,2529,"{'Li': 2, 'As': 2, 'O': 6}",Puckered
+2530,2530,"{'Th': 2, 'Te': 4, 'I': 4}",Puckered
+2531,2531,"{'Na': 1, 'Sn': 2, 'As': 2}",Puckered
+2532,2532,"{'Mg': 2, 'Cr': 4, 'O': 10}",Puckered
+2533,2533,"{'Hf': 2, 'Ge': 2, 'Te': 8}",Puckered
+2534,2534,"{'Sr': 4, 'Cu': 4, 'Bi': 2, 'O': 14}",Puckered
+2535,2535,"{'Si': 4, 'Pb': 8, 'S': 16}",Puckered
+2536,2536,"{'Mg': 4, 'Ge': 8, 'W': 4, 'O': 24}",Puckered
+2537,2537,"{'Hg': 3, 'As': 1, 'Se': 4, 'Br': 1}",Puckered
+2538,2538,"{'Cd': 4, 'Hg': 4, 'As': 4, 'Br': 4}",Puckered
+2539,2539,"{'Se': 2, 'Cl': 2, 'O': 5}",Puckered
+2540,2540,"{'Na': 2, 'Cd': 2, 'P': 2, 'O': 8}",Puckered
+2541,2541,"{'Li': 2, 'Fe': 2, 'Si': 2, 'O': 7}",Puckered
+2542,2542,"{'Li': 2, 'Mn': 2, 'F': 6}",Puckered
+2543,2543,"{'Te': 4, 'I': 4}",Puckered
+2544,2544,"{'K': 2, 'Sb': 4, 'Se': 8}",Puckered
+2545,2545,"{'Zn': 2, 'Co': 4, 'S': 10}",Puckered
+2546,2546,"{'V': 2, 'O': 2, 'F': 2}",Puckered
+2547,2547,"{'Nb': 1, 'Bi': 7, 'O': 13}",Puckered
+2548,2548,"{'Y': 1, 'Ti': 1, 'F': 5}",Puckered
+2549,2549,"{'Mn': 2, 'Bi': 2, 'S': 4, 'Br': 2}",Puckered
+2550,2550,"{'Ag': 1, 'Te': 6, 'Mo': 6}",Puckered
+2551,2551,"{'Fe': 1, 'Co': 3, 'O': 8}",Puckered
+2552,2552,"{'Mg': 2, 'Mo': 4, 'O': 10}",Puckered
+2553,2553,"{'Sb': 2, 'Te': 1, 'Se': 2}",Puckered
+2554,2554,"{'In': 4, 'Ga': 2, 'Bi': 2, 'S': 12}",Puckered
+2555,2555,"{'Cd': 2, 'P': 2, 'S': 6}",Puckered
+2556,2556,"{'Si': 3, 'Mo': 1}",Planar
+2557,2557,"{'Sb': 2, 'Br': 2, 'O': 2}",Puckered
+2558,2558,"{'Na': 2, 'B': 2, 'H': 16, 'O': 14}",Puckered
+2559,2559,"{'Fe': 3, 'P': 2, 'H': 16, 'O': 16}",Puckered
+2560,2560,"{'V': 1, 'Ag': 1, 'P': 2, 'Se': 6}",Puckered
+2561,2561,"{'Mg': 2, 'Ag': 4, 'O': 8}",Puckered
+2562,2562,"{'Nb': 4, 'W': 2, 'O': 16}",Puckered
+2563,2563,"{'Li': 4, 'W': 4, 'Cl': 24}",Puckered
+2564,2564,"{'Si': 2, 'H': 2}",Puckered
+2565,2565,"{'Zn': 1, 'Cl': 2}",Puckered
+2566,2566,{'I': 1},Planar
+2567,2567,"{'Sn': 1, 'Se': 2}",Puckered
+2568,2568,"{'Ca': 1, 'I': 2}",Puckered
+2569,2569,"{'Ba': 2, 'Co': 3, 'O': 8}",Puckered
+2570,2570,"{'Li': 2, 'Fe': 2, 'As': 2}",Puckered
+2571,2571,"{'Ti': 2, 'O': 2, 'F': 2}",Puckered
+2572,2572,"{'Sb': 1, 'F': 5}",Puckered
+2573,2573,"{'Hf': 1, 'Te': 1, 'Se': 4}",Puckered
+2574,2574,"{'Al': 2, 'H': 2, 'O': 4}",Puckered
+2575,2575,"{'Ag': 1, 'C': 1, 'N': 1, 'O': 1}",Planar
+2576,2576,"{'Nb': 1, 'Ir': 1, 'S': 4}",Puckered
+2577,2577,"{'Cr': 3, 'Te': 4}",Puckered
+2578,2578,"{'Ca': 2, 'Ti': 4, 'O': 10}",Puckered
+2579,2579,"{'U': 2, 'Se': 6}",Puckered
+2580,2580,"{'Pb': 2, 'Br': 2, 'Cl': 2}",Puckered
+2581,2581,"{'Lu': 2, 'C': 1, 'Cl': 2}",Puckered
+2582,2582,"{'Nb': 2, 'Br': 4, 'O': 2}",Puckered
+2583,2583,"{'Li': 1, 'Co': 5, 'O': 5, 'F': 1}",Puckered
+2584,2584,"{'Li': 1, 'Fe': 1, 'F': 4}",Puckered
+2585,2585,"{'Ca': 3, 'Bi': 12, 'O': 18}",Puckered
+2586,2586,"{'Sc': 2, 'P': 2, 'S': 8}",Puckered
+2587,2587,"{'Mo': 1, 'P': 4, 'O': 13}",Puckered
+2588,2588,"{'Al': 2, 'O': 3}",Puckered
+2589,2589,"{'C': 6, 'N': 8}",Planar
+2590,2590,"{'Ta': 3, 'Te': 6}",Puckered
+2591,2591,"{'Mg': 1, 'W': 2, 'O': 5}",Puckered
+2592,2592,"{'Er': 2, 'Co': 2, 'Si': 4}",Puckered
+2593,2593,"{'Al': 3, 'Sb': 3, 'O': 9}",Puckered
+2594,2594,"{'V': 1, 'Se': 2}",Puckered
+2595,2595,"{'Hg': 3, 'As': 1, 'S': 4, 'Cl': 1}",Puckered
+2596,2596,"{'As': 4, 'Se': 6}",Puckered
+2597,2597,"{'Ti': 1, 'Nb': 1, 'S': 4}",Puckered
+2598,2598,"{'Fe': 1, 'Co': 2, 'O': 6}",Puckered
+2599,2599,"{'Na': 4, 'Sb': 4, 'O': 8}",Puckered
+2600,2600,"{'Mn': 2, 'Fe': 1, 'O': 6}",Puckered
+2601,2601,"{'Sr': 1, 'Sn': 2, 'As': 2}",Puckered
+2602,2602,"{'V': 12, 'O': 26}",Puckered
+2603,2603,"{'Mo': 1, 'W': 2, 'O': 8}",Puckered
+2604,2604,"{'Li': 2, 'V': 2, 'Si': 2, 'O': 8}",Puckered
+2605,2605,"{'Fe': 2, 'P': 8}",Puckered
+2606,2606,"{'Zn': 2, 'Sb': 4, 'O': 8}",Puckered
+2607,2607,"{'V': 2, 'Mo': 1, 'O': 8}",Puckered
+2608,2608,"{'Ba': 1, 'Mn': 4, 'O': 8}",Puckered
+2609,2609,"{'Sr': 3, 'Nb': 4, 'O': 13}",Puckered
+2610,2610,"{'Pb': 2, 'Cl': 2, 'F': 2}",Puckered
+2611,2611,"{'Al': 1, 'Sn': 1, 'F': 5}",Puckered
+2612,2612,"{'In': 1, 'Ge': 1, 'Cl': 3}",Puckered
+2613,2613,"{'Fe': 6, 'O': 8, 'F': 4}",Puckered
+2614,2614,"{'Pr': 2, 'Te': 4, 'Se': 2}",Puckered
+2615,2615,"{'Zn': 2, 'Ge': 2, 'O': 6}",Puckered
+2616,2616,"{'P': 4, 'W': 2, 'O': 16}",Puckered
+2617,2617,"{'Mg': 3, 'H': 2, 'O': 6}",Puckered
+2618,2618,"{'Zn': 3, 'In': 2, 'S': 6}",Puckered
+2619,2619,"{'P': 2, 'Pd': 3, 'S': 8}",Puckered
+2620,2620,"{'Al': 4, 'Bi': 4, 'O': 12}",Puckered
+2621,2621,"{'Gd': 2, 'Br': 2, 'O': 2}",Puckered
+2622,2622,"{'Sr': 4, 'Cu': 4, 'O': 6}",Puckered
+2623,2623,"{'B': 2, 'C': 3, 'N': 6}",Puckered
+2624,2624,"{'Sm': 2, 'Br': 2, 'O': 2}",Puckered
+2625,2625,"{'Ca': 3, 'Pb': 3, 'I': 14}",Puckered
+2626,2626,"{'Mn': 2, 'O': 2, 'F': 2}",Puckered
+2627,2627,"{'Zn': 2, 'As': 4, 'O': 8}",Puckered
+2628,2628,"{'Sn': 2, 'Se': 2}",Puckered
+2629,2629,"{'Na': 2, 'Hf': 1, 'H': 6, 'O': 6}",Puckered
+2630,2630,"{'Hg': 3, 'B': 2, 'O': 6}",Puckered
+2631,2631,"{'Ba': 1, 'Ti': 4, 'O': 8}",Puckered
+2632,2632,"{'Rb': 1, 'V': 4, 'O': 10}",Puckered
+2633,2633,"{'Li': 4, 'Mn': 2, 'P': 4, 'O': 14}",Puckered
+2634,2634,"{'Pr': 2, 'I': 2, 'O': 2}",Puckered
+2635,2635,"{'Ag': 2, 'Cl': 2, 'O': 4}",Puckered
+2636,2636,"{'Lu': 2, 'I': 2, 'O': 2}",Puckered
+2637,2637,"{'Li': 4, 'B': 4, 'H': 8, 'O': 16}",Puckered
+2638,2638,"{'Nb': 4, 'Te': 6}",Puckered
+2639,2639,"{'V': 4, 'S': 10}",Puckered
+2640,2640,"{'Bi': 14, 'Te': 13, 'S': 8}",Puckered
+2641,2641,"{'K': 1, 'V': 3, 'Se': 2, 'O': 12}",Puckered
+2642,2642,"{'Fe': 1, 'H': 1, 'O': 2}",Puckered
+2643,2643,"{'Bi': 2, 'Te': 2, 'Se': 1}",Puckered
+2644,2644,"{'Yb': 2, 'Br': 2, 'O': 2}",Puckered
+2645,2645,"{'As': 4, 'S': 6}",Puckered
+2646,2646,"{'Sb': 2, 'N': 18}",Puckered
+2647,2647,"{'Lu': 2, 'H': 4, 'Cl': 2, 'O': 4}",Puckered
+2648,2648,"{'Sr': 1, 'Ta': 2, 'H': 2, 'O': 7}",Puckered
+2649,2649,"{'Fe': 1, 'Si': 4, 'O': 6}",Puckered
+2650,2650,"{'V': 6, 'O': 14}",Puckered
+2651,2651,"{'W': 1, 'O': 2, 'F': 2}",Puckered
+2652,2652,"{'Bi': 4, 'Te': 4, 'W': 2, 'O': 20}",Puckered
+2653,2653,"{'Li': 2, 'V': 2, 'Cu': 2, 'O': 8}",Puckered
+2654,2654,"{'Li': 2, 'V': 2, 'F': 6}",Puckered
+2655,2655,"{'Y': 1, 'Mn': 1, 'F': 5}",Puckered
+2656,2656,"{'Ce': 2, 'Br': 2, 'O': 2}",Puckered
+2657,2657,"{'Cu': 2, 'O': 4}",Puckered
+2658,2658,"{'Li': 2, 'Fe': 2, 'P': 2, 'O': 8}",Puckered
+2659,2659,"{'Zn': 2, 'Te': 3, 'O': 8}",Puckered
+2660,2660,"{'Sr': 4, 'Mn': 4, 'Ga': 2, 'O': 14}",Puckered
+2661,2661,"{'Tl': 1, 'In': 1, 'S': 2}",Planar
+2662,2662,"{'Ba': 2, 'Co': 3, 'O': 7}",Puckered
+2663,2663,"{'Gd': 2, 'S': 2, 'I': 2}",Puckered
+2664,2664,"{'K': 4, 'Bi': 4, 'P': 8, 'Se': 24}",Puckered
+2665,2665,"{'V': 4, 'O': 8}",Puckered
+2666,2666,"{'Y': 2, 'Br': 2, 'O': 2}",Puckered
+2667,2667,"{'Bi': 8, 'Se': 4, 'O': 20}",Puckered
+2668,2668,"{'Te': 4, 'S': 2, 'O': 14}",Puckered
+2669,2669,"{'Zn': 2, 'P': 4, 'H': 8, 'O': 8}",Puckered
+2670,2670,"{'Li': 2, 'V': 2, 'B': 2, 'O': 8}",Puckered
+2671,2671,"{'Cd': 2, 'Cu': 4, 'O': 6}",Puckered
+2672,2672,"{'Fe': 2, 'Bi': 2, 'Sb': 2, 'S': 8}",Puckered
+2673,2673,"{'Y': 2, 'Te': 6}",Puckered
+2674,2674,"{'Nb': 4, 'Fe': 4, 'Te': 8}",Puckered
+2675,2675,"{'V': 4, 'O': 10}",Puckered
+2676,2676,"{'Cu': 2, 'Te': 4, 'Cl': 2}",Puckered
+2677,2677,"{'Ag': 2, 'I': 2}",Puckered
+2678,2678,"{'Ca': 2, 'Cu': 1, 'Br': 2, 'O': 2}",Puckered
+2679,2679,"{'Ni': 1, 'Te': 1, 'O': 4}",Puckered
+2680,2680,"{'Yb': 2, 'Si': 4, 'Ni': 2}",Puckered
+2681,2681,"{'In': 2, 'Sb': 4, 'S': 8, 'Br': 2}",Puckered
+2682,2682,"{'Sn': 2, 'P': 4, 'O': 12}",Puckered
+2683,2683,"{'Ba': 1, 'Fe': 4, 'O': 8}",Puckered
+2684,2684,"{'Cu': 3, 'Se': 2, 'Cl': 2, 'O': 6}",Puckered
+2685,2685,"{'Li': 2, 'Ni': 2, 'P': 2, 'O': 8}",Puckered
+2686,2686,"{'Nb': 2, 'Ni': 2, 'Te': 10}",Puckered
+2687,2687,"{'Ca': 3, 'Fe': 2, 'Cl': 2, 'O': 5}",Puckered
+2688,2688,"{'Mn': 2, 'Fe': 1, 'O': 6}",Puckered
+2689,2689,"{'V': 1, 'W': 2, 'O': 8}",Puckered
+2690,2690,"{'Zr': 2, 'Si': 2, 'Se': 2}",Puckered
+2691,2691,"{'Bi': 4, 'Br': 12}",Puckered
+2692,2692,"{'Te': 1, 'O': 3}",Puckered
+2693,2693,"{'Si': 3, 'Ir': 1}",Puckered
+2694,2694,"{'Co': 3, 'Te': 1, 'O': 8}",Puckered
+2695,2695,"{'Li': 2, 'S': 2, 'O': 6, 'F': 2}",Puckered
+2696,2696,"{'Ti': 1, 'Ga': 4, 'O': 8}",Puckered
+2697,2697,"{'Mg': 5, 'Sc': 1}",Puckered
+2698,2698,"{'Li': 2, 'Cu': 1, 'F': 5}",Puckered
+2699,2699,"{'Mg': 2, 'Ni': 3, 'O': 8}",Puckered
+2700,2700,"{'Ba': 4, 'Y': 2, 'I': 14}",Puckered
+2701,2701,"{'Bi': 4, 'Mo': 4, 'O': 20}",Puckered
+2702,2702,"{'Sr': 4, 'Cr': 2, 'S': 2, 'O': 6}",Puckered
+2703,2703,"{'Li': 4, 'Cr': 4, 'O': 14}",Puckered
+2704,2704,"{'Ti': 2, 'Ge': 2, 'Te': 12}",Puckered
+2705,2705,"{'Li': 1, 'Cu': 2, 'C': 2, 'O': 6}",Puckered
+2706,2706,"{'Na': 2, 'H': 2, 'O': 2}",Puckered
+2707,2707,"{'Ni': 1, 'H': 2, 'O': 2}",Puckered
+2708,2708,"{'Bi': 12, 'S': 12}",Puckered
+2709,2709,"{'Cu': 4, 'O': 4}",Puckered
+2710,2710,"{'Al': 2, 'H': 6, 'O': 6}",Puckered
+2711,2711,"{'Sn': 1, 'Ge': 1}",Puckered
+2712,2712,"{'Nb': 4, 'Co': 4, 'Te': 8}",Puckered
+2713,2713,"{'Na': 2, 'Cl': 2, 'O': 4}",Puckered
+2714,2714,"{'Mo': 1, 'O': 2}",Puckered
+2715,2715,"{'Mg': 4, 'As': 2}",Puckered
+2716,2716,"{'Er': 2, 'Cl': 2, 'O': 2}",Puckered
+2717,2717,"{'Si': 4, 'P': 8}",Puckered
+2718,2718,"{'Hg': 3, 'As': 1, 'Se': 4, 'I': 1}",Puckered
+2719,2719,"{'Ag': 8, 'Bi': 8, 'S': 12, 'Cl': 8}",Puckered
+2720,2720,"{'W': 4, 'O': 8}",Puckered
+2721,2721,"{'Li': 2, 'Ce': 1, 'P': 2}",Puckered
+2722,2722,"{'Nd': 2, 'I': 2, 'O': 2}",Puckered
+2723,2723,"{'Ba': 2, 'Tl': 1, 'Ni': 2, 'O': 7}",Puckered
+2724,2724,"{'Fe': 6, 'S': 8}",Puckered
+2725,2725,"{'Zn': 2, 'Cr': 4, 'S': 10}",Puckered
+2726,2726,"{'Ag': 2, 'H': 2, 'O': 4}",Puckered
+2727,2727,"{'Sr': 4, 'Ta': 2, 'Cu': 4, 'O': 14}",Puckered
+2728,2728,"{'Zn': 2, 'Se': 2}",Puckered
+2729,2729,"{'Fe': 1, 'Bi': 1, 'O': 3}",Puckered
+2730,2730,"{'Ca': 2, 'Sn': 4, 'F': 12}",Puckered
+2731,2731,"{'Cu': 2, 'Hg': 1, 'I': 4}",Puckered
+2732,2732,"{'Mg': 4, 'H': 2, 'O': 5}",Puckered
+2733,2733,"{'Zn': 12, 'S': 12}",Puckered
+2734,2734,"{'Na': 4, 'Sb': 4, 'F': 16}",Puckered
+2735,2735,"{'Li': 2, 'Ni': 1, 'O': 2}",Puckered
+2736,2736,"{'Li': 1, 'V': 1, 'F': 4}",Puckered
+2737,2737,"{'Cu': 2, 'Se': 4, 'Br': 2}",Puckered
+2738,2738,"{'Nd': 4, 'B': 2, 'C': 2}",Puckered
+2739,2739,"{'Co': 1, 'I': 2}",Puckered
+2740,2740,"{'Cr': 1, 'P': 2, 'O': 8}",Puckered
+2741,2741,"{'Fe': 1, 'Cu': 1, 'S': 2}",Puckered
+2742,2742,"{'Al': 4, 'H': 12, 'O': 12}",Puckered
+2743,2743,"{'Yb': 2, 'H': 4, 'Cl': 2, 'O': 4}",Puckered
+2744,2744,"{'Ca': 1, 'Pb': 1, 'I': 4}",Puckered
+2745,2745,"{'Cr': 2, 'O': 2, 'F': 2}",Puckered
+2746,2746,"{'In': 6, 'Sb': 2, 'Te': 4}",Puckered
+2747,2747,"{'Cr': 2, 'Se': 2}",Puckered
+2748,2748,"{'Sb': 3, 'Pb': 1}",Planar
+2749,2749,"{'Ag': 1, 'Br': 1, 'O': 4}",Puckered
+2750,2750,"{'Li': 2, 'Cr': 2, 'Si': 2, 'O': 8}",Puckered
+2751,2751,"{'Co': 1, 'Br': 2}",Puckered
+2752,2752,"{'In': 1, 'Sn': 1, 'Cl': 3}",Puckered
+2753,2753,"{'Yb': 1, 'I': 2}",Puckered
+2754,2754,"{'Cr': 2, 'Ge': 2, 'Te': 6}",Puckered
+2755,2755,"{'Sm': 2, 'I': 2, 'O': 2}",Puckered
+2756,2756,"{'Sb': 2, 'Te': 2, 'Cl': 2, 'O': 6}",Puckered
+2757,2757,"{'Ti': 6, 'O': 6}",Puckered
+2758,2758,"{'Cu': 2, 'H': 2, 'O': 4}",Puckered
+2759,2759,"{'Cu': 2, 'I': 2}",Puckered
+2760,2760,"{'Cr': 4, 'Bi': 4, 'O': 16}",Puckered
+2761,2761,"{'Sr': 2, 'H': 8, 'Cl': 4, 'O': 4}",Puckered
+2762,2762,"{'Nb': 4, 'Re': 2, 'O': 16}",Puckered
+2763,2763,"{'Bi': 2, 'P': 2, 'Pb': 8, 'O': 16}",Puckered
+2764,2764,"{'Mn': 3, 'Co': 2, 'Te': 3, 'O': 16}",Puckered
+2765,2765,"{'Cd': 2, 'P': 4, 'O': 12}",Puckered
+2766,2766,"{'Ba': 2, 'Tl': 2, 'Co': 3, 'O': 10}",Puckered
+2767,2767,"{'Ta': 4, 'Se': 6}",Puckered
+2768,2768,"{'Al': 8, 'Te': 12}",Puckered
+2769,2769,"{'Li': 2, 'Fe': 2, 'Si': 2, 'O': 8}",Puckered
+2770,2770,"{'Al': 2, 'Te': 5}",Puckered
+2771,2771,"{'Ta': 2, 'Ni': 2, 'Te': 10}",Puckered
+2772,2772,"{'Na': 2, 'Cl': 2, 'O': 4}",Puckered
+2773,2773,"{'B': 1, 'N': 1}",Planar
+2774,2774,"{'Sr': 4, 'Cu': 4, 'Sb': 2, 'O': 14}",Puckered
+2775,2775,"{'Ni': 2, 'Sb': 1, 'Te': 2}",Puckered
+2776,2776,"{'Ti': 4, 'Zn': 4, 'Ge': 8, 'O': 24}",Puckered
+2777,2777,"{'Tc': 4, 'S': 4, 'O': 24, 'F': 4}",Puckered
+2778,2778,"{'Er': 6, 'I': 7}",Puckered
+2779,2779,{'Sr': 2},Planar
+2780,2780,"{'B': 8, 'Te': 4, 'O': 20}",Puckered
+2781,2781,"{'Li': 2, 'Ag': 2, 'F': 4}",Puckered
+2782,2782,"{'Li': 2, 'V': 6, 'Te': 4, 'O': 24}",Puckered
+2783,2783,"{'Cu': 1, 'H': 1, 'O': 2}",Puckered
+2784,2784,"{'Al': 4, 'O': 6}",Puckered
+2785,2785,"{'Tm': 4, 'Te': 10, 'O': 26}",Puckered
+2786,2786,"{'Cu': 2, 'Se': 2}",Puckered
+2787,2787,"{'Er': 1, 'Re': 2, 'O': 8}",Puckered
+2788,2788,"{'Zn': 1, 'W': 2, 'O': 5}",Puckered
+2789,2789,"{'Sr': 4, 'Mn': 2, 'S': 2, 'O': 6}",Puckered
+2790,2790,"{'Re': 2, 'Ni': 1, 'O': 8}",Puckered
+2791,2791,"{'Dy': 2, 'Bi': 7, 'O': 14}",Puckered
+2792,2792,"{'Na': 2, 'Bi': 10, 'O': 16}",Puckered
+2793,2793,"{'Sb': 4, 'Pb': 8, 'S': 8, 'I': 12}",Puckered
+2794,2794,"{'Ba': 2, 'Ti': 4, 'Tl': 2, 'O': 12}",Puckered
+2795,2795,"{'Ca': 3, 'Si': 1, 'Br': 2}",Puckered
+2796,2796,"{'Np': 2, 'I': 2, 'O': 2}",Puckered
+2797,2797,"{'Tm': 1, 'I': 2}",Puckered
+2798,2798,"{'Li': 2, 'Cr': 3, 'O': 6}",Puckered
+2799,2799,"{'Ca': 1, 'Zn': 2, 'P': 2, 'O': 2}",Puckered
+2800,2800,"{'Sr': 2, 'Cu': 1, 'I': 2, 'O': 2}",Puckered
+2801,2801,"{'Ba': 2, 'V': 3, 'O': 8}",Puckered
+2802,2802,"{'Li': 2, 'Fe': 4, 'O': 4, 'F': 6}",Puckered
+2803,2803,"{'Cd': 1, 'Cl': 2}",Puckered
+2804,2804,"{'P': 4, 'Pb': 6, 'O': 16}",Puckered
+2805,2805,"{'Bi': 6, 'B': 10, 'O': 21}",Puckered
+2806,2806,"{'Mg': 2, 'Bi': 2, 'P': 2, 'O': 12}",Puckered
+2807,2807,"{'Np': 2, 'I': 6}",Puckered
+2808,2808,"{'Li': 2, 'V': 2, 'O': 4, 'F': 4}",Puckered
+2809,2809,"{'Li': 1, 'Cr': 1, 'O': 2}",Puckered
+2810,2810,"{'Nb': 4, 'Zn': 4, 'Cu': 2, 'O': 16}",Puckered
+2811,2811,"{'Zn': 4, 'Sn': 2, 'N': 4}",Puckered
+2812,2812,"{'Eu': 1, 'In': 2, 'Au': 1}",Puckered
+2813,2813,"{'Zn': 2, 'Ga': 2, 'N': 2, 'O': 2}",Puckered
+2814,2814,"{'Co': 2, 'Ni': 1, 'O': 6}",Puckered
+2815,2815,"{'Cu': 2, 'H': 4, 'O': 4}",Puckered
+2816,2816,"{'Y': 1, 'Co': 1, 'F': 5}",Puckered
+2817,2817,"{'Ni': 2, 'S': 4}",Puckered
+2818,2818,"{'Ho': 2, 'I': 2, 'O': 2}",Puckered
+2819,2819,"{'La': 2, 'Ge': 1, 'I': 2}",Puckered
+2820,2820,"{'K': 2, 'Sb': 6, 'O': 10}",Puckered
+2821,2821,"{'Co': 2, 'O': 2, 'F': 2}",Puckered
+2822,2822,"{'Li': 4, 'Co': 2, 'P': 4, 'O': 14}",Puckered
+2823,2823,"{'Mn': 3, 'Co': 1, 'O': 8}",Puckered
+2824,2824,"{'Ta': 2, 'Tl': 2, 'Cu': 4, 'S': 8}",Puckered
+2825,2825,"{'Li': 4, 'C': 1, 'O': 4}",Puckered
+2826,2826,"{'Nb': 2, 'P': 2, 'O': 10}",Puckered
+2827,2827,"{'Co': 2, 'Ni': 1, 'O': 6}",Puckered
+2828,2828,"{'Cr': 1, 'Ga': 2, 'S': 4}",Puckered
+2829,2829,"{'Ca': 10, 'Ir': 2}",Puckered
+2830,2830,"{'Sr': 4, 'Cu': 4, 'W': 2, 'O': 14}",Puckered
+2831,2831,"{'Bi': 4, 'Pd': 2, 'O': 8}",Puckered
+2832,2832,"{'Li': 1, 'Co': 7, 'O': 7, 'F': 1}",Puckered
+2833,2833,"{'Mg': 4, 'Sb': 8, 'O': 16}",Puckered
+2834,2834,"{'K': 4, 'C': 4, 'S': 4, 'N': 4}",Puckered
+2835,2835,"{'Ba': 1, 'Bi': 4, 'O': 7}",Puckered
+2836,2836,"{'Ti': 2, 'Au': 2}",Puckered
+2837,2837,"{'V': 1, 'Br': 2}",Puckered
+2838,2838,"{'Cu': 2, 'Cl': 2, 'O': 4}",Puckered
+2839,2839,"{'Bi': 2, 'Au': 2, 'O': 4}",Puckered
+2840,2840,"{'Mg': 5, 'H': 2, 'O': 6}",Puckered
+2841,2841,"{'Ti': 8, 'Zn': 2, 'O': 18}",Puckered
+2842,2842,"{'Ag': 2, 'Pb': 8, 'Cl': 2, 'O': 8}",Puckered
+2843,2843,{'C': 8},Puckered
+2844,2844,"{'Si': 6, 'H': 2}",Puckered
+2845,2845,"{'Na': 3, 'In': 1, 'Cl': 6}",Puckered
+2846,2846,"{'Ag': 2, 'F': 4}",Puckered
+2847,2847,"{'Mn': 4, 'Zn': 2, 'O': 10}",Puckered
+2848,2848,"{'Li': 4, 'V': 2, 'F': 12}",Puckered
+2849,2849,"{'Li': 2, 'V': 4, 'O': 8}",Puckered
+2850,2850,"{'Li': 6, 'Te': 2, 'H': 2, 'O': 8}",Puckered
+2851,2851,"{'Rb': 2, 'Au': 2, 'S': 2}",Planar
+2852,2852,"{'Cr': 1, 'W': 2, 'O': 8}",Puckered
+2853,2853,"{'Cu': 4, 'Bi': 7, 'S': 12}",Puckered
+2854,2854,"{'Si': 3, 'Sb': 2, 'O': 9}",Puckered
+2855,2855,"{'Nd': 4, 'Te': 4, 'Br': 4, 'O': 12}",Puckered
+2856,2856,"{'Cr': 6, 'O': 14}",Puckered
+2857,2857,"{'Zn': 2, 'Sn': 3, 'O': 8}",Puckered
+2858,2858,"{'Sr': 4, 'Co': 2, 'Cl': 2, 'O': 6}",Puckered
+2859,2859,"{'Li': 2, 'H': 4, 'I': 2, 'O': 2}",Puckered
+2860,2860,"{'V': 2, 'O': 2, 'F': 6}",Puckered
+2861,2861,"{'Sr': 4, 'Cr': 4, 'Ga': 2, 'O': 14}",Puckered
+2862,2862,"{'Ag': 2, 'Cl': 2}",Puckered
+2863,2863,"{'K': 2, 'H': 2, 'C': 2, 'O': 4}",Puckered
+2864,2864,"{'Ti': 4, 'O': 14}",Puckered
+2865,2865,"{'Tl': 4, 'Si': 2, 'S': 6}",Puckered
+2866,2866,"{'Ti': 6, 'V': 4, 'O': 18}",Puckered
+2867,2867,"{'Sm': 2, 'Cl': 2, 'F': 2}",Puckered
+2868,2868,"{'Ag': 2, 'Pd': 1, 'O': 2}",Puckered
+2869,2869,"{'Np': 1, 'O': 2, 'F': 2}",Puckered
+2870,2870,"{'Sn': 2, 'Se': 2}",Puckered
+2871,2871,"{'Sc': 2, 'H': 2, 'O': 4}",Puckered
+2872,2872,"{'Li': 1, 'V': 2, 'O': 1, 'F': 5}",Puckered
+2873,2873,"{'Ba': 2, 'Cu': 2}",Puckered
+2874,2874,"{'Li': 2, 'Ag': 2, 'C': 4, 'O': 8}",Puckered
+2875,2875,"{'Zn': 1, 'H': 1}",Puckered
+2876,2876,"{'W': 3, 'O': 8}",Puckered
+2877,2877,"{'Rb': 3, 'Mn': 2, 'Cl': 7}",Puckered
+2878,2878,"{'Tl': 2, 'Br': 2}",Puckered
+2879,2879,"{'W': 1, 'O': 3}",Puckered
+2880,2880,"{'Mg': 1, 'Sn': 2, 'N': 2}",Puckered
+2881,2881,"{'V': 2, 'Br': 2, 'O': 2}",Puckered
+2882,2882,"{'La': 2, 'I': 2, 'O': 2}",Puckered
+2883,2883,"{'Ag': 4, 'Hg': 4, 'S': 4, 'I': 4}",Puckered
+2884,2884,"{'Sn': 2, 'Cl': 2, 'F': 2}",Puckered
+2885,2885,"{'Ni': 2, 'Se': 2}",Puckered
+2886,2886,"{'Sr': 2, 'Sb': 2, 'Se': 4, 'F': 2}",Puckered
+2887,2887,"{'Ca': 1, 'Bi': 2, 'O': 5}",Puckered
+2888,2888,"{'Cr': 1, 'Cu': 1, 'Se': 2}",Puckered
+2889,2889,"{'Er': 2, 'Te': 6}",Puckered
+2890,2890,"{'Sc': 2, 'H': 2, 'O': 4}",Puckered
+2891,2891,"{'Na': 3, 'Ti': 10, 'S': 20}",Puckered
+2892,2892,"{'Cu': 4, 'C': 4, 'O': 12}",Puckered
+2893,2893,"{'Li': 1, 'Co': 1, 'O': 2}",Puckered
+2894,2894,"{'Zn': 4, 'W': 4, 'O': 16}",Puckered
+2895,2895,"{'Tl': 1, 'As': 1, 'O': 4}",Puckered
+2896,2896,"{'Zn': 2, 'In': 4, 'S': 8}",Puckered
+2897,2897,"{'Fe': 2, 'Cl': 6}",Puckered
+2898,2898,"{'Lu': 2, 'Fe': 2, 'Ge': 4}",Puckered
+2899,2899,"{'Sb': 4, 'S': 4, 'O': 2}",Puckered
+2900,2900,"{'V': 4, 'O': 8}",Puckered
+2901,2901,"{'Ba': 2, 'Cr': 3, 'O': 7}",Puckered
+2902,2902,"{'Ga': 6, 'Te': 6}",Puckered
+2903,2903,"{'Mn': 1, 'Re': 2, 'O': 8}",Puckered
+2904,2904,"{'Ba': 1, 'Mo': 4, 'O': 8}",Puckered
+2905,2905,"{'Ta': 2, 'Fe': 2, 'Te': 6}",Puckered
+2906,2906,"{'Sb': 4, 'O': 8}",Puckered
+2907,2907,"{'Bi': 1, 'O': 2}",Puckered
+2908,2908,"{'Mo': 4, 'O': 8}",Puckered
+2909,2909,"{'Mn': 2, 'Tl': 2, 'O': 6}",Puckered
+2910,2910,"{'Y': 2, 'Co': 2}",Puckered
+2911,2911,"{'K': 2, 'C': 4, 'N': 6}",Puckered
+2912,2912,"{'Tb': 2, 'H': 2, 'O': 4}",Puckered
+2913,2913,"{'Na': 2, 'Hg': 2, 'Cl': 6}",Puckered
+2914,2914,"{'Na': 2, 'C': 2, 'S': 2, 'N': 2}",Puckered
+2915,2915,"{'Zr': 1, 'F': 4}",Puckered
+2916,2916,"{'Cu': 2, 'As': 2, 'O': 6}",Puckered
+2917,2917,"{'Cr': 1, 'O': 3}",Puckered
+2918,2918,"{'Ba': 2, 'Zr': 1, 'S': 4}",Puckered
+2919,2919,"{'Sc': 5, 'N': 1, 'Cl': 8}",Puckered
+2920,2920,"{'U': 2, 'Te': 6}",Puckered
+2921,2921,"{'Sr': 2, 'H': 4, 'I': 4, 'O': 2}",Puckered
+2922,2922,"{'Ca': 2, 'La': 2, 'I': 10}",Puckered
+2923,2923,"{'Mn': 2, 'C': 4, 'O': 12}",Puckered
+2924,2924,"{'Co': 3, 'Sb': 1, 'O': 8}",Puckered
+2925,2925,"{'Ti': 1, 'Zn': 1, 'Bi': 2, 'O': 6}",Puckered
+2926,2926,"{'U': 1, 'Sb': 2, 'O': 6}",Puckered
+2927,2927,"{'Tl': 2, 'Pt': 4, 'Se': 6}",Puckered
+2928,2928,"{'Ta': 2, 'Pd': 1, 'Se': 6}",Puckered
+2929,2929,"{'Sn': 3, 'P': 4}",Puckered
+2930,2930,"{'Sr': 1, 'Bi': 5, 'O': 9}",Puckered
+2931,2931,"{'Ba': 2, 'Fe': 3, 'O': 8}",Puckered
+2932,2932,"{'Li': 2, 'Mn': 1, 'F': 6}",Puckered
+2933,2933,"{'Li': 3, 'Fe': 3, 'O': 4, 'F': 4}",Puckered
+2934,2934,"{'Li': 2, 'H': 2, 'Pt': 1}",Puckered
+2935,2935,"{'V': 4, 'O': 10}",Puckered
+2936,2936,"{'U': 1, 'O': 2, 'F': 2}",Puckered
+2937,2937,"{'Ag': 6, 'S': 2, 'I': 2}",Puckered
+2938,2938,"{'Ba': 2, 'Hf': 1, 'S': 4}",Puckered
+2939,2939,"{'Tm': 2, 'Bi': 2, 'O': 6}",Puckered
+2940,2940,"{'Ho': 2, 'Co': 2, 'Sn': 4}",Puckered
+2941,2941,"{'V': 3, 'Zn': 2, 'O': 8}",Puckered
+2942,2942,"{'In': 4, 'Te': 4, 'Cl': 4, 'O': 12}",Puckered
+2943,2943,"{'Ta': 4, 'Ni': 2, 'Se': 10}",Puckered
+2944,2944,"{'Mn': 2, 'Cr': 1, 'O': 6}",Puckered
+2945,2945,"{'Li': 2, 'Fe': 2, 'B': 2, 'O': 8}",Puckered
+2946,2946,"{'Co': 1, 'H': 2, 'O': 2}",Puckered
+2947,2947,"{'Li': 1, 'Ni': 1, 'P': 1, 'O': 4}",Puckered
+2948,2948,"{'Sb': 2, 'N': 2}",Puckered
+2949,2949,"{'Sb': 4, 'I': 12}",Puckered
+2950,2950,"{'Ag': 2, 'Cl': 2, 'O': 4}",Puckered
+2951,2951,"{'Li': 1, 'Cu': 2, 'F': 5}",Puckered
+2952,2952,"{'Rb': 2, 'Sb': 4, 'Se': 8}",Puckered
+2953,2953,"{'Y': 2, 'Ga': 2, 'I': 2}",Puckered
+2954,2954,"{'Li': 2, 'Co': 2, 'P': 2, 'O': 8}",Puckered
+2955,2955,"{'V': 2, 'Zn': 1, 'O': 6}",Puckered
+2956,2956,"{'Mg': 4, 'Sn': 4, 'O': 8}",Puckered
+2957,2957,"{'Ge': 4, 'Pb': 4, 'S': 12}",Puckered
+2958,2958,"{'Sr': 4, 'Te': 4, 'O': 12}",Puckered
+2959,2959,"{'Sr': 4, 'Fe': 2, 'Br': 2, 'O': 6}",Puckered
+2960,2960,"{'Sn': 2, 'F': 6}",Puckered
+2961,2961,"{'V': 2, 'Cu': 2, 'O': 8}",Puckered
+2962,2962,"{'Pb': 2, 'Br': 4, 'O': 12}",Puckered
+2963,2963,"{'Ho': 2, 'C': 1, 'F': 2}",Puckered
+2964,2964,"{'As': 2, 'P': 2, 'O': 8}",Puckered
+2965,2965,"{'Sr': 4, 'Cu': 4, 'Sn': 2, 'O': 14}",Puckered
+2966,2966,"{'Cu': 2, 'Bi': 4, 'O': 8}",Puckered
+2967,2967,"{'Li': 2, 'Ag': 2, 'C': 4, 'O': 8}",Puckered
+2968,2968,"{'Te': 2, 'Pd': 1}",Puckered
+2969,2969,"{'Ag': 2, 'Bi': 2, 'P': 4, 'S': 12}",Puckered
+2970,2970,"{'Nb': 2, 'Te': 8, 'Ir': 2}",Puckered
+2971,2971,"{'Ag': 8, 'C': 4, 'N': 8}",Puckered
+2972,2972,"{'Mn': 3, 'Cu': 1, 'O': 8}",Puckered
+2973,2973,"{'Ba': 2, 'Tl': 2, 'Mo': 4, 'O': 12}",Puckered
+2974,2974,"{'Ca': 2, 'Sb': 4, 'O': 8}",Puckered
+2975,2975,"{'Cu': 4, 'H': 4, 'Cl': 4, 'O': 4}",Puckered
+2976,2976,"{'Ta': 6, 'S': 18}",Puckered
+2977,2977,"{'Cd': 2, 'Bi': 2, 'Cl': 2, 'O': 4}",Puckered
+2978,2978,"{'Sr': 2, 'La': 2, 'Cl': 10}",Puckered
+2979,2979,"{'Li': 2, 'U': 1, 'I': 6}",Puckered
+2980,2980,"{'W': 2, 'O': 4, 'F': 4}",Puckered
+2981,2981,"{'Al': 6, 'O': 9}",Puckered
+2982,2982,"{'Li': 4, 'S': 2, 'O': 8}",Puckered
+2983,2983,"{'Na': 2, 'V': 4, 'O': 10}",Puckered
+2984,2984,"{'Sn': 1, 'P': 2, 'S': 6}",Puckered
+2985,2985,"{'Bi': 1, 'F': 3}",Puckered
+2986,2986,"{'Cu': 2, 'Sb': 2, 'S': 4}",Puckered
+2987,2987,"{'Cu': 2, 'H': 8, 'I': 4, 'O': 16}",Puckered
+2988,2988,"{'Mn': 2, 'P': 4, 'O': 14}",Puckered
+2989,2989,"{'Ti': 4, 'O': 8}",Puckered
+2990,2990,"{'Mn': 1, 'Co': 3, 'O': 8}",Puckered
+2991,2991,"{'Cd': 1, 'In': 1, 'Ga': 1, 'S': 4}",Puckered
+2992,2992,"{'Li': 2, 'Bi': 2, 'B': 4, 'O': 10}",Puckered
+2993,2993,"{'Eu': 2, 'Br': 2, 'O': 2}",Puckered
+2994,2994,"{'Sc': 5, 'C': 1, 'Cl': 8}",Puckered
+2995,2995,"{'Ag': 2, 'Au': 4, 'S': 4}",Puckered
+2996,2996,"{'Lu': 4, 'H': 12, 'O': 12}",Puckered
+2997,2997,"{'Mg': 2, 'Ge': 4, 'W': 2, 'O': 12}",Puckered
+2998,2998,"{'Ga': 2, 'H': 6, 'N': 2, 'F': 6}",Puckered
+2999,2999,"{'Mn': 2, 'Se': 2}",Puckered
+3000,3000,"{'Sr': 3, 'Cr': 2, 'S': 2, 'O': 5}",Puckered
+3001,3001,"{'Pd': 2, 'Se': 2, 'O': 6}",Puckered
+3002,3002,"{'Sr': 4, 'Fe': 2, 'Cl': 2, 'O': 6}",Puckered
+3003,3003,"{'Tl': 2, 'Te': 6, 'Pt': 4}",Puckered
+3004,3004,"{'Si': 2, 'Ru': 1}",Puckered
+3005,3005,"{'Ba': 2, 'Al': 4, 'Cl': 16}",Puckered
+3006,3006,"{'Li': 2, 'Fe': 2, 'F': 8}",Puckered
+3007,3007,"{'Gd': 2, 'O': 2, 'F': 2}",Puckered
+3008,3008,"{'Pr': 1, 'Ge': 5}",Puckered
+3009,3009,"{'Li': 5, 'Ni': 1, 'O': 1, 'F': 5}",Puckered
+3010,3010,"{'V': 8, 'O': 18}",Puckered
+3011,3011,"{'Na': 2, 'H': 2, 'O': 2}",Puckered
+3012,3012,{'Te': 2},Planar
+3013,3013,"{'Mg': 2, 'V': 4, 'S': 10}",Puckered
+3014,3014,"{'Ta': 2, 'Nb': 4, 'Zn': 4, 'O': 16}",Puckered
+3015,3015,"{'Nb': 4, 'Ge': 4, 'O': 14}",Puckered
+3016,3016,"{'Zn': 2, 'Fe': 4, 'S': 10}",Puckered
+3017,3017,"{'Y': 2, 'Bi': 2, 'O': 6}",Puckered
+3018,3018,"{'Co': 2, 'C': 4, 'O': 12}",Puckered
+3019,3019,"{'Ba': 2, 'Zn': 2, 'F': 8}",Puckered
+3020,3020,"{'Nb': 4, 'Zn': 4, 'Cr': 2, 'O': 16}",Puckered
+3021,3021,"{'Th': 2, 'Te': 2, 'O': 2}",Puckered
+3022,3022,"{'Sn': 2, 'P': 3, 'O': 10}",Puckered
+3023,3023,"{'Zn': 2, 'W': 2, 'O': 8}",Puckered
+3024,3024,"{'Mn': 2, 'Sb': 4, 'S': 8}",Puckered
+3025,3025,"{'Cu': 4, 'Te': 4, 'O': 12}",Puckered
+3026,3026,"{'Nb': 4, 'Zn': 4, 'Sb': 2, 'O': 16}",Puckered
+3027,3027,"{'Sr': 4, 'Cu': 4, 'Mo': 2, 'O': 14}",Puckered
+3028,3028,"{'Sc': 2, 'Cl': 2, 'O': 2}",Puckered
+3029,3029,"{'Ce': 2, 'Si': 2, 'I': 2}",Puckered
+3030,3030,"{'Na': 2, 'Mg': 2, 'As': 2}",Puckered
+3031,3031,"{'Mg': 2, 'Cl': 4}",Puckered
+3032,3032,"{'Bi': 4, 'Br': 12}",Puckered
+3033,3033,"{'Cu': 1, 'Ag': 1, 'Te': 2}",Puckered
+3034,3034,"{'Cr': 2, 'Hg': 2, 'Pb': 4, 'O': 12}",Puckered
+3035,3035,"{'Nb': 4, 'Zn': 4, 'Co': 2, 'O': 16}",Puckered
+3036,3036,"{'Cr': 2, 'Sb': 2, 'P': 4, 'O': 16}",Puckered
+3037,3037,"{'Yb': 1, 'Al': 2, 'Ge': 2}",Puckered
+3038,3038,"{'Mn': 3, 'Te': 1, 'O': 8}",Puckered
+3039,3039,"{'Li': 2, 'Fe': 2, 'P': 2, 'O': 8}",Puckered
+3040,3040,"{'Zn': 2, 'Fe': 3, 'O': 8}",Puckered
+3041,3041,"{'Ba': 2, 'Hg': 1}",Puckered
+3042,3042,"{'Zn': 2, 'Cr': 4, 'O': 10}",Puckered
+3043,3043,"{'Zr': 4, 'Tl': 4, 'F': 20}",Puckered
+3044,3044,"{'Pb': 4, 'O': 6}",Puckered
+3045,3045,"{'Cr': 3, 'O': 8}",Puckered
+3046,3046,"{'Ta': 2, 'C': 1, 'S': 2}",Puckered
+3047,3047,"{'Cu': 3, 'Mo': 3, 'O': 12}",Puckered
+3048,3048,"{'Ta': 3, 'S': 1, 'Br': 7}",Puckered
+3049,3049,"{'V': 1, 'O': 2, 'F': 1}",Puckered
+3050,3050,"{'Mn': 1, 'Te': 1, 'O': 4}",Puckered
+3051,3051,"{'Mg': 1, 'V': 4, 'O': 10}",Puckered
+3052,3052,"{'Gd': 2, 'C': 1, 'Cl': 2}",Puckered
+3053,3053,{'C': 8},Puckered
+3054,3054,"{'Li': 4, 'Mn': 2, 'F': 12}",Puckered
+3055,3055,"{'Te': 3, 'As': 2}",Puckered
+3056,3056,"{'Sr': 4, 'Ga': 2, 'Bi': 4, 'O': 14}",Puckered
+3057,3057,"{'Nb': 4, 'Te': 4, 'I': 12}",Puckered
+3058,3058,"{'Li': 1, 'Cu': 1, 'S': 2}",Puckered
+3059,3059,"{'Mn': 1, 'Cu': 2, 'Cl': 4}",Puckered
+3060,3060,"{'Ti': 2, 'Ge': 2, 'O': 6}",Puckered
+3061,3061,"{'Te': 2, 'Mo': 1}",Puckered
+3062,3062,"{'Cd': 1, 'H': 2, 'O': 2}",Puckered
+3063,3063,"{'Li': 1, 'Bi': 1, 'P': 4, 'O': 12}",Puckered
+3064,3064,"{'Te': 1, 'W': 2, 'O': 8}",Puckered
+3065,3065,"{'Zr': 2, 'Ge': 2, 'Te': 2}",Puckered
+3066,3066,"{'Cd': 1, 'In': 1, 'Ga': 1, 'S': 4}",Puckered
+3067,3067,"{'Na': 1, 'W': 2, 'Br': 6, 'O': 2}",Puckered
+3068,3068,"{'Mn': 2, 'F': 6}",Puckered
+3069,3069,"{'Na': 4, 'As': 4, 'O': 8}",Puckered
+3070,3070,"{'Ba': 4, 'In': 2, 'Br': 2, 'O': 6}",Puckered
+3071,3071,"{'H': 4, 'Pb': 8, 'S': 2, 'O': 16}",Puckered
+3072,3072,"{'Sc': 4, 'I': 4, 'O': 4}",Puckered
+3073,3073,"{'Li': 1, 'Fe': 3, 'O': 6}",Puckered
+3074,3074,"{'In': 4, 'S': 4}",Puckered
+3075,3075,"{'Ca': 1, 'Sn': 1, 'S': 3}",Puckered
+3076,3076,"{'Sb': 4, 'O': 8}",Puckered
+3077,3077,"{'Ag': 6, 'Sb': 2, 'S': 6}",Puckered
+3078,3078,"{'H': 4, 'I': 4, 'O': 12}",Puckered
+3079,3079,"{'Li': 1, 'Fe': 2, 'O': 1, 'F': 5}",Puckered
+3080,3080,"{'Ta': 2, 'I': 5}",Puckered
+3081,3081,"{'Co': 4, 'Te': 2, 'Cl': 4, 'O': 6}",Puckered
+3082,3082,"{'Zn': 4, 'Ge': 8, 'W': 4, 'O': 24}",Puckered
+3083,3083,"{'Y': 1, 'V': 1, 'F': 5}",Puckered
+3084,3084,"{'Pb': 2, 'W': 2, 'O': 8}",Puckered
+3085,3085,"{'Cd': 2, 'Sn': 2, 'O': 6}",Puckered
+3086,3086,"{'Li': 2, 'Cu': 2, 'P': 2, 'O': 8}",Puckered
+3087,3087,"{'Ca': 2, 'Bi': 4, 'O': 8}",Puckered
+3088,3088,"{'Mg': 1, 'Sb': 4, 'O': 8}",Puckered
+3089,3089,"{'Mn': 6, 'O': 2, 'F': 12}",Puckered
+3090,3090,"{'Sr': 4, 'Co': 2, 'Cu': 4, 'O': 14}",Puckered
+3091,3091,"{'Nb': 9, 'Ir': 1, 'Se': 20}",Puckered
+3092,3092,"{'Mg': 2, 'W': 2, 'F': 8}",Puckered
+3093,3093,"{'Mg': 1, 'Bi': 4, 'O': 8}",Puckered
+3094,3094,"{'Cu': 1, 'B': 2, 'C': 8, 'N': 8}",Puckered
+3095,3095,"{'Sr': 4, 'V': 2, 'Cu': 4, 'O': 14}",Puckered
+3096,3096,"{'Re': 4, 'Hg': 4, 'O': 16}",Puckered
+3097,3097,"{'Sr': 4, 'Ga': 2, 'Sb': 4, 'O': 14}",Puckered
+3098,3098,"{'Zn': 12, 'S': 12}",Puckered
+3099,3099,"{'Mg': 2, 'V': 8, 'O': 18}",Puckered
+3100,3100,"{'Bi': 2, 'P': 4, 'O': 14}",Puckered
+3101,3101,"{'Na': 2, 'Tm': 2, 'S': 4, 'O': 16}",Puckered
+3102,3102,"{'Ca': 2, 'Pb': 2, 'I': 8}",Puckered
+3103,3103,"{'V': 8, 'Zn': 2, 'O': 18}",Puckered
+3104,3104,"{'As': 8, 'Pb': 8, 'O': 20}",Puckered
+3105,3105,"{'Li': 4, 'Cu': 4, 'F': 14}",Puckered
+3106,3106,"{'Zn': 2, 'H': 12, 'Se': 4, 'O': 16}",Puckered
+3107,3107,"{'V': 4, 'P': 8, 'S': 26}",Puckered
+3108,3108,"{'Mg': 4, 'Ti': 4, 'Ge': 8, 'O': 24}",Puckered
+3109,3109,"{'Mg': 2, 'V': 4, 'O': 10}",Puckered
+3110,3110,"{'Hg': 2, 'Te': 4, 'O': 12}",Puckered
+3111,3111,"{'La': 4, 'H': 12, 'O': 12}",Puckered
+3112,3112,"{'Re': 12, 'Se': 12, 'Cl': 12}",Puckered
+3113,3113,"{'Ba': 2, 'Tl': 2, 'V': 4, 'O': 12}",Puckered
+3114,3114,"{'In': 2, 'S': 3}",Puckered
+3115,3115,"{'Cu': 1, 'Hg': 1, 'O': 2}",Puckered
+3116,3116,"{'Ba': 2, 'Cl': 2, 'O': 6}",Puckered
+3117,3117,"{'Ce': 1, 'Si': 5}",Puckered
+3118,3118,"{'Ba': 1, 'Ni': 4, 'O': 8}",Puckered
+3119,3119,"{'Co': 1, 'Cl': 2, 'O': 8}",Puckered
+3120,3120,"{'La': 2, 'Mg': 2, 'I': 10}",Puckered
+3121,3121,"{'Mg': 2, 'Si': 1, 'O': 4}",Puckered
+3122,3122,"{'Zn': 2, 'Fe': 4, 'O': 10}",Puckered
+3123,3123,"{'P': 2, 'Pd': 2, 'S': 2}",Puckered
+3124,3124,"{'Li': 2, 'V': 1, 'C': 2, 'O': 6}",Puckered
+3125,3125,"{'Er': 1, 'Ag': 1, 'P': 2, 'Se': 6}",Puckered
+3126,3126,"{'Ba': 1, 'Sn': 4, 'O': 8}",Puckered
+3127,3127,"{'Ti': 1, 'Pb': 1, 'O': 3}",Puckered
+3128,3128,"{'H': 10, 'W': 2}",Puckered
+3129,3129,"{'Mn': 1, 'Nb': 2, 'S': 4}",Puckered
+3130,3130,"{'Fe': 2, 'Se': 2}",Puckered
+3131,3131,"{'C': 6, 'N': 2}",Puckered
+3132,3132,"{'Fe': 1, 'Ag': 1, 'S': 2}",Puckered
+3133,3133,"{'Na': 2, 'Sn': 1, 'O': 6}",Puckered
+3134,3134,"{'Sr': 2, 'P': 4, 'H': 8, 'O': 8}",Puckered
+3135,3135,"{'Si': 4, 'As': 8}",Puckered
+3136,3136,"{'Mn': 1, 'Sb': 1, 'O': 4}",Puckered
+3137,3137,"{'Re': 1, 'Ag': 2, 'Cl': 6}",Puckered
+3138,3138,"{'Mo': 1, 'O': 3}",Puckered
+3139,3139,"{'V': 1, 'C': 2, 'O': 6}",Puckered
+3140,3140,"{'Si': 3, 'N': 4}",Planar
+3141,3141,"{'U': 2, 'Te': 10}",Puckered
+3142,3142,{'I': 4},Planar
+3143,3143,"{'Pu': 1, 'F': 3}",Puckered
+3144,3144,"{'As': 2, 'I': 6}",Puckered
+3145,3145,"{'Bi': 2, 'C': 1, 'O': 5}",Puckered
+3146,3146,"{'Ba': 1, 'Sb': 4, 'O': 8}",Puckered
+3147,3147,"{'Cu': 2, 'Si': 2, 'O': 6}",Puckered
+3148,3148,"{'Li': 2, 'Cu': 1, 'P': 1}",Puckered
+3149,3149,"{'K': 2, 'H': 2, 'C': 2, 'O': 6}",Puckered
+3150,3150,"{'In': 2, 'Si': 2, 'Te': 6}",Puckered
+3151,3151,"{'Zn': 2, 'Ni': 3, 'O': 8}",Puckered
+3152,3152,"{'Ba': 1, 'Sn': 2}",Puckered
+3153,3153,"{'Ba': 1, 'Si': 2}",Puckered
+3154,3154,"{'In': 1, 'P': 1, 'F': 3}",Puckered
+3155,3155,"{'Sc': 2, 'Cl': 2, 'O': 2}",Puckered
+3156,3156,"{'Fe': 1, 'Pb': 2, 'C': 6, 'N': 6}",Puckered
+3157,3157,{'Br': 4},Planar
+3158,3158,"{'Fe': 2, 'S': 2}",Puckered
+3159,3159,"{'Na': 1, 'Sn': 1, 'N': 1}",Puckered
+3160,3160,"{'Mg': 3, 'Ga': 3}",Puckered
+3161,3161,"{'Cu': 2, 'W': 2, 'O': 6, 'F': 4}",Puckered
+3162,3162,"{'Ca': 2, 'Ga': 2, 'N': 2}",Puckered
+3163,3163,"{'Ag': 2, 'Bi': 2, 'O': 4}",Puckered
+3164,3164,"{'Sn': 8, 'Pd': 2}",Puckered
+3165,3165,"{'Bi': 2, 'Pd': 1}",Puckered
+3166,3166,"{'Sr': 2, 'Mn': 2, 'Sn': 2}",Puckered
+3167,3167,"{'Yb': 1, 'Bi': 2}",Puckered
+3168,3168,"{'Fe': 2, 'Te': 2}",Puckered
+3169,3169,"{'La': 2, 'W': 2, 'Cl': 2, 'O': 8}",Puckered
+3170,3170,"{'Li': 2, 'Fe': 2, 'P': 2}",Puckered
+3171,3171,"{'Li': 3, 'Co': 1, 'Ni': 2, 'O': 6}",Puckered
+3172,3172,"{'V': 2, 'Ag': 2, 'P': 4, 'S': 12}",Puckered
+3173,3173,"{'K': 4, 'P': 4, 'Pd': 2}",Puckered
+3174,3174,"{'Na': 2, 'Mg': 2, 'Sb': 2}",Puckered
+3175,3175,"{'Na': 2, 'Sn': 2, 'O': 2}",Puckered
+3176,3176,"{'La': 4, 'I': 10}",Puckered
+3177,3177,"{'Cd': 2, 'P': 2, 'Se': 6}",Puckered
+3178,3178,"{'Ba': 2, 'Tl': 2, 'Cu': 2, 'O': 8}",Puckered
+3179,3179,"{'Sn': 2, 'Cl': 2, 'F': 2}",Puckered
+3180,3180,"{'Nb': 2, 'Co': 1, 'S': 4}",Puckered
+3181,3181,"{'Np': 2, 'Te': 6}",Puckered
+3182,3182,"{'V': 1, 'Pb': 1, 'O': 3}",Puckered
+3183,3183,"{'Sc': 1, 'Sn': 3}",Planar
+3184,3184,"{'K': 4, 'As': 4, 'Pd': 2}",Puckered
+3185,3185,"{'Ba': 2, 'Mn': 2, 'Tl': 1, 'O': 7}",Puckered
+3186,3186,"{'Ba': 1, 'Bi': 4, 'O': 8}",Puckered
+3187,3187,"{'Li': 1, 'Mg': 6, 'C': 1}",Puckered
+3188,3188,"{'Ce': 1, 'Mg': 2}",Puckered
+3189,3189,"{'Cu': 1, 'Au': 1, 'O': 2}",Puckered
+3190,3190,"{'Cr': 1, 'Ag': 1, 'S': 2}",Puckered
+3191,3191,"{'Ta': 2, 'Ni': 4, 'Te': 6}",Puckered
+3192,3192,"{'Na': 4, 'Tl': 4, 'O': 4}",Puckered
+3193,3193,"{'La': 1, 'Bi': 2, 'O': 4}",Puckered
+3194,3194,"{'Tl': 2, 'Pt': 4, 'S': 6}",Puckered
+3195,3195,"{'Ta': 2, 'Ni': 4, 'Te': 4}",Puckered
+3196,3196,"{'Ag': 1, 'Bi': 1, 'P': 2, 'Se': 6}",Puckered
+3197,3197,"{'Al': 1, 'Cr': 1, 'F': 5}",Puckered
+3198,3198,"{'Er': 2, 'Te': 6}",Puckered
+3199,3199,"{'Li': 2, 'Cl': 2, 'O': 4}",Puckered
+3200,3200,"{'Pb': 6, 'Se': 2, 'O': 10}",Puckered
+3201,3201,"{'Zn': 2, 'H': 8, 'N': 4, 'O': 16}",Puckered
+3202,3202,"{'Ba': 1, 'Ti': 1, 'O': 3}",Puckered
+3203,3203,"{'Li': 2, 'Co': 2, 'Si': 2, 'O': 8}",Puckered
+3204,3204,"{'Er': 2, 'Bi': 2, 'O': 6}",Puckered
+3205,3205,"{'Tl': 3, 'Mo': 2, 'O': 8}",Puckered
+3206,3206,"{'Tm': 1, 'Ag': 1, 'P': 2, 'Se': 6}",Puckered
+3207,3207,"{'U': 2, 'Te': 6}",Puckered
+3208,3208,"{'Ce': 2, 'Zn': 2, 'P': 2, 'O': 2}",Puckered
+3209,3209,"{'Yb': 4, 'I': 4, 'O': 4}",Puckered
+3210,3210,"{'Hg': 3, 'Br': 6}",Puckered
+3211,3211,"{'Mg': 2, 'Cu': 2, 'Ge': 2}",Puckered
+3212,3212,"{'Mg': 2, 'Co': 3, 'O': 8}",Puckered
+3213,3213,"{'Li': 1, 'Mn': 5, 'O': 5, 'F': 1}",Puckered
+3214,3214,"{'Li': 2, 'Ni': 2, 'P': 2, 'O': 8}",Puckered
+3215,3215,"{'Li': 6, 'Bi': 2, 'S': 6}",Puckered
+3216,3216,"{'K': 8, 'Ge': 4, 'Te': 16}",Puckered
+3217,3217,"{'Li': 2, 'Mn': 2, 'O': 4}",Puckered
+3218,3218,"{'Gd': 4, 'Br': 6}",Puckered
+3219,3219,"{'Gd': 2, 'Ga': 4, 'Co': 2}",Puckered
+3220,3220,"{'Fe': 1, 'Br': 2}",Puckered
+3221,3221,"{'Na': 2, 'N': 2, 'O': 4}",Puckered
+3222,3222,"{'Lu': 2, 'Co': 2, 'Ge': 4}",Puckered
+3223,3223,"{'Li': 2, 'Cd': 2, 'P': 2, 'O': 8}",Puckered
+3224,3224,"{'Ba': 2, 'Mn': 3, 'Tl': 2, 'O': 10}",Puckered
+3225,3225,"{'K': 8, 'Ge': 4, 'Se': 16}",Puckered
+3226,3226,"{'Al': 2, 'Si': 4, 'O': 11}",Puckered
+3227,3227,"{'Ca': 2, 'V': 4, 'O': 10}",Puckered
+3228,3228,"{'Ge': 2, 'Bi': 4, 'O': 10}",Puckered
+3229,3229,"{'Ba': 2, 'Sn': 4, 'H': 4, 'O': 8}",Puckered
+3230,3230,"{'In': 2, 'Bi': 4, 'Se': 8, 'Br': 2}",Puckered
+3231,3231,"{'Zn': 2, 'Cr': 4, 'O': 10}",Puckered
+3232,3232,"{'Cu': 2, 'Hg': 2, 'Se': 2, 'Cl': 2}",Puckered
+3233,3233,"{'Ba': 2, 'La': 2, 'I': 10}",Puckered
+3234,3234,"{'Na': 2, 'Ti': 2, 'Cu': 2, 'S': 6}",Puckered
+3235,3235,"{'Mn': 4, 'Zn': 2, 'S': 10}",Puckered
+3236,3236,"{'Cu': 4, 'Hg': 4, 'Se': 4, 'Br': 4}",Puckered
+3237,3237,"{'Ta': 4, 'V': 2, 'Zn': 4, 'O': 16}",Puckered
+3238,3238,"{'V': 2, 'Ag': 4, 'P': 2, 'O': 12}",Puckered
+3239,3239,"{'Li': 9, 'V': 6, 'O': 12, 'F': 6}",Puckered
+3240,3240,"{'Ta': 4, 'O': 10}",Puckered
+3241,3241,"{'Pd': 2, 'Se': 2, 'O': 6}",Puckered
+3242,3242,"{'Nd': 6, 'O': 4, 'F': 10}",Puckered
+3243,3243,"{'Li': 2, 'Fe': 4, 'F': 10}",Puckered
+3244,3244,"{'Cu': 2, 'N': 12}",Puckered
+3245,3245,"{'Te': 4, 'Mo': 2}",Puckered
+3246,3246,"{'Ta': 6, 'Si': 2, 'Te': 12}",Puckered
+3247,3247,"{'Al': 4, 'In': 4, 'I': 16}",Puckered
+3248,3248,"{'Ca': 3, 'Co': 2, 'O': 6}",Puckered
+3249,3249,"{'W': 12, 'Br': 24}",Puckered
+3250,3250,"{'Ca': 4, 'Sn': 4, 'S': 12}",Puckered
+3251,3251,"{'Bi': 16, 'I': 4}",Puckered
+3252,3252,"{'H': 6, 'I': 6, 'N': 4}",Puckered
+3253,3253,"{'Hg': 2, 'S': 2, 'O': 8}",Puckered
+3254,3254,"{'Ag': 4, 'C': 4, 'N': 12, 'O': 8}",Puckered
+3255,3255,"{'Mg': 2, 'Sb': 4, 'O': 8}",Puckered
+3256,3256,"{'Li': 5, 'Zn': 4, 'B': 4, 'O': 12}",Puckered
+3257,3257,"{'H': 2, 'Au': 2, 'O': 4}",Puckered
+3258,3258,"{'Cr': 3, 'O': 8}",Puckered
+3259,3259,"{'Li': 2, 'V': 2, 'F': 10}",Puckered
+3260,3260,"{'Bi': 4, 'Sb': 4, 'O': 20}",Puckered
+3261,3261,"{'V': 2, 'H': 4, 'Se': 2, 'O': 10}",Puckered
+3262,3262,"{'Cu': 6, 'Se': 4, 'Cl': 4, 'O': 12}",Puckered
+3263,3263,"{'Zn': 2, 'Sn': 8, 'O': 12}",Puckered
+3264,3264,"{'La': 4, 'Br': 10}",Puckered
+3265,3265,"{'Cu': 2, 'B': 4, 'Pb': 4, 'O': 12}",Puckered
+3266,3266,"{'Sr': 2, 'La': 2, 'Br': 10}",Puckered
+3267,3267,"{'Ca': 1, 'V': 4, 'O': 10}",Puckered
+3268,3268,"{'Cu': 8, 'W': 4, 'O': 16}",Puckered
+3269,3269,"{'Li': 4, 'Fe': 2, 'P': 8, 'O': 26}",Puckered
+3270,3270,"{'Pt': 4, 'C': 4, 'I': 8, 'O': 4}",Puckered
+3271,3271,"{'Ag': 2, 'Mo': 6, 'P': 4, 'O': 28}",Puckered
+3272,3272,"{'Li': 4, 'Mo': 2, 'P': 8, 'O': 26}",Puckered
+3273,3273,"{'Sr': 4, 'Fe': 2, 'Cu': 4, 'O': 14}",Puckered
+3274,3274,"{'Ta': 12, 'I': 28}",Puckered
+3275,3275,"{'Ti': 4, 'Zn': 2, 'S': 10}",Puckered
+3276,3276,"{'Ti': 4, 'Zn': 4, 'F': 20}",Puckered
+3277,3277,"{'Mg': 2, 'H': 8, 'N': 4, 'O': 16}",Puckered
+3278,3278,"{'Ta': 9, 'Te': 18}",Puckered
+3279,3279,"{'Nb': 4, 'Zn': 4, 'W': 2, 'O': 16}",Puckered
+3280,3280,"{'Nb': 4, 'Zn': 4, 'Fe': 2, 'O': 16}",Puckered
+3281,3281,"{'Li': 6, 'Sb': 4, 'P': 6, 'O': 24}",Puckered
+3282,3282,"{'Zn': 12, 'P': 8}",Puckered
+3283,3283,"{'Hg': 8, 'P': 4, 'O': 14}",Puckered
+3284,3284,"{'Sn': 4, 'P': 6, 'O': 20}",Puckered
+3285,3285,"{'Sn': 2, 'Br': 2, 'Cl': 2}",Puckered
+3286,3286,"{'Pb': 6, 'S': 2, 'O': 12}",Puckered
+3287,3287,"{'Li': 2, 'Sb': 2, 'O': 4}",Puckered
+3288,3288,"{'In': 2, 'I': 6, 'O': 18}",Puckered
+3289,3289,"{'Y': 2, 'I': 6}",Puckered
+3290,3290,"{'Nb': 4, 'Ir': 1, 'Se': 10}",Puckered
+3291,3291,"{'Y': 1, 'Cr': 1, 'F': 5}",Puckered
+3292,3292,"{'Li': 4, 'Ni': 4, 'P': 4, 'O': 16}",Puckered
+3293,3293,"{'Tm': 4, 'H': 12, 'O': 12}",Puckered
+3294,3294,"{'Li': 2, 'Cr': 1, 'P': 2, 'O': 8}",Puckered
+3295,3295,"{'Ce': 1, 'Ge': 5}",Puckered
+3296,3296,"{'Lu': 4, 'P': 4, 'S': 16}",Puckered
+3297,3297,"{'V': 4, 'F': 16}",Puckered
+3298,3298,"{'Zn': 2, 'P': 4, 'W': 2, 'O': 14}",Puckered
+3299,3299,"{'Ho': 2, 'Bi': 2, 'O': 6}",Puckered
+3300,3300,"{'Fe': 6, 'P': 24}",Puckered
+3301,3301,"{'Na': 4, 'Sb': 4, 'Mo': 4, 'O': 20}",Puckered
+3302,3302,"{'Cr': 4, 'O': 10}",Puckered
+3303,3303,"{'Mg': 2, 'Ti': 8, 'O': 18}",Puckered
+3304,3304,"{'Mg': 1, 'H': 2, 'O': 2}",Puckered
+3305,3305,"{'Pb': 4, 'Se': 4, 'O': 16}",Puckered
+3306,3306,"{'Ta': 2, 'Te': 10, 'Pt': 2}",Puckered
+3307,3307,"{'Cu': 2, 'H': 4, 'Se': 2, 'O': 10}",Puckered
+3308,3308,"{'Nb': 4, 'Si': 2, 'Te': 8}",Puckered
+3309,3309,"{'Ge': 5, 'Te': 8, 'As': 2}",Puckered
+3310,3310,"{'Bi': 4, 'S': 6}",Puckered
+3311,3311,"{'V': 2, 'Sb': 2, 'P': 4, 'O': 16}",Puckered
+3312,3312,"{'Zn': 4, 'Sn': 4, 'O': 8}",Puckered
+3313,3313,"{'Mn': 4, 'O': 2, 'F': 8}",Puckered
+3314,3314,"{'Sr': 4, 'Cu': 4, 'Te': 2, 'O': 14}",Puckered
+3315,3315,"{'Te': 4, 'Au': 4, 'I': 4}",Puckered
+3316,3316,"{'Zn': 2, 'Cr': 8, 'O': 18}",Puckered
+3317,3317,"{'Cr': 2, 'Ag': 2, 'P': 4, 'S': 12}",Puckered
+3318,3318,"{'Li': 3, 'Sb': 2, 'P': 3, 'O': 12}",Puckered
+3319,3319,"{'Pd': 4, 'I': 8}",Puckered
+3320,3320,"{'Zn': 2, 'Cr': 2, 'F': 10}",Puckered
+3321,3321,"{'Ca': 2, 'H': 8, 'Cl': 4, 'O': 4}",Puckered
+3322,3322,"{'I': 8, 'O': 16}",Puckered
+3323,3323,"{'Mo': 4, 'O': 10}",Puckered
+3324,3324,"{'Cu': 4, 'Se': 4, 'O': 12}",Puckered
+3325,3325,"{'Pb': 6, 'S': 2, 'O': 12}",Puckered
+3326,3326,"{'Cu': 8, 'P': 8, 'O': 24}",Puckered
+3327,3327,"{'Li': 4, 'Fe': 2, 'P': 4, 'O': 14}",Puckered
+3328,3328,"{'Ca': 4, 'Mg': 2, 'Si': 4, 'O': 14}",Puckered
+3329,3329,"{'Sb': 8, 'O': 12}",Puckered
+3330,3330,"{'Zn': 2, 'Ni': 4, 'S': 10}",Puckered
+3331,3331,"{'Tl': 8, 'S': 4, 'O': 12}",Puckered
+3332,3332,"{'Zn': 4, 'P': 6, 'S': 18}",Puckered
+3333,3333,"{'Cu': 1, 'Mo': 1, 'F': 6}",Puckered
+3334,3334,"{'Tl': 18, 'S': 9}",Puckered
+3335,3335,"{'Li': 2, 'V': 4, 'Ni': 2, 'O': 12}",Puckered
+3336,3336,"{'Al': 4, 'Bi': 4, 'Cl': 24}",Puckered
+3337,3337,"{'Zn': 2, 'Fe': 2, 'F': 10}",Puckered
+3338,3338,"{'V': 8, 'S': 18, 'Br': 8}",Puckered
+3339,3339,"{'Ag': 4, 'W': 2, 'S': 8}",Puckered
+3340,3340,"{'Ca': 4, 'Sn': 4, 'O': 8}",Puckered
+3341,3341,"{'Ba': 1, 'Tl': 1, 'W': 2, 'O': 6}",Puckered
+3342,3342,"{'Tl': 4, 'Ge': 4, 'Se': 10}",Puckered
+3343,3343,"{'Nd': 4, 'V': 4, 'Sb': 12}",Puckered
+3344,3344,"{'Hg': 8, 'Te': 4, 'Br': 12}",Puckered
+3345,3345,"{'Pb': 8, 'Se': 8, 'O': 24}",Puckered
+3346,3346,"{'V': 6, 'Se': 4, 'Cl': 2, 'O': 16}",Puckered
+3347,3347,"{'La': 2, 'Pb': 12, 'Cl': 2, 'O': 14}",Puckered
+3348,3348,"{'Li': 4, 'Cr': 8, 'O': 26}",Puckered
+3349,3349,"{'Ag': 4, 'Pd': 2, 'Cl': 8}",Puckered
+3350,3350,"{'V': 4, 'Zn': 4, 'F': 20}",Puckered
+3351,3351,"{'Ca': 4, 'Ge': 8, 'W': 4, 'O': 24}",Puckered
+3352,3352,"{'Mo': 12, 'Br': 24}",Puckered
+3353,3353,"{'Tl': 12, 'Bi': 4, 'I': 24}",Puckered
+3354,3354,"{'Fe': 3, 'S': 4}",Puckered
+3355,3355,"{'La': 2, 'Te': 6}",Puckered
+3356,3356,"{'Sc': 1, 'Ag': 1, 'P': 2, 'Se': 6}",Puckered
+3357,3357,"{'Th': 2, 'Te': 6}",Puckered
+3358,3358,"{'Sc': 2, 'C': 1}",Puckered
+3359,3359,"{'W': 3, 'O': 9}",Puckered
+3360,3360,"{'Sc': 2, 'Cl': 6}",Puckered
+3361,3361,"{'Mn': 2, 'O': 2, 'F': 2}",Puckered
+3362,3362,"{'Bi': 6, 'Pt': 3}",Puckered
+3363,3363,"{'Cu': 2, 'Si': 4, 'P': 6}",Puckered
+3364,3364,"{'Ce': 1, 'Si': 2, 'Au': 4}",Puckered
+3365,3365,"{'Ca': 2, 'Mn': 2, 'Sn': 2}",Puckered
+3366,3366,"{'Sr': 2, 'Mn': 2, 'Ge': 2}",Puckered
+3367,3367,"{'La': 2, 'Te': 4, 'Se': 2}",Puckered
+3368,3368,"{'Sc': 1, 'Ag': 1, 'P': 2, 'S': 6}",Puckered
+3369,3369,"{'Fe': 2, 'Br': 6}",Puckered
+3370,3370,"{'Mn': 2, 'Ni': 2, 'O': 6}",Puckered
+3371,3371,"{'V': 2, 'Ag': 2, 'H': 4, 'O': 8}",Puckered
+3372,3372,"{'Li': 2, 'Co': 2, 'P': 2, 'O': 8}",Puckered
+3373,3373,"{'Zn': 1, 'B': 2, 'C': 8, 'N': 8}",Puckered
+3374,3374,"{'Zn': 2, 'Cu': 2, 'Ge': 4, 'O': 12}",Puckered
+3375,3375,"{'Ti': 2, 'Nb': 4, 'Zn': 4, 'O': 16}",Puckered
+3376,3376,"{'Mn': 3, 'V': 3, 'Te': 2, 'O': 16}",Puckered
+3377,3377,"{'Ca': 6, 'Te': 6, 'O': 18}",Puckered
+3378,3378,"{'K': 1, 'Rb': 1, 'Mg': 6, 'O': 7}",Puckered
+3379,3379,"{'Hf': 1, 'Fe': 1, 'Cl': 6}",Puckered
+3380,3380,"{'V': 4, 'O': 10}",Puckered
+3381,3381,"{'Zr': 2, 'H': 2, 'Cl': 2}",Puckered
+3382,3382,"{'Na': 2, 'Te': 2, 'F': 10}",Puckered
+3383,3383,"{'Li': 2, 'Mo': 1, 'P': 2, 'O': 8}",Puckered
+3384,3384,"{'I': 1, 'N': 2, 'O': 6}",Puckered
+3385,3385,"{'Ce': 2, 'Te': 6}",Puckered
+3386,3386,"{'V': 3, 'Cr': 1, 'O': 10}",Puckered
+3387,3387,"{'Gd': 2, 'Br': 2}",Puckered
+3388,3388,"{'Sn': 12, 'Pd': 4}",Puckered
+3389,3389,"{'La': 1, 'Br': 2}",Puckered
+3390,3390,"{'Ba': 1, 'Ni': 1, 'Sn': 3}",Puckered
+3391,3391,"{'Rb': 4, 'Hg': 4, 'Sb': 4, 'Se': 12}",Puckered
+3392,3392,"{'Mg': 4, 'Sb': 8, 'O': 16}",Puckered
+3393,3393,"{'Li': 4, 'V': 2, 'C': 6, 'O': 18}",Puckered
+3394,3394,"{'Mg': 2, 'Sb': 6, 'P': 6, 'O': 26}",Puckered
+3395,3395,"{'Ba': 2, 'Tl': 2, 'Sn': 3, 'O': 10}",Puckered
+3396,3396,"{'Ta': 12, 'Br': 28}",Puckered
+3397,3397,"{'Li': 3, 'Sn': 1, 'P': 6, 'O': 18}",Puckered
+3398,3398,"{'Al': 1, 'Cu': 1, 'F': 5}",Puckered
+3399,3399,"{'K': 4, 'Te': 4, 'F': 20}",Puckered
+3400,3400,"{'Sb': 8, 'O': 16}",Puckered
+3401,3401,"{'Na': 8, 'Ti': 8, 'O': 20}",Puckered
+3402,3402,"{'Ge': 4, 'Pb': 8, 'S': 16}",Puckered
+3403,3403,"{'Cu': 6, 'Se': 6, 'O': 18}",Puckered
+3404,3404,"{'Rb': 2, 'U': 3, 'I': 4, 'O': 20}",Puckered
+3405,3405,"{'Mn': 6, 'Se': 8, 'O': 24}",Puckered
+3406,3406,"{'Zn': 2, 'W': 2, 'F': 10}",Puckered
+3407,3407,"{'Li': 4, 'Nb': 2, 'P': 8, 'O': 26}",Puckered
+3408,3408,"{'Li': 2, 'Sn': 8, 'P': 6, 'O': 24}",Puckered
+3409,3409,"{'Rb': 6, 'Re': 6, 'Cl': 24}",Puckered
+3410,3410,"{'Sn': 8, 'S': 2, 'I': 12}",Puckered
+3411,3411,"{'Li': 4, 'V': 4, 'F': 24}",Puckered
+3412,3412,"{'B': 16, 'S': 24}",Puckered
+3413,3413,"{'Y': 2, 'Cu': 6, 'O': 12}",Puckered
+3414,3414,{'As': 1},Planar
+3415,3415,{'Al': 1},Planar
+3416,3416,{'P': 1},Planar
+3417,3417,{'Al': 2},Puckered
+3418,3418,{'Si': 2},Puckered
+3419,3419,{'In': 1},Planar
+3420,3420,{'Ga': 1},Planar
+3421,3421,{'Cl': 1},Planar
+3422,3422,{'S': 2},Puckered
+3423,3423,{'Bi': 1},Planar
+3424,3424,{'Sn': 2},Puckered
+3425,3425,{'Se': 2},Planar
+3426,3426,{'Pb': 2},Puckered
+3427,3427,{'Tl': 1},Planar
+3428,3428,{'B': 1},Planar
+3429,3429,{'N': 2},Puckered
+3430,3430,{'Si': 1},Planar
+3431,3431,{'In': 2},Puckered
+3432,3432,{'Sn': 2},Puckered
+3433,3433,{'Tl': 2},Puckered
+3434,3434,{'Pd': 4},Puckered
+3435,3435,{'Mg': 2},Planar
+3436,3436,{'Ge': 1},Planar
+3437,3437,{'As': 10},Puckered
+3438,3438,{'N': 4},Puckered
+3439,3439,{'P': 4},Puckered
+3440,3440,{'Sb': 8},Puckered
+3441,3441,{'Ba': 2},Planar
+3442,3442,{'Sb': 10},Puckered
+3443,3443,{'Si': 8},Puckered
+3444,3444,{'Bi': 10},Puckered
+3445,3445,{'Al': 1},Planar
+3446,3446,{'B': 2},Puckered
+3447,3447,{'Si': 2},Puckered
+3448,3448,{'Sn': 1},Planar
+3449,3449,{'Pb': 1},Planar
+3450,3450,{'S': 2},Planar
+3451,3451,{'Ge': 2},Puckered
+3452,3452,{'P': 4},Puckered
+3453,3453,{'In': 1},Planar
+3454,3454,{'Pt': 4},Puckered
+3455,3455,{'Si': 8},Puckered
+3456,3456,{'N': 4},Puckered
+3457,3457,{'Be': 2},Planar
+3458,3458,{'N': 10},Puckered
+3459,3459,{'Si': 2},Planar
+3460,3460,{'Tl': 1},Planar
+3461,3461,{'Sn': 2},Planar
+3462,3462,"{'Fe': 3, 'Ge': 1, 'Te': 2}",Puckered
+3463,3463,"{'Si': 4, 'B': 2, 'N': 2}",Planar
+3464,3464,"{'Pb': 1, 'Se': 2}",Puckered
+3465,3465,"{'Se': 2, 'N': 2}",Puckered
+3466,3466,"{'Hg': 1, 'O': 1}",Puckered
+3467,3467,"{'Zn': 1, 'As': 1}",Planar
+3468,3468,"{'Tb': 1, 'As': 2}",Puckered
+3469,3469,"{'Al': 2, 'Te': 3}",Puckered
+3470,3470,"{'Ga': 1, 'Ni': 2}",Puckered
+3471,3471,"{'Sc': 1, 'Sn': 5}",Puckered
+3472,3472,"{'Zn': 1, 'Te': 1}",Puckered
+3473,3473,"{'Al': 3, 'Os': 2}",Puckered
+3474,3474,"{'Ca': 3, 'Bi': 3}",Puckered
+3475,3475,"{'Sr': 3, 'Bi': 3}",Puckered
+3476,3476,"{'Zn': 1, 'S': 1}",Puckered
+3477,3477,"{'Dy': 1, 'As': 2}",Puckered
+3478,3478,"{'Tb': 1, 'Sn': 2}",Puckered
+3479,3479,"{'Ni': 2, 'B': 1}",Puckered
+3480,3480,"{'Y': 1, 'As': 2}",Puckered
+3481,3481,"{'Tl': 2, 'Se': 3}",Puckered
+3482,3482,"{'Tb': 1, 'P': 2}",Puckered
+3483,3483,"{'Cu': 1, 'N': 2}",Puckered
+3484,3484,"{'In': 3, 'Os': 2}",Puckered
+3485,3485,"{'Sr': 8, 'Si': 4}",Puckered
+3486,3486,"{'Ba': 1, 'U': 1}",Puckered
+3487,3487,"{'Rh': 2, 'C': 4}",Puckered
+3488,3488,"{'Sr': 3, 'Ge': 1}",Puckered
+3489,3489,"{'Bi': 2, 'Te': 2}",Puckered
+3490,3490,"{'Ti': 2, 'Te': 6}",Puckered
+3491,3491,"{'Ga': 3, 'Ru': 2}",Puckered
+3492,3492,"{'Ho': 2, 'S': 6}",Puckered
+3493,3493,"{'Yb': 2, 'I': 6}",Puckered
+3494,3494,"{'Nd': 1, 'Pb': 5}",Puckered
+3495,3495,"{'Ga': 2, 'Se': 3}",Puckered
+3496,3496,"{'Y': 1, 'P': 2}",Puckered
+3497,3497,"{'Sn': 1, 'S': 2}",Puckered
+3498,3498,"{'Ti': 2, 'Se': 6}",Puckered
+3499,3499,"{'Al': 1, 'Ni': 2}",Puckered
+3500,3500,"{'In': 2, 'S': 3}",Puckered
+3501,3501,"{'K': 2, 'C': 4}",Puckered
+3502,3502,"{'Sr': 3, 'Sn': 1}",Puckered
+3503,3503,"{'Sr': 2, 'Bi': 4}",Puckered
+3504,3504,"{'Tl': 1, 'Pt': 2}",Puckered
+3505,3505,"{'Ca': 2, 'Bi': 4}",Puckered
+3506,3506,"{'Mg': 3, 'Sn': 1}",Puckered
+3507,3507,"{'Ce': 2, 'Be': 4}",Puckered
+3508,3508,"{'Tm': 1, 'Bi': 2}",Puckered
+3509,3509,"{'Tm': 2, 'S': 6}",Puckered
+3510,3510,"{'Ba': 3, 'Sr': 3}",Puckered
+3511,3511,"{'Ca': 2, 'N': 4}",Puckered
+3512,3512,"{'Li': 1, 'Sn': 2}",Puckered
+3513,3513,"{'Sc': 1, 'P': 2}",Puckered
+3514,3514,"{'Ca': 3, 'N': 3}",Puckered
+3515,3515,"{'Si': 2, 'P': 4}",Puckered
+3516,3516,"{'Zn': 1, 'Se': 1}",Puckered
+3517,3517,"{'Ba': 3, 'N': 3}",Puckered
+3518,3518,"{'Nd': 1, 'C': 5}",Puckered
+3519,3519,"{'Tb': 1, 'Si': 5}",Puckered
+3520,3520,"{'P': 6, 'Pd': 3}",Puckered
+3521,3521,"{'Sm': 1, 'Sn': 5}",Puckered
+3522,3522,"{'Ba': 2, 'Ce': 2}",Puckered
+3523,3523,"{'Tl': 3, 'Os': 2}",Puckered
+3524,3524,"{'Na': 1, 'Bi': 3}",Planar
+3525,3525,"{'Rb': 1, 'Sn': 2}",Puckered
+3526,3526,"{'Ba': 3, 'Si': 1}",Puckered
+3527,3527,"{'U': 4, 'Te': 2}",Puckered
+3528,3528,"{'As': 2, 'S': 2}",Puckered
+3529,3529,"{'Yb': 2, 'F': 6}",Puckered
+3530,3530,"{'Y': 1, 'C': 5}",Puckered
+3531,3531,"{'Cd': 1, 'P': 1}",Puckered
+3532,3532,"{'Be': 2, 'Si': 4}",Puckered
+3533,3533,"{'Tb': 1, 'N': 2}",Puckered
+3534,3534,"{'Sr': 8, 'C': 4}",Puckered
+3535,3535,"{'Ca': 3, 'Si': 1}",Puckered
+3536,3536,"{'Sr': 2, 'Ge': 4}",Puckered
+3537,3537,"{'Sc': 1, 'As': 2}",Puckered
+3538,3538,"{'Ho': 2, 'S': 6}",Puckered
+3539,3539,"{'Ge': 2, 'O': 1}",Puckered
+3540,3540,"{'Al': 1, 'Pt': 2}",Puckered
+3541,3541,"{'Dy': 2, 'Se': 6}",Puckered
+3542,3542,"{'In': 3, 'Ru': 2}",Puckered
+3543,3543,"{'As': 2, 'Se': 2}",Puckered
+3544,3544,"{'Hg': 1, 'P': 1}",Puckered
+3545,3545,"{'Sr': 2, 'Ca': 2}",Puckered
+3546,3546,"{'Ba': 3, 'Ca': 3}",Puckered
+3547,3547,"{'In': 1, 'Pd': 2}",Puckered
+3548,3548,"{'Mg': 2, 'Ge': 4}",Puckered
+3549,3549,"{'Li': 1, 'As': 3}",Puckered
+3550,3550,"{'Mg': 8, 'C': 4}",Puckered
+3551,3551,"{'As': 4, 'S': 4}",Puckered
+3552,3552,"{'Tl': 1, 'Ni': 2}",Puckered
+3553,3553,"{'Ba': 4, 'Ce': 2}",Puckered
+3554,3554,"{'Sc': 1, 'Pb': 5}",Puckered
+3555,3555,"{'Be': 2, 'Sb': 4}",Puckered
+3556,3556,"{'Na': 1, 'Pb': 2}",Puckered
+3557,3557,"{'K': 4, 'I': 2}",Puckered
+3558,3558,"{'Sr': 3, 'Be': 3}",Puckered
+3559,3559,"{'Sc': 1, 'Si': 5}",Puckered
+3560,3560,"{'As': 2, 'Au': 1}",Puckered
+3561,3561,"{'B': 2, 'Te': 3}",Puckered
+3562,3562,"{'Tl': 3, 'Fe': 2}",Puckered
+3563,3563,"{'Pa': 2, 'As': 4}",Puckered
+3564,3564,"{'Mg': 3, 'Si': 1}",Puckered
+3565,3565,"{'Er': 1, 'As': 2}",Puckered
+3566,3566,"{'Hg': 1, 'Bi': 1}",Puckered
+3567,3567,"{'Si': 1, 'Te': 2}",Puckered
+3568,3568,"{'K': 1, 'Cl': 1}",Planar
+3569,3569,"{'Si': 6, 'Sb': 2}",Puckered
+3570,3570,"{'Ni': 2, 'Cl': 4}",Puckered
+3571,3571,"{'K': 1, 'I': 1}",Planar
+3572,3572,"{'Gd': 1, 'C': 2}",Puckered
+3573,3573,"{'Mg': 2, 'P': 4}",Puckered
+3574,3574,"{'Ca': 3, 'Ge': 1}",Puckered
+3575,3575,"{'Sr': 3, 'Ca': 3}",Puckered
+3576,3576,"{'U': 2, 'Ge': 4}",Puckered
+3577,3577,"{'Bi': 2, 'Te': 2}",Puckered
+3578,3578,"{'Ho': 2, 'Se': 6}",Puckered
+3579,3579,"{'Cd': 1, 'As': 1}",Puckered
+3580,3580,"{'Te': 2, 'Pb': 1}",Puckered
+3581,3581,"{'Te': 4, 'Os': 3}",Puckered
+3582,3582,"{'Na': 1, 'Br': 1}",Planar
+3583,3583,"{'In': 3, 'Fe': 2}",Puckered
+3584,3584,"{'Ca': 2, 'Ce': 2}",Puckered
+3585,3585,"{'As': 2, 'Se': 2}",Puckered
+3586,3586,"{'Rb': 1, 'I': 1}",Planar
+3587,3587,"{'Pd': 2, 'F': 4}",Puckered
+3588,3588,"{'K': 4, 'Br': 2}",Puckered
+3589,3589,"{'Ce': 4, 'Mg': 2}",Puckered
+3590,3590,"{'Y': 1, 'Te': 3}",Puckered
+3591,3591,"{'Ca': 3, 'C': 1}",Puckered
+3592,3592,"{'Tl': 2, 'Te': 3}",Puckered
+3593,3593,"{'Si': 6, 'P': 2}",Puckered
+3594,3594,"{'Y': 1, 'Sn': 5}",Puckered
+3595,3595,"{'Tm': 1, 'As': 2}",Puckered
+3596,3596,"{'Ca': 3, 'Pb': 1}",Puckered
+3597,3597,"{'Ba': 2, 'Ca': 2}",Puckered
+3598,3598,"{'Na': 1, 'Bi': 3}",Puckered
+3599,3599,"{'Rb': 4, 'Cl': 2}",Puckered
+3600,3600,"{'Al': 2, 'S': 3}",Puckered
+3601,3601,"{'Sb': 2, 'Se': 2}",Puckered
+3602,3602,"{'Tl': 2, 'S': 3}",Puckered
+3603,3603,"{'Sb': 4, 'S': 4}",Puckered
+3604,3604,"{'In': 1, 'Pt': 2}",Puckered
+3605,3605,"{'Li': 1, 'Br': 1}",Planar
+3606,3606,"{'Sr': 3, 'C': 1}",Puckered
+3607,3607,"{'Ru': 2, 'Se': 2}",Puckered
+3608,3608,"{'Ni': 3, 'Bi': 6}",Puckered
+3609,3609,"{'Mg': 3, 'As': 3}",Puckered
+3610,3610,"{'Si': 1, 'Se': 2}",Puckered
+3611,3611,"{'Al': 1, 'Pd': 2}",Puckered
+3612,3612,"{'Ga': 1, 'Pd': 2}",Puckered
+3613,3613,"{'In': 1, 'Ni': 2}",Puckered
+3614,3614,"{'Dy': 2, 'S': 6}",Puckered
+3615,3615,"{'Pa': 2, 'Bi': 4}",Puckered
+3616,3616,"{'La': 1, 'Se': 3}",Puckered
+3617,3617,"{'Ru': 3, 'S': 4}",Puckered
+3618,3618,"{'K': 1, 'Sn': 2}",Puckered
+3619,3619,"{'Mn': 2, 'N': 4}",Puckered
+3620,3620,"{'Al': 3, 'Fe': 2}",Puckered
+3621,3621,"{'Ni': 3, 'As': 6}",Puckered
+3622,3622,"{'Zn': 1, 'Sb': 1}",Puckered
+3623,3623,"{'Rb': 4, 'I': 2}",Puckered
+3624,3624,"{'Pb': 2, 'O': 1}",Puckered
+3625,3625,"{'Cd': 1, 'Sb': 1}",Puckered
+3626,3626,"{'U': 4, 'Se': 2}",Puckered
+3627,3627,"{'Be': 3, 'C': 1}",Puckered
+3628,3628,"{'Tb': 1, 'Si': 2}",Puckered
+3629,3629,"{'Be': 2, 'Bi': 4}",Puckered
+3630,3630,"{'Ba': 3, 'As': 3}",Puckered
+3631,3631,"{'Np': 2, 'S': 6}",Puckered
+3632,3632,"{'Hg': 1, 'Te': 1}",Puckered
+3633,3633,"{'Bi': 2, 'W': 3}",Puckered
+3634,3634,"{'S': 2, 'O': 4}",Puckered
+3635,3635,"{'K': 1, 'Sb': 3}",Planar
+3636,3636,"{'Tc': 2, 'N': 4}",Puckered
+3637,3637,"{'Te': 2, 'N': 2}",Puckered
+3638,3638,"{'Sn': 1, 'Se': 2}",Puckered
+3639,3639,"{'Y': 1, 'Pb': 5}",Puckered
+3640,3640,"{'Mo': 3, 'P': 2}",Puckered
+3641,3641,"{'Pt': 1, 'N': 2}",Planar
+3642,3642,"{'Li': 4, 'Br': 2}",Puckered
+3643,3643,"{'Sr': 2, 'C': 4}",Puckered
+3644,3644,"{'Ba': 3, 'Sb': 3}",Puckered
+3645,3645,"{'Li': 1, 'I': 1}",Planar
+3646,3646,"{'Mg': 3, 'Ge': 1}",Puckered
+3647,3647,"{'Te': 2, 'N': 2}",Puckered
+3648,3648,"{'Mg': 3, 'P': 3}",Puckered
+3649,3649,"{'Ba': 2, 'Mg': 2}",Puckered
+3650,3650,"{'Sr': 2, 'P': 4}",Puckered
+3651,3651,"{'Y': 1, 'Si': 5}",Puckered
+3652,3652,"{'Mg': 3, 'Pb': 1}",Puckered
+3653,3653,"{'Pt': 2, 'Br': 4}",Puckered
+3654,3654,"{'Te': 4, 'As': 4}",Puckered
+3655,3655,"{'P': 4, 'S': 4}",Puckered
+3656,3656,"{'Pt': 2, 'Cl': 4}",Puckered
+3657,3657,"{'Bi': 2, 'Mo': 3}",Puckered
+3658,3658,"{'Li': 1, 'Sb': 3}",Puckered
+3659,3659,"{'Ba': 2, 'Sr': 2}",Puckered
+3660,3660,"{'Ag': 1, 'Bi': 2}",Puckered
+3661,3661,"{'Tb': 1, 'Bi': 2}",Puckered
+3662,3662,"{'La': 1, 'As': 2}",Puckered
+3663,3663,"{'Li': 2, 'C': 4}",Puckered
+3664,3664,"{'K': 4, 'Cl': 2}",Puckered
+3665,3665,"{'Cr': 3, 'As': 2}",Puckered
+3666,3666,"{'La': 2, 'I': 2}",Puckered
+3667,3667,"{'Sr': 3, 'P': 3}",Puckered
+3668,3668,"{'Er': 1, 'Bi': 2}",Puckered
+3669,3669,"{'Pb': 1, 'S': 2}",Puckered
+3670,3670,"{'Cd': 1, 'Bi': 1}",Puckered
+3671,3671,"{'K': 1, 'F': 1}",Planar
+3672,3672,"{'P': 4, 'Se': 4}",Puckered
+3673,3673,"{'Mg': 1, 'U': 1}",Puckered
+3674,3674,"{'Ca': 5, 'Ce': 1}",Puckered
+3675,3675,"{'Rb': 4, 'Br': 2}",Puckered
+3676,3676,"{'Dy': 1, 'P': 2}",Puckered
+3677,3677,"{'Al': 2, 'Se': 3}",Puckered
+3678,3678,"{'Li': 1, 'Cl': 1}",Planar
+3679,3679,"{'Yb': 1, 'P': 2}",Puckered
+3680,3680,"{'Se': 2, 'N': 2}",Puckered
+3681,3681,"{'Mg': 2, 'Be': 2}",Puckered
+3682,3682,"{'Pt': 2, 'F': 4}",Puckered
+3683,3683,"{'Ba': 4, 'Ce': 2}",Puckered
+3684,3684,"{'Eu': 1, 'Sn': 3}",Planar
+3685,3685,"{'Mg': 8, 'Pb': 4}",Puckered
+3686,3686,"{'Dy': 1, 'Bi': 2}",Puckered
+3687,3687,"{'Eu': 3, 'Se': 3}",Puckered
+3688,3688,"{'Ni': 1, 'N': 2}",Planar
+3689,3689,"{'Sc': 1, 'Bi': 2}",Puckered
+3690,3690,"{'Ca': 8, 'Ge': 4}",Puckered
+3691,3691,"{'Ca': 4, 'Ce': 2}",Puckered
+3692,3692,"{'Na': 4, 'Br': 2}",Puckered
+3693,3693,"{'Tm': 2, 'Se': 6}",Puckered
+3694,3694,"{'Tm': 1, 'P': 2}",Puckered
+3695,3695,"{'Ce': 2, 'Be': 4}",Puckered
+3696,3696,"{'Cd': 1, 'O': 1}",Planar
+3697,3697,"{'Li': 1, 'Bi': 3}",Puckered
+3698,3698,"{'Ba': 2, 'Bi': 4}",Puckered
+3699,3699,"{'La': 1, 'Bi': 2}",Puckered
+3700,3700,"{'Ba': 3, 'Bi': 3}",Puckered
+3701,3701,"{'Tl': 1, 'Pd': 2}",Puckered
+3702,3702,"{'Ca': 8, 'C': 4}",Puckered
+3703,3703,"{'Be': 3, 'Bi': 3}",Puckered
+3704,3704,"{'Ba': 8, 'C': 4}",Puckered
+3705,3705,"{'Tb': 1, 'Pb': 5}",Puckered
+3706,3706,"{'Bi': 4, 'C': 2}",Puckered
+3707,3707,"{'Rb': 4, 'F': 2}",Puckered
+3708,3708,"{'Sr': 2, 'Be': 2}",Puckered
+3709,3709,"{'Te': 2, 'As': 2}",Puckered
+3710,3710,"{'B': 3, 'Os': 2}",Puckered
+3711,3711,"{'K': 1, 'Br': 1}",Planar
+3712,3712,"{'Be': 3, 'Ge': 1}",Puckered
+3713,3713,"{'Ba': 3, 'P': 3}",Puckered
+3714,3714,"{'B': 1, 'Pd': 2}",Puckered
+3715,3715,"{'Ca': 2, 'Be': 2}",Puckered
+3716,3716,"{'Ba': 3, 'Ge': 1}",Puckered
+3717,3717,"{'Sm': 1, 'Si': 5}",Puckered
+3718,3718,"{'Si': 1, 'S': 2}",Puckered
+3719,3719,"{'Sc': 1, 'Ge': 5}",Puckered
+3720,3720,"{'Se': 2, 'O': 4}",Puckered
+3721,3721,"{'Be': 2, 'Sn': 4}",Puckered
+3722,3722,"{'Ag': 1, 'P': 2}",Puckered
+3723,3723,"{'Y': 1, 'Bi': 2}",Puckered
+3724,3724,"{'Rh': 1, 'O': 2}",Puckered
+3725,3725,"{'Hg': 1, 'As': 1}",Puckered
+3726,3726,"{'Sr': 2, 'Ce': 2}",Puckered
+3727,3727,"{'Cr': 2, 'H': 8}",Puckered
+3728,3728,"{'Na': 4, 'I': 2}",Puckered
+3729,3729,"{'Ga': 1, 'Pt': 2}",Puckered
+3730,3730,"{'Ba': 2, 'P': 4}",Puckered
+3731,3731,"{'Sr': 2, 'Sb': 4}",Puckered
+3732,3732,"{'Sr': 3, 'Pb': 1}",Puckered
+3733,3733,"{'K': 1, 'Sb': 3}",Puckered
+3734,3734,"{'As': 4, 'Se': 4}",Puckered
+3735,3735,"{'Be': 3, 'Si': 1}",Puckered
+3736,3736,"{'Ni': 3, 'Sb': 6}",Puckered
+3737,3737,"{'Ba': 2, 'C': 4}",Puckered
+3738,3738,"{'Sr': 2, 'As': 4}",Puckered
+3739,3739,"{'Pa': 2, 'N': 4}",Puckered
+3740,3740,"{'P': 4, 'C': 2}",Puckered
+3741,3741,"{'Ge': 1, 'Se': 2}",Puckered
+3742,3742,"{'Sr': 2, 'Mg': 2}",Puckered
+3743,3743,"{'Y': 1, 'S': 3}",Puckered
+3744,3744,"{'P': 6, 'Pt': 3}",Puckered
+3745,3745,"{'Sr': 3, 'N': 3}",Puckered
+3746,3746,"{'Be': 3, 'Sn': 1}",Puckered
+3747,3747,"{'Te': 4, 'C': 4}",Puckered
+3748,3748,"{'Zn': 1, 'P': 1}",Planar
+3749,3749,"{'Th': 1, 'Rh': 5}",Planar
+3750,3750,"{'Sb': 2, 'Te': 2}",Puckered
+3751,3751,"{'Sr': 3, 'Sb': 3}",Puckered
+3752,3752,"{'Be': 3, 'Pb': 1}",Puckered
+3753,3753,"{'C': 4, 'Se': 4}",Puckered
+3754,3754,"{'Tb': 1, 'Sn': 5}",Puckered
+3755,3755,"{'Ca': 3, 'Sb': 3}",Puckered
+3756,3756,"{'Ba': 2, 'Si': 4}",Puckered
+3757,3757,"{'Ba': 2, 'Ge': 4}",Puckered
+3758,3758,"{'Er': 1, 'P': 2}",Puckered
+3759,3759,"{'Ba': 3, 'C': 1}",Puckered
+3760,3760,"{'Rb': 1, 'F': 1}",Planar
+3761,3761,"{'Te': 4, 'P': 4}",Puckered
+3762,3762,"{'Te': 2, 'Ru': 2}",Puckered
+3763,3763,"{'Nd': 1, 'Si': 5}",Puckered
+3764,3764,"{'Mn': 2, 'As': 4}",Puckered
+3765,3765,"{'Eu': 3, 'Te': 3}",Puckered
+3766,3766,"{'Sc': 1, 'Te': 3}",Puckered
+3767,3767,"{'Co': 2, 'C': 4}",Puckered
+3768,3768,"{'Sn': 2, 'O': 1}",Puckered
+3769,3769,"{'Mn': 2, 'Sb': 4}",Puckered
+3770,3770,"{'Ba': 3, 'Sn': 1}",Puckered
+3771,3771,"{'Tb': 1, 'C': 2}",Puckered
+3772,3772,"{'Tb': 1, 'Pb': 2}",Puckered
+3773,3773,"{'Fe': 2, 'B': 3}",Puckered
+3774,3774,"{'Na': 1, 'C': 2}",Puckered
+3775,3775,"{'Sr': 4, 'Ce': 2}",Puckered
+3776,3776,"{'Ba': 3, 'Be': 3}",Puckered
+3777,3777,"{'Sr': 2, 'Ce': 1}",Puckered
+3778,3778,"{'Sr': 3, 'Mg': 3}",Puckered
+3779,3779,"{'Ca': 3, 'As': 3}",Puckered
+3780,3780,"{'Pt': 2, 'I': 4}",Puckered
+3781,3781,"{'Ba': 2, 'Sb': 4}",Puckered
+3782,3782,"{'Be': 3, 'Sb': 3}",Puckered
+3783,3783,"{'Sr': 3, 'Si': 1}",Puckered
+3784,3784,"{'Ca': 3, 'Sn': 1}",Puckered
+3785,3785,"{'K': 1, 'Bi': 3}",Puckered
+3786,3786,"{'Li': 1, 'C': 2}",Puckered
+3787,3787,"{'Sc': 1, 'Se': 3}",Puckered
+3788,3788,"{'Na': 1, 'N': 3}",Puckered
+3789,3789,"{'Ba': 5, 'Ce': 1}",Puckered
+3790,3790,"{'Ga': 2, 'S': 3}",Puckered
+3791,3791,"{'Sr': 5, 'Ce': 1}",Puckered
+3792,3792,"{'Ca': 2, 'Ge': 4}",Puckered
+3793,3793,"{'Ca': 8, 'Sn': 4}",Puckered
+3794,3794,"{'Be': 8, 'Ge': 4}",Puckered
+3795,3795,"{'Te': 2, 'C': 1}",Puckered
+3796,3796,"{'Ag': 1, 'N': 2}",Puckered
+3797,3797,"{'U': 2, 'C': 4}",Puckered
+3798,3798,"{'Rb': 1, 'Cl': 1}",Planar
+3799,3799,"{'Sr': 8, 'Ge': 4}",Puckered
+3800,3800,"{'Y': 1, 'Ge': 5}",Puckered
+3801,3801,"{'U': 2, 'Si': 4}",Puckered
+3802,3802,"{'Hg': 1, 'S': 1}",Puckered
+3803,3803,"{'Bi': 4, 'Te': 4}",Puckered
+3804,3804,"{'Pt': 2, 'S': 2}",Puckered
+3805,3805,"{'Pt': 2, 'Se': 2}",Puckered
+3806,3806,"{'Pt': 2, 'S': 2}",Puckered
+3807,3807,"{'Pt': 2, 'Se': 2}",Puckered
+3808,3808,{'C': 16},Planar
+3809,3809,{'C': 4},Planar
+3810,3810,{'C': 6},Planar
+3811,3811,{'C': 8},Planar
+3812,3812,{'C': 8},Planar
+3813,3813,"{'C': 12, 'Ga': 2}",Planar
+3814,3814,"{'C': 12, 'Al': 2}",Planar
+3815,3815,{'C': 32},Planar
+3816,3816,"{'C': 12, 'B': 2}",Planar
+3817,3817,"{'C': 6, 'Ga': 2}",Planar
+3818,3818,{'C': 12},Planar
+3819,3819,"{'C': 6, 'Al': 2}",Planar
+3820,3820,"{'C': 6, 'B': 2}",Planar
+3821,3821,{'C': 2},Planar
+3822,3822,{'C': 8},Planar
+3823,3823,"{'C': 12, 'Al': 2}",Planar
+3824,3824,"{'C': 18, 'N': 8}",Planar
+3825,3825,"{'C': 8, 'N': 2}",Planar
+3826,3826,{'C': 20},Planar
+3827,3827,"{'C': 6, 'B': 1, 'N': 1}",Planar
+3828,3828,{'B': 5},Planar
+3829,3829,{'C': 14},Planar
+3830,3830,{'C': 12},Planar
+3831,3831,"{'C': 24, 'H': 6, 'Ag': 3}",Planar
+3832,3832,"{'C': 12, 'As': 6}",Planar
+3833,3833,{'C': 6},Planar
+3834,3834,"{'C': 7, 'N': 6}",Planar
+3835,3835,"{'Al': 1, 'Bi': 1}",Planar
+3836,3836,"{'Ga': 1, 'Sb': 1}",Planar
+3837,3837,{'C': 33},Planar
+3838,3838,{'C': 36},Planar
+3839,3839,{'C': 32},Planar
+3840,3840,{'C': 20},Planar
+3841,3841,"{'Al': 1, 'P': 1}",Planar
+3842,3842,"{'C': 4, 'N': 4, 'B': 4}",Planar
+3843,3843,{'C': 16},Planar
+3844,3844,"{'In': 1, 'Sb': 1}",Planar
+3845,3845,"{'Ga': 1, 'As': 1}",Planar
+3846,3846,"{'C': 6, 'N': 2}",Planar
+3847,3847,"{'C': 6, 'N': 6, 'B': 1}",Planar
+3848,3848,{'C': 24},Planar
+3849,3849,"{'C': 24, 'H': 6}",Planar
+3850,3850,{'C': 20},Planar
+3851,3851,"{'C': 6, 'B': 2}",Planar
+3852,3852,"{'C': 18, 'N': 6, 'Au': 3}",Planar
+3853,3853,{'B': 8},Planar
+3854,3854,{'C': 14},Planar
+3855,3855,"{'B': 1, 'Sb': 1}",Planar
+3856,3856,"{'B': 1, 'N': 1}",Planar
+3857,3857,"{'C': 16, 'N': 16, 'B': 16}",Planar
+3858,3858,"{'C': 18, 'P': 6}",Planar
+3859,3859,"{'C': 24, 'P': 4}",Planar
+3860,3860,"{'C': 9, 'N': 4}",Planar
+3861,3861,"{'C': 16, 'As': 4}",Planar
+3862,3862,{'C': 24},Planar
+3863,3863,{'B': 20},Planar
+3864,3864,"{'Al': 1, 'Sb': 1}",Planar
+3865,3865,"{'C': 14, 'N': 12}",Planar
+3866,3866,"{'C': 12, 'N': 6}",Planar
+3867,3867,{'C': 10},Planar
+3868,3868,{'C': 18},Planar
+3869,3869,{'C': 20},Planar
+3870,3870,"{'C': 12, 'N': 2}",Planar
+3871,3871,{'C': 20},Planar
+3872,3872,{'B': 8},Planar
+3873,3873,"{'C': 18, 'N': 6}",Planar
+3874,3874,"{'C': 18, 'As': 6}",Planar
+3875,3875,{'C': 20},Planar
+3876,3876,{'C': 8},Planar
+3877,3877,"{'C': 20, 'N': 4, 'B': 2}",Planar
+3878,3878,"{'Al': 1, 'N': 1}",Planar
+3879,3879,{'C': 29},Planar
+3880,3880,{'C': 12},Planar
+3881,3881,{'C': 8},Planar
+3882,3882,"{'C': 12, 'N': 6}",Planar
+3883,3883,{'C': 12},Planar
+3884,3884,"{'C': 22, 'Al': 2}",Planar
+3885,3885,{'C': 20},Planar
+3886,3886,{'C': 20},Planar
+3887,3887,"{'C': 16, 'P': 4}",Planar
+3888,3888,{'C': 30},Planar
+3889,3889,"{'C': 24, 'As': 4}",Planar
+3890,3890,"{'B': 2, 'N': 2}",Planar
+3891,3891,"{'Al': 1, 'As': 1}",Planar
+3892,3892,{'C': 10},Planar
+3893,3893,"{'C': 8, 'N': 2}",Planar
+3894,3894,{'C': 30},Planar
+3895,3895,"{'In': 1, 'P': 1}",Planar
+3896,3896,"{'Ga': 1, 'P': 1}",Planar
+3897,3897,"{'B': 1, 'As': 1}",Planar
+3898,3898,{'C': 6},Planar
+3899,3899,{'C': 16},Planar
+3900,3900,"{'C': 12, 'P': 6}",Planar
+3901,3901,{'C': 12},Planar
+3902,3902,"{'B': 1, 'P': 1}",Planar
+3903,3903,"{'C': 18, 'N': 6, 'Ag': 3}",Planar
+3904,3904,{'C': 12},Planar
+3905,3905,"{'N': 1, 'Ga': 1}",Planar
+3906,3906,{'C': 12},Planar
+3907,3907,"{'C': 22, 'B': 2}",Planar
+3908,3908,{'C': 12},Planar
+3909,3909,{'C': 16},Planar
+3910,3910,"{'C': 36, 'N': 6}",Planar
+3911,3911,{'C': 8},Planar
+3912,3912,{'C': 18},Planar
+3913,3913,{'C': 5},Planar
+3914,3914,"{'C': 12, 'N': 8}",Planar
+3915,3915,"{'In': 1, 'Bi': 1}",Planar
+3916,3916,"{'C': 24, 'N': 4}",Planar
+3917,3917,"{'C': 6, 'B': 1, 'N': 1}",Planar
+3918,3918,{'C': 18},Planar
+3919,3919,{'C': 12},Planar
+3920,3920,"{'In': 1, 'As': 1}",Planar
+3921,3921,{'C': 21},Planar
+3922,3922,"{'B': 1, 'Bi': 1}",Planar
+3923,3923,{'C': 24},Planar
+3924,3924,{'C': 36},Planar
+3925,3925,{'C': 10},Planar
+3926,3926,{'C': 20},Planar
+3927,3927,{'C': 10},Planar
+3928,3928,"{'C': 16, 'N': 4}",Planar
+3929,3929,"{'C': 14, 'N': 18}",Planar
+3930,3930,"{'C': 10, 'N': 3}",Planar
+3931,3931,"{'Ge': 1, 'Bi': 1}",Planar
+3932,3932,"{'In': 1, 'N': 1}",Planar
+3933,3933,{'C': 18},Planar
+3934,3934,{'C': 10},Planar
+3935,3935,"{'C': 12, 'N': 20}",Planar
+3936,3936,{'C': 36},Planar
+3937,3937,"{'C': 22, 'Ga': 2}",Planar
+3938,3938,"{'C': 12, 'B': 2}",Planar
+3939,3939,{'C': 8},Planar
+3940,3940,"{'C': 4, 'N': 3}",Planar
+3941,3941,"{'C': 20, 'N': 4, 'B': 2}",Planar
+3942,3942,{'C': 22},Planar
+3943,3943,"{'C': 6, 'N': 6}",Planar
+3944,3944,"{'C': 6, 'N': 1, 'B': 1}",Planar
+3945,3945,{'C': 10},Planar
+3946,3946,{'C': 28},Planar
+3947,3947,"{'C': 3, 'N': 4}",Planar
+3948,3948,{'C': 36},Planar
+3949,3949,"{'Ga': 1, 'Bi': 1}",Planar
+3950,3950,{'C': 12},Planar
+3951,3951,{'C': 5},Planar
+3952,3952,"{'C': 12, 'Ga': 2}",Planar
+3953,3953,{'C': 36},Planar
+3954,3954,{'C': 20},Planar
+3955,3955,{'C': 12},Planar
+3956,3956,{'C': 12},Planar
+3957,3957,"{'P': 2, 'B': 2, 'N': 2}",Planar
+3958,3958,{'C': 5},Planar
+3959,3959,"{'C': 10, 'N': 9}",Planar
+3960,3960,{'C': 12},Planar
+3961,3961,{'C': 38},Planar
+3962,3962,{'C': 36},Planar
+3963,3963,{'Mo': 2},Puckered
+3964,3964,{'B': 14},Puckered
+3965,3965,{'Si': 2},Puckered
+3966,3966,"{'Sn': 1, 'N': 1}",Puckered
+3967,3967,{'Ge': 2},Puckered
+3968,3968,{'Sn': 2},Puckered
+3969,3969,"{'Pb': 1, 'N': 1}",Puckered
+3970,3970,"{'C': 1, 'P': 1}",Puckered
+3971,3971,"{'Ge': 2, 'N': 2}",Puckered
+3972,3972,"{'Ge': 2, 'N': 2}",Puckered
+3973,3973,"{'C': 1, 'As': 1}",Puckered
+3974,3974,"{'Ge': 1, 'N': 1}",Puckered
+3975,3975,"{'C': 1, 'Bi': 1}",Puckered
+3976,3976,"{'C': 1, 'Sb': 1}",Puckered
+3977,3977,{'C': 18},Puckered
+3978,3978,"{'Si': 1, 'P': 1}",Puckered
+3979,3979,"{'Ge': 1, 'P': 1}",Puckered
+3980,3980,"{'Si': 1, 'As': 1}",Puckered
+3981,3981,"{'Si': 2, 'P': 2}",Puckered
+3982,3982,"{'Si': 1, 'Sb': 1}",Puckered
+3983,3983,"{'Si': 2, 'P': 2}",Puckered
+3984,3984,"{'Ge': 1, 'As': 1}",Puckered
+3985,3985,"{'Pb': 1, 'P': 1}",Puckered
+3986,3986,"{'Sn': 1, 'P': 1}",Puckered
+3987,3987,"{'Ga': 2, 'S': 2}",Puckered
+3988,3988,"{'As': 4, 'Se': 6}",Puckered
+3989,3989,"{'Ge': 2, 'P': 2}",Puckered
+3990,3990,"{'Ge': 1, 'Sb': 1}",Puckered
+3991,3991,"{'Si': 1, 'Bi': 1}",Puckered
+3992,3992,"{'Ge': 2, 'P': 2}",Puckered
+3993,3993,"{'Si': 2, 'As': 2}",Puckered
+3994,3994,"{'Pb': 1, 'As': 1}",Puckered
+3995,3995,"{'C': 2, 'P': 2}",Puckered
+3996,3996,"{'Sn': 1, 'As': 1}",Puckered
+3997,3997,"{'Si': 2, 'As': 2}",Puckered
+3998,3998,"{'C': 2, 'P': 2}",Puckered
+3999,3999,"{'Pb': 2, 'P': 2}",Puckered
+4000,4000,"{'Sn': 2, 'P': 2}",Puckered
+4001,4001,"{'Pb': 2, 'P': 2}",Puckered
+4002,4002,"{'Pb': 1, 'Bi': 1}",Puckered
+4003,4003,"{'Ge': 2, 'As': 2}",Puckered
+4004,4004,"{'Sn': 2, 'P': 2}",Puckered
+4005,4005,"{'Si': 2, 'Sb': 2}",Puckered
+4006,4006,"{'Ge': 2, 'As': 2}",Puckered
+4007,4007,"{'C': 2, 'As': 2}",Puckered
+4008,4008,"{'Si': 2, 'Sb': 2}",Puckered
+4009,4009,{'Sb': 4},Puckered
+4010,4010,"{'Ga': 2, 'Se': 2}",Puckered
+4011,4011,"{'N': 6, 'B': 6, 'C': 12}",Puckered
+4012,4012,{'C': 16},Puckered
+4013,4013,"{'Ge': 2, 'Sb': 2}",Puckered
+4014,4014,"{'Si': 2, 'Bi': 2}",Puckered
+4015,4015,"{'C': 2, 'As': 2}",Puckered
+4016,4016,"{'C': 12, 'B': 6, 'N': 6}",Puckered
+4017,4017,"{'Ge': 2, 'Sb': 2}",Puckered
+4018,4018,"{'Si': 2, 'Bi': 2}",Puckered
+4019,4019,"{'Ge': 2, 'Bi': 2}",Puckered
+4020,4020,{'C': 6},Puckered
+4021,4021,{'P': 4},Puckered
+4022,4022,"{'Pb': 2, 'As': 2}",Puckered
+4023,4023,"{'Sn': 2, 'As': 2}",Puckered
+4024,4024,"{'Ge': 2, 'Bi': 2}",Puckered
+4025,4025,"{'Pb': 2, 'As': 2}",Puckered
+4026,4026,"{'Sn': 2, 'As': 2}",Puckered
+4027,4027,"{'C': 8, 'N': 2}",Puckered
+4028,4028,"{'C': 8, 'N': 2}",Puckered
+4029,4029,"{'Sn': 2, 'Sb': 2}",Puckered
+4030,4030,"{'Sn': 2, 'Sb': 2}",Puckered
+4031,4031,"{'In': 2, 'Se': 2}",Puckered
+4032,4032,"{'N': 6, 'B': 6, 'C': 12}",Puckered
+4033,4033,"{'Sn': 2, 'Bi': 2}",Puckered
+4034,4034,"{'In': 2, 'S': 2}",Puckered
+4035,4035,"{'Sn': 2, 'Bi': 2}",Puckered
+4036,4036,"{'W': 1, 'Te': 2}",Puckered
+4037,4037,"{'Mo': 1, 'Se': 2}",Puckered
+4038,4038,"{'W': 1, 'Se': 2}",Puckered
+4039,4039,"{'Pb': 2, 'Sb': 2}",Puckered
+4040,4040,"{'C': 12, 'N': 6, 'B': 6}",Puckered
+4041,4041,"{'W': 1, 'S': 2}",Puckered
+4042,4042,"{'Mo': 1, 'Te': 2}",Puckered
+4043,4043,"{'Mo': 1, 'S': 2}",Puckered
+4044,4044,"{'P': 6, 'Sn': 2}",Puckered
+4045,4045,"{'Sn': 1, 'Sb': 1}",Puckered
+4046,4046,"{'Pb': 1, 'Sb': 1}",Puckered
+4047,4047,{'P': 2},Puckered
+4048,4048,{'P': 12},Puckered
+4049,4049,"{'Ca': 2, 'As': 6}",Puckered
+4050,4050,"{'Si': 4, 'P': 8}",Puckered
+4051,4051,{'P': 6},Puckered
+4052,4052,"{'Si': 2, 'P': 4}",Puckered
+4053,4053,"{'I': 2, 'Cu': 2, 'Te': 4}",Puckered
+4054,4054,"{'Ca': 2, 'P': 6}",Puckered
+4055,4055,"{'C': 2, 'Sb': 2}",Puckered
+4056,4056,{'P': 12},Puckered
+4057,4057,"{'Pb': 2, 'Bi': 2}",Puckered
+4058,4058,"{'Br': 2, 'Cu': 2, 'Te': 4}",Puckered
+4059,4059,{'P': 12},Puckered
+4060,4060,"{'Pb': 2, 'Sb': 2}",Puckered
+4061,4061,"{'Pb': 2, 'Bi': 2}",Puckered
+4062,4062,"{'Ba': 2, 'As': 6}",Puckered
+4063,4063,"{'C': 2, 'Bi': 2}",Puckered
+4064,4064,"{'Sn': 2, 'N': 2}",Puckered
+4065,4065,"{'Pb': 2, 'N': 2}",Puckered
+4066,4066,"{'Pb': 2, 'N': 2}",Puckered
+4067,4067,"{'Sn': 2, 'N': 2}",Puckered
+4068,4068,"{'Sn': 1, 'Bi': 1}",Puckered
+4069,4069,"{'C': 2, 'Sb': 2}",Puckered
+4070,4070,"{'Ba': 2, 'P': 6}",Puckered
+4071,4071,"{'C': 2, 'Bi': 2}",Puckered
